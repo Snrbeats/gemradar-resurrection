@@ -127,7 +127,7 @@ function trackCard(t,{showGem=true, listContext=null}={}){
     <img src="${img}" onerror="this.style.opacity=.2"/>
     ${hasCoin ? `
       <div class="coin-group">
-        <a href="https://jup.ag/swap/SOL-${mint}" target="_blank" class="coin-badge" title="Swap on Jupiter">$${ticker}</a>
+        <a href="https://jup.ag/tokens/${mint}" target="_blank" class="coin-badge" title="View $${ticker} on Jupiter">$${ticker}</a>
         <a href="https://solscan.io/token/${mint}" target="_blank" class="scan-link" title="View on Solscan">🔍</a>
       </div>` : ''}
     <h4>${t.title||'Untitled'}</h4>
