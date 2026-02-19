@@ -83,16 +83,16 @@
       "480x480": "https://audius-02.staked.cloud/content/baeaaaiqsedfm4bkpq5l2hk5rqy2agkqllrz4htyzg2i4zrsicsdhdvtau57es/480x480.jpg",
       "1000x1000": "https://audius-02.staked.cloud/content/baeaaaiqsedfm4bkpq5l2hk5rqy2agkqllrz4htyzg2i4zrsicsdhdvtau57es/1000x1000.jpg",
       "mirrors": [
-        "https://audius-content-6.figment.io",
         "https://audius-creator-11.theblueprint.xyz",
+        "https://audius-content-6.figment.io",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-8.figment.io/tracks/cidstream/baeaaaiqsebpqzwg2j55vvtuea426ju3e5gow6qhcvbvpek2fx6ktwxrjdjvbm?id3=true&id3_artist=Tony+Metric&id3_title=Gordo+-+Loco+Loco+%28Tony+Metric+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebpqzwg2j55vvtuea426ju3e5gow6qhcvbvpek2fx6ktwxrjdjvbm%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A2019685396%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x219b29c190c370729089816db79cb54d04fda7794cd756d561290eb1dbdbf3fd39ab20c10c75aa54eebb4f2ee1802b28ae00482a47aac0b6bded6c76129f5ee001%22%7D",
+      "url": "https://creatornode2.audius.co/tracks/cidstream/baeaaaiqsebpqzwg2j55vvtuea426ju3e5gow6qhcvbvpek2fx6ktwxrjdjvbm?id3=true&id3_artist=Tony+Metric&id3_title=Gordo+-+Loco+Loco+%28Tony+Metric+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebpqzwg2j55vvtuea426ju3e5gow6qhcvbvpek2fx6ktwxrjdjvbm%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A2019685396%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x49dd1702d156bb497cba27926c0e5d4753862113b028a9d5365e82e84f0f816c2be9ee8dc4ba0db0a453832ca7c43ff82cf811493b421cb5c5c227fbfb57df3c00%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://creatornode2.audius.co",
+        "https://audius-content-8.figment.io",
         "https://audius-content-11.figment.io"
       ]
     },
@@ -146,12 +146,12 @@
       "payout_wallet": "27K3BwmwLnGi7RwY6BowBowTnzJ6z9HUxQkpnSuvYzJy",
       "playlist_count": 1,
       "profile_picture": {
-        "1000x1000": "https://audius-content-3.cultur3stake.com/content/01JMAHCRZ4HNZ3KMRMFV8PJF8B/1000x1000.jpg",
-        "150x150": "https://audius-content-3.cultur3stake.com/content/01JMAHCRZ4HNZ3KMRMFV8PJF8B/150x150.jpg",
-        "480x480": "https://audius-content-3.cultur3stake.com/content/01JMAHCRZ4HNZ3KMRMFV8PJF8B/480x480.jpg",
+        "1000x1000": "https://audius-content-3.figment.io/content/01JMAHCRZ4HNZ3KMRMFV8PJF8B/1000x1000.jpg",
+        "150x150": "https://audius-content-3.figment.io/content/01JMAHCRZ4HNZ3KMRMFV8PJF8B/150x150.jpg",
+        "480x480": "https://audius-content-3.figment.io/content/01JMAHCRZ4HNZ3KMRMFV8PJF8B/480x480.jpg",
         "mirrors": [
+          "https://audius-content-3.cultur3stake.com",
           "https://audius-discovery-3.altego.net",
-          "https://audius-content-3.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -193,7 +193,7 @@
     "gemMetrics": {
       "score": 84,
       "engagement": 88.77551020408163,
-      "freshness": 88.16311475694445,
+      "freshness": 88.11689746527777,
       "underdog": 64.88250288655017,
       "plays": 98,
       "followers": 57
@@ -282,21 +282,21 @@
     "permalink": "/Aurelios/childish-gambino-redbone-aurelios-remix",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://v.monophonic.digital/content/baeaaaiqseddi4654qiuiwku6ujhcdklz4pt4ondumrvzdhdmqjl5foqqwmfmw/150x150.jpg",
-      "480x480": "https://v.monophonic.digital/content/baeaaaiqseddi4654qiuiwku6ujhcdklz4pt4ondumrvzdhdmqjl5foqqwmfmw/480x480.jpg",
-      "1000x1000": "https://v.monophonic.digital/content/baeaaaiqseddi4654qiuiwku6ujhcdklz4pt4ondumrvzdhdmqjl5foqqwmfmw/1000x1000.jpg",
+      "150x150": "https://audius-content-7.cultur3stake.com/content/baeaaaiqseddi4654qiuiwku6ujhcdklz4pt4ondumrvzdhdmqjl5foqqwmfmw/150x150.jpg",
+      "480x480": "https://audius-content-7.cultur3stake.com/content/baeaaaiqseddi4654qiuiwku6ujhcdklz4pt4ondumrvzdhdmqjl5foqqwmfmw/480x480.jpg",
+      "1000x1000": "https://audius-content-7.cultur3stake.com/content/baeaaaiqseddi4654qiuiwku6ujhcdklz4pt4ondumrvzdhdmqjl5foqqwmfmw/1000x1000.jpg",
       "mirrors": [
+        "https://v.monophonic.digital",
         "https://validator.stuffisup.com",
-        "https://audius-content-7.cultur3stake.com",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-creator-7.theblueprint.xyz/tracks/cidstream/baeaaaiqsea2i6c4eqt7hapwpqccjpycwpldqx2x3hexz4nal7boerd3ma4qa4?id3=true&id3_artist=Aurelios&id3_title=Childish+Gambino+-+Redbone+%28Aurelios+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsea2i6c4eqt7hapwpqccjpycwpldqx2x3hexz4nal7boerd3ma4qa4%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A23067955%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x664641dc29a85a4311cc38255a497f2f560801725989f6c4d6684ecd8000b6fe0126212269f555ad3ed8b92b04ff2b089142aa007741c65b2a7382042ac53fca00%22%7D",
+      "url": "https://audius-creator-7.theblueprint.xyz/tracks/cidstream/baeaaaiqsea2i6c4eqt7hapwpqccjpycwpldqx2x3hexz4nal7boerd3ma4qa4?id3=true&id3_artist=Aurelios&id3_title=Childish+Gambino+-+Redbone+%28Aurelios+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsea2i6c4eqt7hapwpqccjpycwpldqx2x3hexz4nal7boerd3ma4qa4%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A23067955%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xdd128c5c9116b951e1dd67e162c8867c40e78d0e6b103d459060f2ac173851613ac8a80c573851a6df1d05ba7bbb4d55dd2bf45eceacd2f718b200e1ebc1cb6f00%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-7.figment.io",
-        "https://audius-standardvc-1-validator-3.figment.io"
+        "https://audius-standardvc-1-validator-3.figment.io",
+        "https://audius-content-7.figment.io"
       ]
     },
     "download": null,
@@ -314,11 +314,11 @@
       "blocknumber": 98566857,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-content-13.cultur3stake.com/content/01JVPC2XQTPCCP4G5ZKSS0VZFK/2000x.jpg",
-        "640x": "https://audius-content-13.cultur3stake.com/content/01JVPC2XQTPCCP4G5ZKSS0VZFK/640x.jpg",
+        "2000x": "https://audius-creator-4.theblueprint.xyz/content/01JVPC2XQTPCCP4G5ZKSS0VZFK/2000x.jpg",
+        "640x": "https://audius-creator-4.theblueprint.xyz/content/01JVPC2XQTPCCP4G5ZKSS0VZFK/640x.jpg",
         "mirrors": [
-          "https://audius-creator-4.theblueprint.xyz",
           "https://audius-discovery-8.cultur3stake.com",
+          "https://audius-content-13.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -349,12 +349,12 @@
       "payout_wallet": "",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-discovery-8.cultur3stake.com/content/01JW283Y68A6VKNETRSXYGD24Y/1000x1000.jpg",
-        "150x150": "https://audius-discovery-8.cultur3stake.com/content/01JW283Y68A6VKNETRSXYGD24Y/150x150.jpg",
-        "480x480": "https://audius-discovery-8.cultur3stake.com/content/01JW283Y68A6VKNETRSXYGD24Y/480x480.jpg",
+        "1000x1000": "https://v.monophonic.digital/content/01JW283Y68A6VKNETRSXYGD24Y/1000x1000.jpg",
+        "150x150": "https://v.monophonic.digital/content/01JW283Y68A6VKNETRSXYGD24Y/150x150.jpg",
+        "480x480": "https://v.monophonic.digital/content/01JW283Y68A6VKNETRSXYGD24Y/480x480.jpg",
         "mirrors": [
-          "https://v.monophonic.digital",
           "https://audius-discovery-4.cultur3stake.com",
+          "https://audius-discovery-8.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -396,7 +396,7 @@
     "gemMetrics": {
       "score": 84,
       "engagement": 100,
-      "freshness": 90.04498975694445,
+      "freshness": 89.99877246527778,
       "underdog": 40.16661985240103,
       "plays": 84,
       "followers": 981
@@ -415,7 +415,7 @@
     "is_original_available": false,
     "mood": "Sensual",
     "release_date": "2026-02-17T21:43:07Z",
-    "repost_count": 33,
+    "repost_count": 34,
     "favorite_count": 41,
     "comment_count": 7,
     "tags": "rnb,lofsky,toronto",
@@ -423,7 +423,7 @@
     "slug": "south-american-hybrid",
     "duration": 170,
     "is_downloadable": false,
-    "play_count": 102,
+    "play_count": 103,
     "ddex_app": "",
     "pinned_comment_id": null,
     "playlists_containing_track": [],
@@ -481,21 +481,21 @@
     "permalink": "/Lofskywashere/south-american-hybrid",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-discovery-8.cultur3stake.com/content/baeaaaiqsec4vuq2zj4tqhywd4uzl3zezszo5e2ov6u24n5p6f2lp2vycre55a/150x150.jpg",
-      "480x480": "https://audius-discovery-8.cultur3stake.com/content/baeaaaiqsec4vuq2zj4tqhywd4uzl3zezszo5e2ov6u24n5p6f2lp2vycre55a/480x480.jpg",
-      "1000x1000": "https://audius-discovery-8.cultur3stake.com/content/baeaaaiqsec4vuq2zj4tqhywd4uzl3zezszo5e2ov6u24n5p6f2lp2vycre55a/1000x1000.jpg",
+      "150x150": "https://audius-01.staked.cloud/content/baeaaaiqsec4vuq2zj4tqhywd4uzl3zezszo5e2ov6u24n5p6f2lp2vycre55a/150x150.jpg",
+      "480x480": "https://audius-01.staked.cloud/content/baeaaaiqsec4vuq2zj4tqhywd4uzl3zezszo5e2ov6u24n5p6f2lp2vycre55a/480x480.jpg",
+      "1000x1000": "https://audius-01.staked.cloud/content/baeaaaiqsec4vuq2zj4tqhywd4uzl3zezszo5e2ov6u24n5p6f2lp2vycre55a/1000x1000.jpg",
       "mirrors": [
-        "https://audius-01.staked.cloud",
+        "https://audius-discovery-8.cultur3stake.com",
         "https://validator.stuffisup.com",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-13.figment.io/tracks/cidstream/baeaaaiqseb4ita2xssar2vpcq36thohfw7blfapqp3amb4obs6vptbpv4ge5y?id3=true&id3_artist=%F0%9D%94%8F%F0%9D%94%AC%F0%9D%94%A3%F0%9D%94%B0%F0%9D%94%A8%F0%9D%94%B6&id3_title=south+american+hybrid+&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseb4ita2xssar2vpcq36thohfw7blfapqp3amb4obs6vptbpv4ge5y%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1005172219%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xc5d73925bbe0268f8aa0a26f86e8d472625f4c28404091f8768dd59ce6c417986965a2c8dee8e024b340362d15fab4107b9732fe06ac391359a2fdba9e02b51600%22%7D",
+      "url": "https://creatornode.audius.co/tracks/cidstream/baeaaaiqseb4ita2xssar2vpcq36thohfw7blfapqp3amb4obs6vptbpv4ge5y?id3=true&id3_artist=%F0%9D%94%8F%F0%9D%94%AC%F0%9D%94%A3%F0%9D%94%B0%F0%9D%94%A8%F0%9D%94%B6&id3_title=south+american+hybrid+&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseb4ita2xssar2vpcq36thohfw7blfapqp3amb4obs6vptbpv4ge5y%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1005172219%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xc06d094d91b9aa86dcb52e0c5348cd7a71271ace73f42fe7513479bcd0aa216628bc54a5928d68cf01f506ab32792d60cb094855618b7437b36243d74e9f1abd00%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-discovery-3.cultur3stake.com",
-        "https://creatornode.audius.co"
+        "https://audius-content-13.figment.io",
+        "https://audius-discovery-3.cultur3stake.com"
       ]
     },
     "download": null,
@@ -548,11 +548,11 @@
       "payout_wallet": "",
       "playlist_count": 1,
       "profile_picture": {
-        "1000x1000": "https://audius-content-5.cultur3stake.com/content/QmXNBY8EtoHoP66vKwyWZTmbni4UcyCbSvSHh1tyBw7afm/1000x1000.jpg",
-        "150x150": "https://audius-content-5.cultur3stake.com/content/QmXNBY8EtoHoP66vKwyWZTmbni4UcyCbSvSHh1tyBw7afm/150x150.jpg",
-        "480x480": "https://audius-content-5.cultur3stake.com/content/QmXNBY8EtoHoP66vKwyWZTmbni4UcyCbSvSHh1tyBw7afm/480x480.jpg",
+        "1000x1000": "https://audius-creator-7.theblueprint.xyz/content/QmXNBY8EtoHoP66vKwyWZTmbni4UcyCbSvSHh1tyBw7afm/1000x1000.jpg",
+        "150x150": "https://audius-creator-7.theblueprint.xyz/content/QmXNBY8EtoHoP66vKwyWZTmbni4UcyCbSvSHh1tyBw7afm/150x150.jpg",
+        "480x480": "https://audius-creator-7.theblueprint.xyz/content/QmXNBY8EtoHoP66vKwyWZTmbni4UcyCbSvSHh1tyBw7afm/480x480.jpg",
         "mirrors": [
-          "https://audius-creator-7.theblueprint.xyz",
+          "https://audius-content-5.cultur3stake.com",
           "https://audius-content-6.figment.io",
           "https://creatornode2.audius.co"
         ]
@@ -594,10 +594,10 @@
     "download_conditions": null,
     "gemMetrics": {
       "score": 87,
-      "engagement": 88.72549019607843,
-      "freshness": 94.33738559027778,
+      "engagement": 89.32038834951457,
+      "freshness": 94.29116829861111,
       "underdog": 69.3704216591549,
-      "plays": 102,
+      "plays": 103,
       "followers": 34
     },
     "gemReason": "High engagement on relatively low-play track"
@@ -686,21 +686,21 @@
     "permalink": "/RestNPiecez/mph-raw-rest-n-piecez-remix",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-05.staked.cloud/content/baeaaaiqsecricha3gg6mcnkuwbncubujvz5tjauu54cp4zmmped5eppvp427e/150x150.jpg",
-      "480x480": "https://audius-05.staked.cloud/content/baeaaaiqsecricha3gg6mcnkuwbncubujvz5tjauu54cp4zmmped5eppvp427e/480x480.jpg",
-      "1000x1000": "https://audius-05.staked.cloud/content/baeaaaiqsecricha3gg6mcnkuwbncubujvz5tjauu54cp4zmmped5eppvp427e/1000x1000.jpg",
+      "150x150": "https://audius-content-9.figment.io/content/baeaaaiqsecricha3gg6mcnkuwbncubujvz5tjauu54cp4zmmped5eppvp427e/150x150.jpg",
+      "480x480": "https://audius-content-9.figment.io/content/baeaaaiqsecricha3gg6mcnkuwbncubujvz5tjauu54cp4zmmped5eppvp427e/480x480.jpg",
+      "1000x1000": "https://audius-content-9.figment.io/content/baeaaaiqsecricha3gg6mcnkuwbncubujvz5tjauu54cp4zmmped5eppvp427e/1000x1000.jpg",
       "mirrors": [
-        "https://audius-content-9.figment.io",
+        "https://audius-05.staked.cloud",
         "https://audius-creator-3.theblueprint.xyz",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-1.cultur3stake.com/tracks/cidstream/baeaaaiqseblw7yuv4cvlfzb4b3hpklri3jk6swxqwicl5bei6ha7apm25dg2g?id3=true&id3_artist=Rest+N+Piecez&id3_title=MPH+-+Raw+%28Rest+N+Piecez+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseblw7yuv4cvlfzb4b3hpklri3jk6swxqwicl5bei6ha7apm25dg2g%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A715784337%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xc815b39f512c85ed570e69b9036ecb281f6b0d5ef9e02e037526195754d67f5c041e9115c67abbada5574cf5a38ea156db00e0700305e80563f23f7782f34ca001%22%7D",
+      "url": "https://creatornode2.audius.co/tracks/cidstream/baeaaaiqseblw7yuv4cvlfzb4b3hpklri3jk6swxqwicl5bei6ha7apm25dg2g?id3=true&id3_artist=Rest+N+Piecez&id3_title=MPH+-+Raw+%28Rest+N+Piecez+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseblw7yuv4cvlfzb4b3hpklri3jk6swxqwicl5bei6ha7apm25dg2g%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A715784337%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x20e786f7297ad221af3e5b01fb9e1b8e53a28f8d448ef5538d715ff13fe226d96e1c44eb4367299433e6c06badfe6b7b52048e30f7b012868ffa4d0c4ccd301100%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-11.figment.io",
-        "https://creatornode2.audius.co"
+        "https://audius-content-1.cultur3stake.com",
+        "https://audius-content-11.figment.io"
       ]
     },
     "download": null,
@@ -721,8 +721,8 @@
         "2000x": "https://cn1.shakespearetech.com/content/baeaaaiqseasimrqwmsdo7wxehohl72lshyamf735b5dc3dtzinhl2pig6h5ao/2000x.jpg",
         "640x": "https://cn1.shakespearetech.com/content/baeaaaiqseasimrqwmsdo7wxehohl72lshyamf735b5dc3dtzinhl2pig6h5ao/640x.jpg",
         "mirrors": [
-          "https://audius-content-11.figment.io",
           "https://audius-creator-1.theblueprint.xyz",
+          "https://audius-content-11.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -757,8 +757,8 @@
         "150x150": "https://audius-creator-13.theblueprint.xyz/content/baeaaaiqsearusea2q6ovuq3446wfnrsa6jtvfzk6xepnzczcpw25whggycxzy/150x150.jpg",
         "480x480": "https://audius-creator-13.theblueprint.xyz/content/baeaaaiqsearusea2q6ovuq3446wfnrsa6jtvfzk6xepnzczcpw25whggycxzy/480x480.jpg",
         "mirrors": [
-          "https://audius-discovery-1.cultur3stake.com",
           "https://audius-content-5.figment.io",
+          "https://audius-discovery-1.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -800,7 +800,7 @@
     "gemMetrics": {
       "score": 88,
       "engagement": 100,
-      "freshness": 78.3242953125,
+      "freshness": 78.27807802083333,
       "underdog": 83.09803919971486,
       "plays": 73,
       "followers": 7
@@ -827,7 +827,7 @@
     "slug": "cloubee-nomad",
     "duration": 159,
     "is_downloadable": false,
-    "play_count": 88,
+    "play_count": 89,
     "ddex_app": "",
     "pinned_comment_id": null,
     "playlists_containing_track": [],
@@ -885,20 +885,20 @@
     "permalink": "/cloubee/cloubee-nomad",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-content-7.figment.io/content/baeaaaiqsebzq44wtfftsijh4ewv75el3a7c6lnjepszf5ynyhquisf53jldea/150x150.jpg",
-      "480x480": "https://audius-content-7.figment.io/content/baeaaaiqsebzq44wtfftsijh4ewv75el3a7c6lnjepszf5ynyhquisf53jldea/480x480.jpg",
-      "1000x1000": "https://audius-content-7.figment.io/content/baeaaaiqsebzq44wtfftsijh4ewv75el3a7c6lnjepszf5ynyhquisf53jldea/1000x1000.jpg",
+      "150x150": "https://audius-discovery-7.cultur3stake.com/content/baeaaaiqsebzq44wtfftsijh4ewv75el3a7c6lnjepszf5ynyhquisf53jldea/150x150.jpg",
+      "480x480": "https://audius-discovery-7.cultur3stake.com/content/baeaaaiqsebzq44wtfftsijh4ewv75el3a7c6lnjepszf5ynyhquisf53jldea/480x480.jpg",
+      "1000x1000": "https://audius-discovery-7.cultur3stake.com/content/baeaaaiqsebzq44wtfftsijh4ewv75el3a7c6lnjepszf5ynyhquisf53jldea/1000x1000.jpg",
       "mirrors": [
-        "https://audius-discovery-7.cultur3stake.com",
         "https://audius-02.staked.cloud",
+        "https://audius-content-7.figment.io",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-04.staked.cloud/tracks/cidstream/baeaaaiqseaeogqz7f2rrgqdviwvrye4m6zkpghf3wfazdudlvb35l5cxlrdqw?id3=true&id3_artist=cloubee&id3_title=CLOUBEE+-+NOMAD&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseaeogqz7f2rrgqdviwvrye4m6zkpghf3wfazdudlvb35l5cxlrdqw%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A759238901%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xbe782f44ccbafb2c826fc19552131da2faa01fd701fb52ccf99fd7f285417ffd6eb9494bb5cab8d5f428b1312afaaef782187db7d352426c0d16acedcb10150500%22%7D",
+      "url": "https://audius-content-6.cultur3stake.com/tracks/cidstream/baeaaaiqseaeogqz7f2rrgqdviwvrye4m6zkpghf3wfazdudlvb35l5cxlrdqw?id3=true&id3_artist=cloubee&id3_title=CLOUBEE+-+NOMAD&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseaeogqz7f2rrgqdviwvrye4m6zkpghf3wfazdudlvb35l5cxlrdqw%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A759238901%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x3d1535859b2a98ea8b1c3f56ad206d60d94191de3a013de64e1625712bdd7fea1a46d04818a5dcc370e40b26d229ddd298929eafcc46cd79434b69ed96d416f000%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-6.cultur3stake.com",
+        "https://audius-04.staked.cloud",
         "https://audius-content-12.figment.io"
       ]
     },
@@ -944,12 +944,12 @@
       "payout_wallet": "",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://creatornode2.audius.co/content/57a3e552d06248a97c52088b515c58a7/1000x1000.jpg",
-        "150x150": "https://creatornode2.audius.co/content/57a3e552d06248a97c52088b515c58a7/150x150.jpg",
-        "480x480": "https://creatornode2.audius.co/content/57a3e552d06248a97c52088b515c58a7/480x480.jpg",
+        "1000x1000": "https://audius-content-12.figment.io/content/57a3e552d06248a97c52088b515c58a7/1000x1000.jpg",
+        "150x150": "https://audius-content-12.figment.io/content/57a3e552d06248a97c52088b515c58a7/150x150.jpg",
+        "480x480": "https://audius-content-12.figment.io/content/57a3e552d06248a97c52088b515c58a7/480x480.jpg",
         "mirrors": [
+          "https://creatornode2.audius.co",
           "https://audius-creator-3.theblueprint.xyz",
-          "https://audius-content-12.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -990,10 +990,10 @@
     "download_conditions": null,
     "gemMetrics": {
       "score": 81,
-      "engagement": 81.81818181818183,
-      "freshness": 78.87776753472222,
+      "engagement": 80.89887640449437,
+      "freshness": 78.83155024305556,
       "underdog": 83.09803919971486,
-      "plays": 88,
+      "plays": 89,
       "followers": 7
     },
     "gemReason": "High engagement on relatively low-play track"
@@ -1082,13 +1082,13 @@
       "480x480": "https://audius-01.staked.cloud/content/baeaaaiqseb3xlcm2p6zy73f2oxiu5teb2um3vlvz7owrq33lhdbe6fatfjd3a/480x480.jpg",
       "1000x1000": "https://audius-01.staked.cloud/content/baeaaaiqseb3xlcm2p6zy73f2oxiu5teb2um3vlvz7owrq33lhdbe6fatfjd3a/1000x1000.jpg",
       "mirrors": [
-        "https://creatornode2.audius.co",
         "https://audius-content-11.figment.io",
+        "https://creatornode2.audius.co",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-7.figment.io/tracks/cidstream/baeaaaiqsecvz2bnhyjy5thcj3cqksjmmskyqz5qrjp4yfcgarsm3gujwzbifg?id3=true&id3_artist=lumii&id3_title=TELL+ME&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsecvz2bnhyjy5thcj3cqksjmmskyqz5qrjp4yfcgarsm3gujwzbifg%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A934083379%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x7ee2788c2d81c77442b1760ed968c4caf20c5e9276a9bb0a0089454b76f27a25200ce6539533e5b222396a2d4ff1ba35f7f4ceb200fc7da7471a77d20feff24401%22%7D",
+      "url": "https://audius-content-7.figment.io/tracks/cidstream/baeaaaiqsecvz2bnhyjy5thcj3cqksjmmskyqz5qrjp4yfcgarsm3gujwzbifg?id3=true&id3_artist=lumii&id3_title=TELL+ME&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsecvz2bnhyjy5thcj3cqksjmmskyqz5qrjp4yfcgarsm3gujwzbifg%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A934083379%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xd68fa8030b7303df72ce9c4ec8daa47b032e4c4e920d213884fcf9f203d54a4c5c5176ff468dda215a0c4beb56f417220a30afd53ccc86714a795bc9c06782e301%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
         "https://audius-05.staked.cloud",
@@ -1110,11 +1110,11 @@
       "blocknumber": 114060462,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-content-1.figment.io/content/baeaaaiqsea5jn5eokxkot6x36qiwrshlhbld7khdhpkkpdla2qoi3uehla5jq/2000x.jpg",
-        "640x": "https://audius-content-1.figment.io/content/baeaaaiqsea5jn5eokxkot6x36qiwrshlhbld7khdhpkkpdla2qoi3uehla5jq/640x.jpg",
+        "2000x": "https://cn1.mainnet.audiusindex.org/content/baeaaaiqsea5jn5eokxkot6x36qiwrshlhbld7khdhpkkpdla2qoi3uehla5jq/2000x.jpg",
+        "640x": "https://cn1.mainnet.audiusindex.org/content/baeaaaiqsea5jn5eokxkot6x36qiwrshlhbld7khdhpkkpdla2qoi3uehla5jq/640x.jpg",
         "mirrors": [
-          "https://cn1.mainnet.audiusindex.org",
           "https://audius-content-9.figment.io",
+          "https://audius-content-1.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -1192,7 +1192,7 @@
     "gemMetrics": {
       "score": 83,
       "engagement": 86.58536585365853,
-      "freshness": 91.40676059027777,
+      "freshness": 91.3605432986111,
       "underdog": 60.81917215357813,
       "plays": 82,
       "followers": 91
@@ -1277,21 +1277,21 @@
     "permalink": "/fakersmusic/fakers-vamo-a-vernos-feat-emr",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-05.staked.cloud/content/baeaaaiqseco3iu2nhlcp4awjjtyo6eo6gqwubnif2l6soipnjkq72wvqmmeuu/150x150.jpg",
-      "480x480": "https://audius-05.staked.cloud/content/baeaaaiqseco3iu2nhlcp4awjjtyo6eo6gqwubnif2l6soipnjkq72wvqmmeuu/480x480.jpg",
-      "1000x1000": "https://audius-05.staked.cloud/content/baeaaaiqseco3iu2nhlcp4awjjtyo6eo6gqwubnif2l6soipnjkq72wvqmmeuu/1000x1000.jpg",
+      "150x150": "https://audius-cn1.tikilabs.com/content/baeaaaiqseco3iu2nhlcp4awjjtyo6eo6gqwubnif2l6soipnjkq72wvqmmeuu/150x150.jpg",
+      "480x480": "https://audius-cn1.tikilabs.com/content/baeaaaiqseco3iu2nhlcp4awjjtyo6eo6gqwubnif2l6soipnjkq72wvqmmeuu/480x480.jpg",
+      "1000x1000": "https://audius-cn1.tikilabs.com/content/baeaaaiqseco3iu2nhlcp4awjjtyo6eo6gqwubnif2l6soipnjkq72wvqmmeuu/1000x1000.jpg",
       "mirrors": [
+        "https://audius-05.staked.cloud",
         "https://audius-discovery-10.cultur3stake.com",
-        "https://audius-cn1.tikilabs.com",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-05.staked.cloud/tracks/cidstream/baeaaaiqsedevid5lhj6tcuocwfx74g45osbnesuummf476whl6kd3nkhpycou?id3=true&id3_artist=FAKERS%F0%9F%8E%AD&id3_title=FAKERS+-+Vamo+a+Vernos+%28Feat.+EMR%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsedevid5lhj6tcuocwfx74g45osbnesuummf476whl6kd3nkhpycou%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A350442528%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x267b672fbf68ff39f350ed7e6dc892df180b417636efbe137db14f4353a9bb0b556b5c1d37d557087e696c4d8e1ef9bb7cf2012df8a144840b94725e9d6649f201%22%7D",
+      "url": "https://audius-discovery-1.altego.net/tracks/cidstream/baeaaaiqsedevid5lhj6tcuocwfx74g45osbnesuummf476whl6kd3nkhpycou?id3=true&id3_artist=FAKERS%F0%9F%8E%AD&id3_title=FAKERS+-+Vamo+a+Vernos+%28Feat.+EMR%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsedevid5lhj6tcuocwfx74g45osbnesuummf476whl6kd3nkhpycou%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A350442528%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x0ee2a9073057bcb28193ee76f0362fef1b6d68c3b5d3138842112d0dcad0225b5591d99a36b825241f5428a58b33f6838462f799445ab4b39feb7601ccac96ce00%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-discovery-1.altego.net",
-        "https://audius-content-12.cultur3stake.com"
+        "https://audius-content-12.cultur3stake.com",
+        "https://audius-05.staked.cloud"
       ]
     },
     "download": null,
@@ -1309,11 +1309,11 @@
       "blocknumber": 114097568,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-content-8.figment.io/content/01JSTSANT7Y8T8GHB9RK1D992R/2000x.jpg",
-        "640x": "https://audius-content-8.figment.io/content/01JSTSANT7Y8T8GHB9RK1D992R/640x.jpg",
+        "2000x": "https://audius-content-7.cultur3stake.com/content/01JSTSANT7Y8T8GHB9RK1D992R/2000x.jpg",
+        "640x": "https://audius-content-7.cultur3stake.com/content/01JSTSANT7Y8T8GHB9RK1D992R/640x.jpg",
         "mirrors": [
+          "https://audius-content-8.figment.io",
           "https://audius-discovery-1.cultur3stake.com",
-          "https://audius-content-7.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -1344,11 +1344,11 @@
       "payout_wallet": "8MBodVzmJt8z43i1WaoYou7NqNieaZAF73R7zxjnS9hg",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-creator-2.theblueprint.xyz/content/01JSTSAK5K2RNJ99GC56V9C3Q6/1000x1000.jpg",
-        "150x150": "https://audius-creator-2.theblueprint.xyz/content/01JSTSAK5K2RNJ99GC56V9C3Q6/150x150.jpg",
-        "480x480": "https://audius-creator-2.theblueprint.xyz/content/01JSTSAK5K2RNJ99GC56V9C3Q6/480x480.jpg",
+        "1000x1000": "https://audius-content-8.cultur3stake.com/content/01JSTSAK5K2RNJ99GC56V9C3Q6/1000x1000.jpg",
+        "150x150": "https://audius-content-8.cultur3stake.com/content/01JSTSAK5K2RNJ99GC56V9C3Q6/150x150.jpg",
+        "480x480": "https://audius-content-8.cultur3stake.com/content/01JSTSAK5K2RNJ99GC56V9C3Q6/480x480.jpg",
         "mirrors": [
-          "https://audius-content-8.cultur3stake.com",
+          "https://audius-creator-2.theblueprint.xyz",
           "https://audius-creator-13.theblueprint.xyz",
           "https://creatornode2.audius.co"
         ]
@@ -1391,7 +1391,7 @@
     "gemMetrics": {
       "score": 87,
       "engagement": 90.84507042253522,
-      "freshness": 94.1083578125,
+      "freshness": 94.06214052083334,
       "underdog": 64.01318901092836,
       "plays": 71,
       "followers": 63
@@ -1476,20 +1476,20 @@
     "permalink": "/remyheartmusic/joji-hotel-california-remy-heart-remix",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-content-1.cultur3stake.com/content/baeaaaiqsecyd3vvcl32is6wjcu3fywjwuwwdeoxkrjx6jpvy4rhu454hdjhrs/150x150.jpg",
-      "480x480": "https://audius-content-1.cultur3stake.com/content/baeaaaiqsecyd3vvcl32is6wjcu3fywjwuwwdeoxkrjx6jpvy4rhu454hdjhrs/480x480.jpg",
-      "1000x1000": "https://audius-content-1.cultur3stake.com/content/baeaaaiqsecyd3vvcl32is6wjcu3fywjwuwwdeoxkrjx6jpvy4rhu454hdjhrs/1000x1000.jpg",
+      "150x150": "https://audius-content-6.cultur3stake.com/content/baeaaaiqsecyd3vvcl32is6wjcu3fywjwuwwdeoxkrjx6jpvy4rhu454hdjhrs/150x150.jpg",
+      "480x480": "https://audius-content-6.cultur3stake.com/content/baeaaaiqsecyd3vvcl32is6wjcu3fywjwuwwdeoxkrjx6jpvy4rhu454hdjhrs/480x480.jpg",
+      "1000x1000": "https://audius-content-6.cultur3stake.com/content/baeaaaiqsecyd3vvcl32is6wjcu3fywjwuwwdeoxkrjx6jpvy4rhu454hdjhrs/1000x1000.jpg",
       "mirrors": [
+        "https://audius-content-1.cultur3stake.com",
         "https://audius-creator-4.theblueprint.xyz",
-        "https://audius-content-6.cultur3stake.com",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://cn1.mainnet.audiusindex.org/tracks/cidstream/baeaaaiqsecb2uu3cc5v6ygh4qyv2fdexl2amnuc7wn5knrbykmghifjl3thhm?id3=true&id3_artist=Remy+Heart+%F0%9F%96%A4&id3_title=Joji+-+Hotel+California+%28Remy+Heart+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsecb2uu3cc5v6ygh4qyv2fdexl2amnuc7wn5knrbykmghifjl3thhm%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A945479897%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x3d05d8afd698706740dddcb0e58bf7a5cd1d31046165f4c50371250b772ce6f52092a32781b4ea085f47f757c653eb1c065f997afc8170db4cf8621e6649a92901%22%7D",
+      "url": "https://audius-content-8.figment.io/tracks/cidstream/baeaaaiqsecb2uu3cc5v6ygh4qyv2fdexl2amnuc7wn5knrbykmghifjl3thhm?id3=true&id3_artist=Remy+Heart+%F0%9F%96%A4&id3_title=Joji+-+Hotel+California+%28Remy+Heart+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsecb2uu3cc5v6ygh4qyv2fdexl2amnuc7wn5knrbykmghifjl3thhm%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A945479897%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xec6975bebe4d8dc41c50e91bca907b49de21bf6b91b7d275ebbab9744b26176b7d56c44178112e4f5732a4f7163f6520666faf0ae4f7ed0420f8868db63c8eb700%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-8.figment.io",
+        "https://cn1.mainnet.audiusindex.org",
         "https://audius.rickyrombo.com"
       ]
     },
@@ -1508,11 +1508,11 @@
       "blocknumber": 113585345,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-creator-13.theblueprint.xyz/content/01JP8D7WYR79MRCF4SQK0EWYZD/2000x.jpg",
-        "640x": "https://audius-creator-13.theblueprint.xyz/content/01JP8D7WYR79MRCF4SQK0EWYZD/640x.jpg",
+        "2000x": "https://cn1.shakespearetech.com/content/01JP8D7WYR79MRCF4SQK0EWYZD/2000x.jpg",
+        "640x": "https://cn1.shakespearetech.com/content/01JP8D7WYR79MRCF4SQK0EWYZD/640x.jpg",
         "mirrors": [
+          "https://audius-creator-13.theblueprint.xyz",
           "https://audius-content-5.cultur3stake.com",
-          "https://cn1.shakespearetech.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -1528,7 +1528,7 @@
       "donation": null,
       "erc_wallet": "0xe8673170348fd9fdbbe4506ae9196c8e1a4c0689",
       "followee_count": 77,
-      "follower_count": 343,
+      "follower_count": 344,
       "handle": "remyheartmusic",
       "handle_lc": "remyheartmusic",
       "has_collectibles": false,
@@ -1543,11 +1543,11 @@
       "payout_wallet": "",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-standardvc-1-validator-3.figment.io/content/01JP8D7WHGWA5463GE7MQ5W40Z/1000x1000.jpg",
-        "150x150": "https://audius-standardvc-1-validator-3.figment.io/content/01JP8D7WHGWA5463GE7MQ5W40Z/150x150.jpg",
-        "480x480": "https://audius-standardvc-1-validator-3.figment.io/content/01JP8D7WHGWA5463GE7MQ5W40Z/480x480.jpg",
+        "1000x1000": "https://cn1.shakespearetech.com/content/01JP8D7WHGWA5463GE7MQ5W40Z/1000x1000.jpg",
+        "150x150": "https://cn1.shakespearetech.com/content/01JP8D7WHGWA5463GE7MQ5W40Z/150x150.jpg",
+        "480x480": "https://cn1.shakespearetech.com/content/01JP8D7WHGWA5463GE7MQ5W40Z/480x480.jpg",
         "mirrors": [
-          "https://cn1.shakespearetech.com",
+          "https://audius-standardvc-1-validator-3.figment.io",
           "https://audius-content-7.figment.io",
           "https://creatornode2.audius.co"
         ]
@@ -1590,10 +1590,10 @@
     "gemMetrics": {
       "score": 88,
       "engagement": 100,
-      "freshness": 94.70589253472222,
-      "underdog": 49.29411759914459,
+      "freshness": 94.65967524305556,
+      "underdog": 49.268831148569404,
       "plays": 37,
-      "followers": 343
+      "followers": 344
     },
     "gemReason": "High engagement on relatively low-play track"
   },
@@ -1675,21 +1675,21 @@
     "permalink": "/Dabowmusic/10-aura-10-dabow-2026-showcase",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-05.staked.cloud/content/baeaaaiqsea5zbhnrdkw35eiu3kjsg2zfyb6olfwhjhqxv42xfgh4pybjhdnmo/150x150.jpg",
-      "480x480": "https://audius-05.staked.cloud/content/baeaaaiqsea5zbhnrdkw35eiu3kjsg2zfyb6olfwhjhqxv42xfgh4pybjhdnmo/480x480.jpg",
-      "1000x1000": "https://audius-05.staked.cloud/content/baeaaaiqsea5zbhnrdkw35eiu3kjsg2zfyb6olfwhjhqxv42xfgh4pybjhdnmo/1000x1000.jpg",
+      "150x150": "https://audius-content-4.cultur3stake.com/content/baeaaaiqsea5zbhnrdkw35eiu3kjsg2zfyb6olfwhjhqxv42xfgh4pybjhdnmo/150x150.jpg",
+      "480x480": "https://audius-content-4.cultur3stake.com/content/baeaaaiqsea5zbhnrdkw35eiu3kjsg2zfyb6olfwhjhqxv42xfgh4pybjhdnmo/480x480.jpg",
+      "1000x1000": "https://audius-content-4.cultur3stake.com/content/baeaaaiqsea5zbhnrdkw35eiu3kjsg2zfyb6olfwhjhqxv42xfgh4pybjhdnmo/1000x1000.jpg",
       "mirrors": [
         "https://audius-content-6.figment.io",
-        "https://audius-content-4.cultur3stake.com",
+        "https://audius-05.staked.cloud",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-creator-11.theblueprint.xyz/tracks/cidstream/baeaaaiqsea7keqoyvl7lqvzruoqmodm3lz4pmyhprh3i4hsdiz3tjvtmubiqu?id3=true&id3_artist=Dabow&id3_title=10+AURA+10+%28DABOW+2026+SHOWCASE%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsea7keqoyvl7lqvzruoqmodm3lz4pmyhprh3i4hsdiz3tjvtmubiqu%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A703141043%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xeef0c9c424dc6175c6d27184505e992b6febeff55dbef0f9bd87736e85dcd9771eed5eda784087b62776104dbdb7f46767d7c7425c69d16e3544e5fe9dddb4e000%22%7D",
+      "url": "https://audius-creator-11.theblueprint.xyz/tracks/cidstream/baeaaaiqsea7keqoyvl7lqvzruoqmodm3lz4pmyhprh3i4hsdiz3tjvtmubiqu?id3=true&id3_artist=Dabow&id3_title=10+AURA+10+%28DABOW+2026+SHOWCASE%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsea7keqoyvl7lqvzruoqmodm3lz4pmyhprh3i4hsdiz3tjvtmubiqu%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A703141043%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x9a8a240eaf30af131ed4d11069d69d6e655448e7b3454c1204f4ddb3322f88de23e28fa82b0e6fc070b5957a08f0fda861ee8e91c2fa5946eccf9acb41228e1d01%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-5.figment.io",
-        "https://audius-cn1.tikilabs.com"
+        "https://audius-cn1.tikilabs.com",
+        "https://audius-content-5.figment.io"
       ]
     },
     "download": null,
@@ -1707,11 +1707,11 @@
       "blocknumber": 114144354,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-content-10.figment.io/content/QmP8wk1uWcFTpgB17TcFcDWNikMqYxFXT5adMAmd5e4XeG/2000x.jpg",
-        "640x": "https://audius-content-10.figment.io/content/QmP8wk1uWcFTpgB17TcFcDWNikMqYxFXT5adMAmd5e4XeG/640x.jpg",
+        "2000x": "https://audius-creator-1.theblueprint.xyz/content/QmP8wk1uWcFTpgB17TcFcDWNikMqYxFXT5adMAmd5e4XeG/2000x.jpg",
+        "640x": "https://audius-creator-1.theblueprint.xyz/content/QmP8wk1uWcFTpgB17TcFcDWNikMqYxFXT5adMAmd5e4XeG/640x.jpg",
         "mirrors": [
+          "https://audius-content-10.figment.io",
           "https://audius-content-2.cultur3stake.com",
-          "https://audius-creator-1.theblueprint.xyz",
           "https://creatornode2.audius.co"
         ]
       },
@@ -1742,12 +1742,12 @@
       "payout_wallet": "2Tvso6bCQWLkiwBL9jD4SbBZE8gT3vFFmhB9mNjJB3Cq",
       "playlist_count": 1,
       "profile_picture": {
-        "1000x1000": "https://audius-content-6.cultur3stake.com/content/01KEYDHSA93AZHT644YNNWY68N/1000x1000.jpg",
-        "150x150": "https://audius-content-6.cultur3stake.com/content/01KEYDHSA93AZHT644YNNWY68N/150x150.jpg",
-        "480x480": "https://audius-content-6.cultur3stake.com/content/01KEYDHSA93AZHT644YNNWY68N/480x480.jpg",
+        "1000x1000": "https://audius-content-2.cultur3stake.com/content/01KEYDHSA93AZHT644YNNWY68N/1000x1000.jpg",
+        "150x150": "https://audius-content-2.cultur3stake.com/content/01KEYDHSA93AZHT644YNNWY68N/150x150.jpg",
+        "480x480": "https://audius-content-2.cultur3stake.com/content/01KEYDHSA93AZHT644YNNWY68N/480x480.jpg",
         "mirrors": [
-          "https://audius-content-2.cultur3stake.com",
           "https://creatornode2.audius.co",
+          "https://audius-content-6.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -1789,7 +1789,7 @@
     "gemMetrics": {
       "score": 83,
       "engagement": 100,
-      "freshness": 94.8427328125,
+      "freshness": 94.79651552083334,
       "underdog": 24.527196134799482,
       "plays": 62,
       "followers": 5938
@@ -1876,21 +1876,21 @@
     "permalink": "/Chozen_Soundz/ciara-1-2-step-chozen-flip",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-creator-12.theblueprint.xyz/content/baeaaaiqsebjiyvoii2ggr2od42se6zrc4o3povdviku7smfrpinqfzxd4s6ji/150x150.jpg",
-      "480x480": "https://audius-creator-12.theblueprint.xyz/content/baeaaaiqsebjiyvoii2ggr2od42se6zrc4o3povdviku7smfrpinqfzxd4s6ji/480x480.jpg",
-      "1000x1000": "https://audius-creator-12.theblueprint.xyz/content/baeaaaiqsebjiyvoii2ggr2od42se6zrc4o3povdviku7smfrpinqfzxd4s6ji/1000x1000.jpg",
+      "150x150": "https://audius-content-5.cultur3stake.com/content/baeaaaiqsebjiyvoii2ggr2od42se6zrc4o3povdviku7smfrpinqfzxd4s6ji/150x150.jpg",
+      "480x480": "https://audius-content-5.cultur3stake.com/content/baeaaaiqsebjiyvoii2ggr2od42se6zrc4o3povdviku7smfrpinqfzxd4s6ji/480x480.jpg",
+      "1000x1000": "https://audius-content-5.cultur3stake.com/content/baeaaaiqsebjiyvoii2ggr2od42se6zrc4o3povdviku7smfrpinqfzxd4s6ji/1000x1000.jpg",
       "mirrors": [
+        "https://audius-creator-12.theblueprint.xyz",
         "https://audius-content-14.figment.io",
-        "https://audius-content-5.cultur3stake.com",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-creator-6.theblueprint.xyz/tracks/cidstream/baeaaaiqsediijuujnx45obs2zcnnn3k4cuzkscdtl7wjvmtcuifwmjedsi4cw?id3=true&id3_artist=CHOZEN&id3_title=Ciara+-+1%2C+2+Step+%28CHOZEN+Flip%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsediijuujnx45obs2zcnnn3k4cuzkscdtl7wjvmtcuifwmjedsi4cw%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A19763936%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x67f7bafdf09cf397da3a6b63b8bbfd7309482a54f6b55f8b9a246f2e35c9959239596cfb5607c039e2b3c262645bc422c8f1b48087e37266e36d7faf7c130ad100%22%7D",
+      "url": "https://audius-creator-6.theblueprint.xyz/tracks/cidstream/baeaaaiqsediijuujnx45obs2zcnnn3k4cuzkscdtl7wjvmtcuifwmjedsi4cw?id3=true&id3_artist=CHOZEN&id3_title=Ciara+-+1%2C+2+Step+%28CHOZEN+Flip%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsediijuujnx45obs2zcnnn3k4cuzkscdtl7wjvmtcuifwmjedsi4cw%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A19763936%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x45bbc3a5b1129e8b69dd9e02a06a46ed212e104a41b0cb6e2ac3701757478f701af0dd8c045e62eef8f1220250c4755dd6c679f2794782019598385c7091a78f01%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-11.cultur3stake.com",
-        "https://audius.rickyrombo.com"
+        "https://audius.rickyrombo.com",
+        "https://audius-content-11.cultur3stake.com"
       ]
     },
     "download": null,
@@ -1908,10 +1908,10 @@
       "blocknumber": 114030294,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-content-9.figment.io/content/baeaaaiqseagzc4frxomdlzcfwnmvrifotskwsuh6m3urus3lalekpy3oyqkxi/2000x.jpg",
-        "640x": "https://audius-content-9.figment.io/content/baeaaaiqseagzc4frxomdlzcfwnmvrifotskwsuh6m3urus3lalekpy3oyqkxi/640x.jpg",
+        "2000x": "https://audius-creator-10.theblueprint.xyz/content/baeaaaiqseagzc4frxomdlzcfwnmvrifotskwsuh6m3urus3lalekpy3oyqkxi/2000x.jpg",
+        "640x": "https://audius-creator-10.theblueprint.xyz/content/baeaaaiqseagzc4frxomdlzcfwnmvrifotskwsuh6m3urus3lalekpy3oyqkxi/640x.jpg",
         "mirrors": [
-          "https://audius-creator-10.theblueprint.xyz",
+          "https://audius-content-9.figment.io",
           "https://audius-content-7.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
@@ -1943,11 +1943,11 @@
       "payout_wallet": "",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-content-13.cultur3stake.com/content/baeaaaiqsea6lqd6me4yxlnnmwdlflskhoywhcrajqd4x5q3364qfwpaig4tqe/1000x1000.jpg",
-        "150x150": "https://audius-content-13.cultur3stake.com/content/baeaaaiqsea6lqd6me4yxlnnmwdlflskhoywhcrajqd4x5q3364qfwpaig4tqe/150x150.jpg",
-        "480x480": "https://audius-content-13.cultur3stake.com/content/baeaaaiqsea6lqd6me4yxlnnmwdlflskhoywhcrajqd4x5q3364qfwpaig4tqe/480x480.jpg",
+        "1000x1000": "https://audius-creator-1.theblueprint.xyz/content/baeaaaiqsea6lqd6me4yxlnnmwdlflskhoywhcrajqd4x5q3364qfwpaig4tqe/1000x1000.jpg",
+        "150x150": "https://audius-creator-1.theblueprint.xyz/content/baeaaaiqsea6lqd6me4yxlnnmwdlflskhoywhcrajqd4x5q3364qfwpaig4tqe/150x150.jpg",
+        "480x480": "https://audius-creator-1.theblueprint.xyz/content/baeaaaiqsea6lqd6me4yxlnnmwdlflskhoywhcrajqd4x5q3364qfwpaig4tqe/480x480.jpg",
         "mirrors": [
-          "https://audius-creator-1.theblueprint.xyz",
+          "https://audius-content-13.cultur3stake.com",
           "https://audius-content-3.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
@@ -1990,7 +1990,7 @@
     "gemMetrics": {
       "score": 81,
       "engagement": 83.56164383561644,
-      "freshness": 79.45582309027778,
+      "freshness": 79.40960579861111,
       "underdog": 79.1721462968355,
       "plays": 73,
       "followers": 11
@@ -2077,21 +2077,21 @@
     "permalink": "/borealism/secret-cashmere",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://cn1.mainnet.audiusindex.org/content/baeaaaiqsebtspjfxeafd2mtztbjruvvp62zanh7z2eejydkf5kuyy72ftjygs/150x150.jpg",
-      "480x480": "https://cn1.mainnet.audiusindex.org/content/baeaaaiqsebtspjfxeafd2mtztbjruvvp62zanh7z2eejydkf5kuyy72ftjygs/480x480.jpg",
-      "1000x1000": "https://cn1.mainnet.audiusindex.org/content/baeaaaiqsebtspjfxeafd2mtztbjruvvp62zanh7z2eejydkf5kuyy72ftjygs/1000x1000.jpg",
+      "150x150": "https://audius-03.staked.cloud/content/baeaaaiqsebtspjfxeafd2mtztbjruvvp62zanh7z2eejydkf5kuyy72ftjygs/150x150.jpg",
+      "480x480": "https://audius-03.staked.cloud/content/baeaaaiqsebtspjfxeafd2mtztbjruvvp62zanh7z2eejydkf5kuyy72ftjygs/480x480.jpg",
+      "1000x1000": "https://audius-03.staked.cloud/content/baeaaaiqsebtspjfxeafd2mtztbjruvvp62zanh7z2eejydkf5kuyy72ftjygs/1000x1000.jpg",
       "mirrors": [
         "https://audius-discovery-7.cultur3stake.com",
-        "https://audius-03.staked.cloud",
+        "https://cn1.mainnet.audiusindex.org",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-creator-12.theblueprint.xyz/tracks/cidstream/baeaaaiqseb2tatgvzaezfzxhyplcfw4k5iekbmodpm7hphzeisdbgyovzapqq?id3=true&id3_artist=Borealism&id3_title=secret+cashmere&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseb2tatgvzaezfzxhyplcfw4k5iekbmodpm7hphzeisdbgyovzapqq%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A574980986%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x32f7285ffd7be3db057977bd58e1454d3fdb7b66b57ee72b0fe056956ba105915ed3532bbe4bab09bd895f11557a6202e9c12a32eccb843b4daa053e9228a31a01%22%7D",
+      "url": "https://audius-creator-6.theblueprint.xyz/tracks/cidstream/baeaaaiqseb2tatgvzaezfzxhyplcfw4k5iekbmodpm7hphzeisdbgyovzapqq?id3=true&id3_artist=Borealism&id3_title=secret+cashmere&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseb2tatgvzaezfzxhyplcfw4k5iekbmodpm7hphzeisdbgyovzapqq%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A574980986%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x3d614f2194f4812aed59a12936fc63aa3852c957bea85aae551d15d090ab0b4a710f0310a0e9c0a278daa9a13f30a09ac0cff9dd56d53d1e8f74a7ef01d7449100%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-01.staked.cloud",
-        "https://audius-creator-6.theblueprint.xyz"
+        "https://audius-creator-12.theblueprint.xyz",
+        "https://audius-01.staked.cloud"
       ]
     },
     "download": null,
@@ -2109,11 +2109,11 @@
       "blocknumber": 114112136,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-creator-10.theblueprint.xyz/content/baeaaaiqsea2t2dctbenyckav33irmfdm77tfdf24xi6mnrbmnmgtri5rtlr7k/2000x.jpg",
-        "640x": "https://audius-creator-10.theblueprint.xyz/content/baeaaaiqsea2t2dctbenyckav33irmfdm77tfdf24xi6mnrbmnmgtri5rtlr7k/640x.jpg",
+        "2000x": "https://audius-content-7.figment.io/content/baeaaaiqsea2t2dctbenyckav33irmfdm77tfdf24xi6mnrbmnmgtri5rtlr7k/2000x.jpg",
+        "640x": "https://audius-content-7.figment.io/content/baeaaaiqsea2t2dctbenyckav33irmfdm77tfdf24xi6mnrbmnmgtri5rtlr7k/640x.jpg",
         "mirrors": [
           "https://audius-content-1.figment.io",
-          "https://audius-content-7.figment.io",
+          "https://audius-creator-10.theblueprint.xyz",
           "https://creatornode2.audius.co"
         ]
       },
@@ -2144,11 +2144,11 @@
       "payout_wallet": "",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-discovery-7.cultur3stake.com/content/baeaaaiqseb2uiozxvwwline55kpc6hdso25ryieyutlhui55w54gm7ijppcps/1000x1000.jpg",
-        "150x150": "https://audius-discovery-7.cultur3stake.com/content/baeaaaiqseb2uiozxvwwline55kpc6hdso25ryieyutlhui55w54gm7ijppcps/150x150.jpg",
-        "480x480": "https://audius-discovery-7.cultur3stake.com/content/baeaaaiqseb2uiozxvwwline55kpc6hdso25ryieyutlhui55w54gm7ijppcps/480x480.jpg",
+        "1000x1000": "https://audius-03.staked.cloud/content/baeaaaiqseb2uiozxvwwline55kpc6hdso25ryieyutlhui55w54gm7ijppcps/1000x1000.jpg",
+        "150x150": "https://audius-03.staked.cloud/content/baeaaaiqseb2uiozxvwwline55kpc6hdso25ryieyutlhui55w54gm7ijppcps/150x150.jpg",
+        "480x480": "https://audius-03.staked.cloud/content/baeaaaiqseb2uiozxvwwline55kpc6hdso25ryieyutlhui55w54gm7ijppcps/480x480.jpg",
         "mirrors": [
-          "https://audius-03.staked.cloud",
+          "https://audius-discovery-7.cultur3stake.com",
           "https://audius-02.staked.cloud",
           "https://creatornode2.audius.co"
         ]
@@ -2191,7 +2191,7 @@
     "gemMetrics": {
       "score": 88,
       "engagement": 100,
-      "freshness": 77.67415642361111,
+      "freshness": 77.62793913194444,
       "underdog": 86.02059991327963,
       "plays": 54,
       "followers": 5
@@ -2276,21 +2276,21 @@
     "permalink": "/TRIGO/portal",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-content-11.cultur3stake.com/content/baeaaaiqsecm6xmgwz6s4exxnrrcqtn4vitfsxkoaqqdatvefdgfqgg2d6yptc/150x150.jpg",
-      "480x480": "https://audius-content-11.cultur3stake.com/content/baeaaaiqsecm6xmgwz6s4exxnrrcqtn4vitfsxkoaqqdatvefdgfqgg2d6yptc/480x480.jpg",
-      "1000x1000": "https://audius-content-11.cultur3stake.com/content/baeaaaiqsecm6xmgwz6s4exxnrrcqtn4vitfsxkoaqqdatvefdgfqgg2d6yptc/1000x1000.jpg",
+      "150x150": "https://audius-cn1.tikilabs.com/content/baeaaaiqsecm6xmgwz6s4exxnrrcqtn4vitfsxkoaqqdatvefdgfqgg2d6yptc/150x150.jpg",
+      "480x480": "https://audius-cn1.tikilabs.com/content/baeaaaiqsecm6xmgwz6s4exxnrrcqtn4vitfsxkoaqqdatvefdgfqgg2d6yptc/480x480.jpg",
+      "1000x1000": "https://audius-cn1.tikilabs.com/content/baeaaaiqsecm6xmgwz6s4exxnrrcqtn4vitfsxkoaqqdatvefdgfqgg2d6yptc/1000x1000.jpg",
       "mirrors": [
-        "https://audius-cn1.tikilabs.com",
+        "https://audius-content-11.cultur3stake.com",
         "https://audius-content-2.figment.io",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-3.cultur3stake.com/tracks/cidstream/baeaaaiqsearzsmexf7b6vss4ngbkbn46ihdxqfptdlsvt36tfevwshrl3qvno?id3=true&id3_artist=TRIGO+&id3_title=Portal&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsearzsmexf7b6vss4ngbkbn46ihdxqfptdlsvt36tfevwshrl3qvno%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A565780447%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x1c1e019e00d1b55b917176774e700457f286247885ca6a862375b8849997c46c005f3f126f14005f60eb01723cf218bf58ee1db7d0bc9033d87746806e722c9101%22%7D",
+      "url": "https://audius-creator-3.theblueprint.xyz/tracks/cidstream/baeaaaiqsearzsmexf7b6vss4ngbkbn46ihdxqfptdlsvt36tfevwshrl3qvno?id3=true&id3_artist=TRIGO+&id3_title=Portal&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsearzsmexf7b6vss4ngbkbn46ihdxqfptdlsvt36tfevwshrl3qvno%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A565780447%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x69011824b05eb90b6ef3914797d9535a6d0c0f8dca4272e7335d1c4d8ca243f44bb86c9d89c4a6686a7c7d68ce9fa177a6405c1d6a1a27b971a4c49f1e8f58d401%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://cn2.mainnet.audiusindex.org",
-        "https://audius-creator-3.theblueprint.xyz"
+        "https://audius-content-3.cultur3stake.com",
+        "https://cn2.mainnet.audiusindex.org"
       ]
     },
     "download": null,
@@ -2308,10 +2308,10 @@
       "blocknumber": 114086174,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-discovery-2.altego.net/content/01KCPMXH57KBC6264NZS2E491A/2000x.jpg",
-        "640x": "https://audius-discovery-2.altego.net/content/01KCPMXH57KBC6264NZS2E491A/640x.jpg",
+        "2000x": "https://audius-content-9.figment.io/content/01KCPMXH57KBC6264NZS2E491A/2000x.jpg",
+        "640x": "https://audius-content-9.figment.io/content/01KCPMXH57KBC6264NZS2E491A/640x.jpg",
         "mirrors": [
-          "https://audius-content-9.figment.io",
+          "https://audius-discovery-2.altego.net",
           "https://cn1.mainnet.audiusindex.org",
           "https://creatornode2.audius.co"
         ]
@@ -2343,12 +2343,12 @@
       "payout_wallet": "9Tw15Jwp9B62CjfJJeAorZnv7gna5CvaDeWzSaUi1cPb",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-discovery-7.cultur3stake.com/content/01KCPMXGX27948FYDPVY6AASBX/1000x1000.jpg",
-        "150x150": "https://audius-discovery-7.cultur3stake.com/content/01KCPMXGX27948FYDPVY6AASBX/150x150.jpg",
-        "480x480": "https://audius-discovery-7.cultur3stake.com/content/01KCPMXGX27948FYDPVY6AASBX/480x480.jpg",
+        "1000x1000": "https://audius-creator-7.theblueprint.xyz/content/01KCPMXGX27948FYDPVY6AASBX/1000x1000.jpg",
+        "150x150": "https://audius-creator-7.theblueprint.xyz/content/01KCPMXGX27948FYDPVY6AASBX/150x150.jpg",
+        "480x480": "https://audius-creator-7.theblueprint.xyz/content/01KCPMXGX27948FYDPVY6AASBX/480x480.jpg",
         "mirrors": [
+          "https://audius-discovery-7.cultur3stake.com",
           "https://audius-content-4.cultur3stake.com",
-          "https://audius-creator-7.theblueprint.xyz",
           "https://creatornode2.audius.co"
         ]
       },
@@ -2390,7 +2390,7 @@
     "gemMetrics": {
       "score": 87,
       "engagement": 100,
-      "freshness": 93.5349203125,
+      "freshness": 93.48870302083333,
       "underdog": 46.78269043992262,
       "plays": 26,
       "followers": 458
@@ -2477,21 +2477,21 @@
     "permalink": "/dontdieatwork/smaze-enigma",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-creator-4.theblueprint.xyz/content/baeaaaiqsebz4x6qmceydyhtauwze76nxuhaixpwb553bzjtrqmwd3vfs2hv3s/150x150.jpg",
-      "480x480": "https://audius-creator-4.theblueprint.xyz/content/baeaaaiqsebz4x6qmceydyhtauwze76nxuhaixpwb553bzjtrqmwd3vfs2hv3s/480x480.jpg",
-      "1000x1000": "https://audius-creator-4.theblueprint.xyz/content/baeaaaiqsebz4x6qmceydyhtauwze76nxuhaixpwb553bzjtrqmwd3vfs2hv3s/1000x1000.jpg",
+      "150x150": "https://creatornode2.audius.co/content/baeaaaiqsebz4x6qmceydyhtauwze76nxuhaixpwb553bzjtrqmwd3vfs2hv3s/150x150.jpg",
+      "480x480": "https://creatornode2.audius.co/content/baeaaaiqsebz4x6qmceydyhtauwze76nxuhaixpwb553bzjtrqmwd3vfs2hv3s/480x480.jpg",
+      "1000x1000": "https://creatornode2.audius.co/content/baeaaaiqsebz4x6qmceydyhtauwze76nxuhaixpwb553bzjtrqmwd3vfs2hv3s/1000x1000.jpg",
       "mirrors": [
         "https://audius-content-3.figment.io",
-        "https://creatornode2.audius.co",
+        "https://audius-creator-4.theblueprint.xyz",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-11.cultur3stake.com/tracks/cidstream/baeaaaiqsebvdtypg3s6kqnpeq7i3greq5l57unppf2h35c2vo7pi3xxs7cgjq?id3=true&id3_artist=Dont+Die+At+Work&id3_title=S.Maze+-+Enigma&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebvdtypg3s6kqnpeq7i3greq5l57unppf2h35c2vo7pi3xxs7cgjq%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A102762809%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x9172d93c7af4ac20592790833dfe1a74b9413839ebfcc18d37fa6350aa3b9ff4015ae42a7d867680e0d820880d7379b125a0b92577cc8ddab01e00d28789303000%22%7D",
+      "url": "https://audius-content-6.figment.io/tracks/cidstream/baeaaaiqsebvdtypg3s6kqnpeq7i3greq5l57unppf2h35c2vo7pi3xxs7cgjq?id3=true&id3_artist=Dont+Die+At+Work&id3_title=S.Maze+-+Enigma&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebvdtypg3s6kqnpeq7i3greq5l57unppf2h35c2vo7pi3xxs7cgjq%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A102762809%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x29de0d8a4ea3daf88c6311c49c429f40d346999f3326bcf7afe9a57103445fc038f9289a8345317da51104a6e672ee1887da6fd8a3d5e333ecfd65a50b99c9dd00%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
         "https://audius-creator-6.theblueprint.xyz",
-        "https://audius-content-6.figment.io"
+        "https://audius-content-11.cultur3stake.com"
       ]
     },
     "download": null,
@@ -2544,12 +2544,12 @@
       "payout_wallet": "",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-content-11.figment.io/content/01JWAFBMETEMAVP0VB2777MJVC/1000x1000.jpg",
-        "150x150": "https://audius-content-11.figment.io/content/01JWAFBMETEMAVP0VB2777MJVC/150x150.jpg",
-        "480x480": "https://audius-content-11.figment.io/content/01JWAFBMETEMAVP0VB2777MJVC/480x480.jpg",
+        "1000x1000": "https://audius-cn1.tikilabs.com/content/01JWAFBMETEMAVP0VB2777MJVC/1000x1000.jpg",
+        "150x150": "https://audius-cn1.tikilabs.com/content/01JWAFBMETEMAVP0VB2777MJVC/150x150.jpg",
+        "480x480": "https://audius-cn1.tikilabs.com/content/01JWAFBMETEMAVP0VB2777MJVC/480x480.jpg",
         "mirrors": [
+          "https://audius-content-11.figment.io",
           "https://audius-content-1.cultur3stake.com",
-          "https://audius-cn1.tikilabs.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -2591,7 +2591,7 @@
     "gemMetrics": {
       "score": 87,
       "engagement": 100,
-      "freshness": 94.64995503472223,
+      "freshness": 94.60373774305556,
       "underdog": 47.5764743644993,
       "plays": 31,
       "followers": 418
@@ -2686,11 +2686,11 @@
       ]
     },
     "stream": {
-      "url": "https://audius-content-7.figment.io/tracks/cidstream/baeaaaiqsea7wojy4mt44nmd6xcyznnp7e3k2dtmsyfaks4q6laaxse3mo2lgo?id3=true&id3_artist=Mikes+Revenge&id3_title=Jack+U+feat.+Justin+Bieber+-+Where+Are+U+Now+%28Mikes+Revenge+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsea7wojy4mt44nmd6xcyznnp7e3k2dtmsyfaks4q6laaxse3mo2lgo%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A554639266%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xb3b226c3d1308cb52878d94299b4ff0e51b00c9d12d90b891368eac766aabf6b3cf939bb43c9cfcb72b2c0b0e0b07d355ae741c46a7d45ec5d2abc7a7c832b1a01%22%7D",
+      "url": "https://audius-creator-10.theblueprint.xyz/tracks/cidstream/baeaaaiqsea7wojy4mt44nmd6xcyznnp7e3k2dtmsyfaks4q6laaxse3mo2lgo?id3=true&id3_artist=Mikes+Revenge&id3_title=Jack+U+feat.+Justin+Bieber+-+Where+Are+U+Now+%28Mikes+Revenge+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsea7wojy4mt44nmd6xcyznnp7e3k2dtmsyfaks4q6laaxse3mo2lgo%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A554639266%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xe82170295c473a8e2e3276dea091762d2ed62d0f06bac0118bb6e1ef61254c8222ac8b698fe0ecca96791dbbfa7213a7b81a2dc0a0a01734d3fa76be11deeb6f01%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-creator-5.theblueprint.xyz",
-        "https://audius-creator-10.theblueprint.xyz"
+        "https://audius-content-7.figment.io",
+        "https://audius-creator-5.theblueprint.xyz"
       ]
     },
     "download": null,
@@ -2708,10 +2708,10 @@
       "blocknumber": 42238947,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://creatornode3.audius.co/content/01H5KGHHG3BR21P69JZ9EDN5Q0/2000x.jpg",
-        "640x": "https://creatornode3.audius.co/content/01H5KGHHG3BR21P69JZ9EDN5Q0/640x.jpg",
+        "2000x": "https://audius-content-9.cultur3stake.com/content/01H5KGHHG3BR21P69JZ9EDN5Q0/2000x.jpg",
+        "640x": "https://audius-content-9.cultur3stake.com/content/01H5KGHHG3BR21P69JZ9EDN5Q0/640x.jpg",
         "mirrors": [
-          "https://audius-content-9.cultur3stake.com",
+          "https://creatornode3.audius.co",
           "https://audius-discovery-3.altego.net",
           "https://creatornode2.audius.co"
         ]
@@ -2743,12 +2743,12 @@
       "payout_wallet": "2xYmQw1ksRPJeUCzvDU2qiBfHZeRY1wi58TceKdqtTXi",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-content-4.cultur3stake.com/content/QmSJ7Ktmq7TTPgJcgt7crUuLASp8LPFSEjjbCztrRLdB3b/1000x1000.jpg",
-        "150x150": "https://audius-content-4.cultur3stake.com/content/QmSJ7Ktmq7TTPgJcgt7crUuLASp8LPFSEjjbCztrRLdB3b/150x150.jpg",
-        "480x480": "https://audius-content-4.cultur3stake.com/content/QmSJ7Ktmq7TTPgJcgt7crUuLASp8LPFSEjjbCztrRLdB3b/480x480.jpg",
+        "1000x1000": "https://audius-content-12.cultur3stake.com/content/QmSJ7Ktmq7TTPgJcgt7crUuLASp8LPFSEjjbCztrRLdB3b/1000x1000.jpg",
+        "150x150": "https://audius-content-12.cultur3stake.com/content/QmSJ7Ktmq7TTPgJcgt7crUuLASp8LPFSEjjbCztrRLdB3b/150x150.jpg",
+        "480x480": "https://audius-content-12.cultur3stake.com/content/QmSJ7Ktmq7TTPgJcgt7crUuLASp8LPFSEjjbCztrRLdB3b/480x480.jpg",
         "mirrors": [
+          "https://audius-content-4.cultur3stake.com",
           "https://creatornode.audius.co",
-          "https://audius-content-12.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -2790,7 +2790,7 @@
     "gemMetrics": {
       "score": 89,
       "engagement": 100,
-      "freshness": 96.91610086805555,
+      "freshness": 96.86988357638889,
       "underdog": 50.37114742995391,
       "plays": 38,
       "followers": 303
@@ -2881,13 +2881,13 @@
       "480x480": "https://audius-discovery-10.cultur3stake.com/content/baeaaaiqseansre2qvcvaxcsvsm5krlzpmfiplii44w75hta6ybehxejnxwu4g/480x480.jpg",
       "1000x1000": "https://audius-discovery-10.cultur3stake.com/content/baeaaaiqseansre2qvcvaxcsvsm5krlzpmfiplii44w75hta6ybehxejnxwu4g/1000x1000.jpg",
       "mirrors": [
-        "https://creatornode.audius.co",
         "https://audius-content-9.figment.io",
+        "https://creatornode.audius.co",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://validator.stuffisup.com/tracks/cidstream/baeaaaiqsebrzlocp42ww5ynof4db72wbzaxtplzpd5hdpi4z2o45d6fca7ezu?id3=true&id3_artist=MYSTXRIVL&id3_title=MYSTXRIVL+x+Sokos+-+Pixel&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebrzlocp42ww5ynof4db72wbzaxtplzpd5hdpi4z2o45d6fca7ezu%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1251607260%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xe910c10defdac6631cb2c8922e3e3a6e5e7826c26113008b3fc65ea82acb7a8106fd316242b816d0ddd04290f673aa7af84d0029ac1056b7f4677ae10199bf3800%22%7D",
+      "url": "https://validator.stuffisup.com/tracks/cidstream/baeaaaiqsebrzlocp42ww5ynof4db72wbzaxtplzpd5hdpi4z2o45d6fca7ezu?id3=true&id3_artist=MYSTXRIVL&id3_title=MYSTXRIVL+x+Sokos+-+Pixel&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebrzlocp42ww5ynof4db72wbzaxtplzpd5hdpi4z2o45d6fca7ezu%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1251607260%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x89ffea15d3c330a0ae1ccefa8b466f8cb66b58bac7a4e78f3055405095d4d8da47a125fd4e115e331dc86553fca7172f2aca4d4c76a53f5e5b31ff4243d1c7e801%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
         "https://creatornode.audius.co",
@@ -2909,11 +2909,11 @@
       "blocknumber": 55810027,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-content-1.cultur3stake.com/content/01HJA7VS9MZGFDR5B4XSQYSR5S/2000x.jpg",
-        "640x": "https://audius-content-1.cultur3stake.com/content/01HJA7VS9MZGFDR5B4XSQYSR5S/640x.jpg",
+        "2000x": "https://cn1.mainnet.audiusindex.org/content/01HJA7VS9MZGFDR5B4XSQYSR5S/2000x.jpg",
+        "640x": "https://cn1.mainnet.audiusindex.org/content/01HJA7VS9MZGFDR5B4XSQYSR5S/640x.jpg",
         "mirrors": [
-          "https://cn1.mainnet.audiusindex.org",
           "https://audius-05.staked.cloud",
+          "https://audius-content-1.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -2991,7 +2991,7 @@
     "gemMetrics": {
       "score": 82,
       "engagement": 100,
-      "freshness": 78.44686475694445,
+      "freshness": 78.40064746527779,
       "underdog": 52.72776040215711,
       "plays": 46,
       "followers": 231
@@ -3078,17 +3078,17 @@
     "permalink": "/santoritmo/phone-abb-monroy-carlos-guerra-fatboi-santoritmo",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-discovery-10.cultur3stake.com/content/baeaaaiqsecekg3owet5bizndyu4ntsmxuroo6mjfnvu3tfbxlwq4d7chdcvme/150x150.jpg",
-      "480x480": "https://audius-discovery-10.cultur3stake.com/content/baeaaaiqsecekg3owet5bizndyu4ntsmxuroo6mjfnvu3tfbxlwq4d7chdcvme/480x480.jpg",
-      "1000x1000": "https://audius-discovery-10.cultur3stake.com/content/baeaaaiqsecekg3owet5bizndyu4ntsmxuroo6mjfnvu3tfbxlwq4d7chdcvme/1000x1000.jpg",
+      "150x150": "https://audius-creator-2.theblueprint.xyz/content/baeaaaiqsecekg3owet5bizndyu4ntsmxuroo6mjfnvu3tfbxlwq4d7chdcvme/150x150.jpg",
+      "480x480": "https://audius-creator-2.theblueprint.xyz/content/baeaaaiqsecekg3owet5bizndyu4ntsmxuroo6mjfnvu3tfbxlwq4d7chdcvme/480x480.jpg",
+      "1000x1000": "https://audius-creator-2.theblueprint.xyz/content/baeaaaiqsecekg3owet5bizndyu4ntsmxuroo6mjfnvu3tfbxlwq4d7chdcvme/1000x1000.jpg",
       "mirrors": [
-        "https://audius-creator-2.theblueprint.xyz",
         "https://audius-discovery-2.cultur3stake.com",
+        "https://audius-discovery-10.cultur3stake.com",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-discovery-4.cultur3stake.com/tracks/cidstream/baeaaaiqseb37oyzs6yaz2q5kujeytfbswsqhhqq23kpbg6osns5fylygih5im?id3=true&id3_artist=SantoRitmo&id3_title=PHONE+-+ABB+MONROY%2C+CARLOS+GUERRA%2C+FATBOI%2C+SANTORITMO+&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseb37oyzs6yaz2q5kujeytfbswsqhhqq23kpbg6osns5fylygih5im%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1828212836%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x4aad12d67acc3b68038a9e4172639ebbf45efcd28ee446261873c6ff0146f072193b3fdee5e55cfa7d6cf07ed3b2cdf856eecf824b01bf827547031e9d1c2cff01%22%7D",
+      "url": "https://audius-discovery-4.cultur3stake.com/tracks/cidstream/baeaaaiqseb37oyzs6yaz2q5kujeytfbswsqhhqq23kpbg6osns5fylygih5im?id3=true&id3_artist=SantoRitmo&id3_title=PHONE+-+ABB+MONROY%2C+CARLOS+GUERRA%2C+FATBOI%2C+SANTORITMO+&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseb37oyzs6yaz2q5kujeytfbswsqhhqq23kpbg6osns5fylygih5im%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1828212836%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xc27f2c96c2e37f648b90bdc4730d39fac0d6e12bb84471a7ded535e1a3c7d6bf3bb89b6b9cdb7c16dbf81dc9fc263fd9e2e8073223d46c33ed8447bb747f342200%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
         "https://audius-03.staked.cloud",
@@ -3118,8 +3118,8 @@
         "2000x": "https://audius-discovery-2.cultur3stake.com/content/01JYJ2GNR13ND9YEPFPX0GHD4G/2000x.jpg",
         "640x": "https://audius-discovery-2.cultur3stake.com/content/01JYJ2GNR13ND9YEPFPX0GHD4G/640x.jpg",
         "mirrors": [
-          "https://audius-cn1.tikilabs.com",
           "https://audius-content-1.cultur3stake.com",
+          "https://audius-cn1.tikilabs.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -3154,8 +3154,8 @@
         "150x150": "https://audius-discovery-1.cultur3stake.com/content/01K96BP2WJM9VCZRRYA8WQ9V9D/150x150.jpg",
         "480x480": "https://audius-discovery-1.cultur3stake.com/content/01K96BP2WJM9VCZRRYA8WQ9V9D/480x480.jpg",
         "mirrors": [
-          "https://audius-content-3.cultur3stake.com",
           "https://audius-discovery-10.cultur3stake.com",
+          "https://audius-content-3.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -3197,7 +3197,7 @@
     "gemMetrics": {
       "score": 89,
       "engagement": 100,
-      "freshness": 97.38196892361111,
+      "freshness": 97.33575163194445,
       "underdog": 52.25220347322541,
       "plays": 33,
       "followers": 244
@@ -3286,17 +3286,17 @@
       "480x480": "https://audius-discovery-10.cultur3stake.com/content/baeaaaiqsea5wpova4qpmvbkdzizwekn222mj7jeknpjk5wga7cetyjydkve3u/480x480.jpg",
       "1000x1000": "https://audius-discovery-10.cultur3stake.com/content/baeaaaiqsea5wpova4qpmvbkdzizwekn222mj7jeknpjk5wga7cetyjydkve3u/1000x1000.jpg",
       "mirrors": [
-        "https://audius-discovery-3.altego.net",
         "https://audius-content-1.cultur3stake.com",
+        "https://audius-discovery-3.altego.net",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-13.cultur3stake.com/tracks/cidstream/baeaaaiqseczthg7t6ct6p7ahsn3lev7mbv3nfbi3om654wjgcji6pxyjlast6?id3=true&id3_artist=Yuriel+Es+Musica&id3_title=Como+Antes+%28Feat.+Bad+Bunny%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseczthg7t6ct6p7ahsn3lev7mbv3nfbi3om654wjgcji6pxyjlast6%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A89509212%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x9e9e9c29171f9cc9a4bac5e4a978926ebe00f8eb0dbb3a935e7808b607e2c1e97e34c48d3ef5f698a788e300eb88668307cac0c10d197023532bfda10bf8ef6100%22%7D",
+      "url": "https://audius-content-6.cultur3stake.com/tracks/cidstream/baeaaaiqseczthg7t6ct6p7ahsn3lev7mbv3nfbi3om654wjgcji6pxyjlast6?id3=true&id3_artist=Yuriel+Es+Musica&id3_title=Como+Antes+%28Feat.+Bad+Bunny%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseczthg7t6ct6p7ahsn3lev7mbv3nfbi3om654wjgcji6pxyjlast6%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A89509212%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x02b491c93e8ea43d4eb0ea1e96b4d3d61d61fbbd16ce0eacb9a208debb5ba03c2c3808a88ed36dd963880a7a84cb63f63fc4b856399d81f3fbe9512ac3ade65a00%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-creator-10.theblueprint.xyz",
-        "https://audius-content-6.cultur3stake.com"
+        "https://audius-content-13.cultur3stake.com",
+        "https://audius-creator-10.theblueprint.xyz"
       ]
     },
     "download": null,
@@ -3314,11 +3314,11 @@
       "blocknumber": 114123368,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-content-5.cultur3stake.com/content/baeaaaiqsedxckqgb3hs4diz4cmejqzyh4ea2vbkslwl3xvxj6hby2ya6quz3k/2000x.jpg",
-        "640x": "https://audius-content-5.cultur3stake.com/content/baeaaaiqsedxckqgb3hs4diz4cmejqzyh4ea2vbkslwl3xvxj6hby2ya6quz3k/640x.jpg",
+        "2000x": "https://audius-creator-13.theblueprint.xyz/content/baeaaaiqsedxckqgb3hs4diz4cmejqzyh4ea2vbkslwl3xvxj6hby2ya6quz3k/2000x.jpg",
+        "640x": "https://audius-creator-13.theblueprint.xyz/content/baeaaaiqsedxckqgb3hs4diz4cmejqzyh4ea2vbkslwl3xvxj6hby2ya6quz3k/640x.jpg",
         "mirrors": [
-          "https://audius-creator-13.theblueprint.xyz",
           "https://cn1.mainnet.audiusindex.org",
+          "https://audius-content-5.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -3349,12 +3349,12 @@
       "payout_wallet": "D7FJkaVR2N5ifHkNrbDPVKTpmkZnXJtrFRdzfwwrBtZs",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-discovery-7.cultur3stake.com/content/baeaaaiqseaitswwv5b4kbunjw4kqh2utvdxazj4mfwd2y7eovjki67rcwlxpc/1000x1000.jpg",
-        "150x150": "https://audius-discovery-7.cultur3stake.com/content/baeaaaiqseaitswwv5b4kbunjw4kqh2utvdxazj4mfwd2y7eovjki67rcwlxpc/150x150.jpg",
-        "480x480": "https://audius-discovery-7.cultur3stake.com/content/baeaaaiqseaitswwv5b4kbunjw4kqh2utvdxazj4mfwd2y7eovjki67rcwlxpc/480x480.jpg",
+        "1000x1000": "https://audius-creator-7.theblueprint.xyz/content/baeaaaiqseaitswwv5b4kbunjw4kqh2utvdxazj4mfwd2y7eovjki67rcwlxpc/1000x1000.jpg",
+        "150x150": "https://audius-creator-7.theblueprint.xyz/content/baeaaaiqseaitswwv5b4kbunjw4kqh2utvdxazj4mfwd2y7eovjki67rcwlxpc/150x150.jpg",
+        "480x480": "https://audius-creator-7.theblueprint.xyz/content/baeaaaiqseaitswwv5b4kbunjw4kqh2utvdxazj4mfwd2y7eovjki67rcwlxpc/480x480.jpg",
         "mirrors": [
-          "https://audius-creator-7.theblueprint.xyz",
           "https://audius-content-1.figment.io",
+          "https://audius-discovery-7.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -3396,7 +3396,7 @@
     "gemMetrics": {
       "score": 89,
       "engagement": 100,
-      "freshness": 95.1158578125,
+      "freshness": 95.06964052083333,
       "underdog": 56.954233112338876,
       "plays": 36,
       "followers": 142
@@ -3485,16 +3485,16 @@
       "480x480": "https://audius-discovery-7.cultur3stake.com/content/baeaaaiqsebtouinagtlc7juvbrtj5f7uaxjec4tvfga24e5j47oxmhho3dywo/480x480.jpg",
       "1000x1000": "https://audius-discovery-7.cultur3stake.com/content/baeaaaiqsebtouinagtlc7juvbrtj5f7uaxjec4tvfga24e5j47oxmhho3dywo/1000x1000.jpg",
       "mirrors": [
-        "https://audius-content-7.figment.io",
         "https://creatornode2.audius.co",
+        "https://audius-content-7.figment.io",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://cn3.mainnet.audiusindex.org/tracks/cidstream/baeaaaiqsedz2tvwwrllsptdjf5zehfp73fieao2rlhd53icpysbo3bnvidmso?id3=true&id3_artist=Rixx&id3_title=Otra+Vez+-+Rixx%2C+Naaly+Rose&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsedz2tvwwrllsptdjf5zehfp73fieao2rlhd53icpysbo3bnvidmso%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A650612705%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x1d1f66cfe7547fb7f0bf4af1f399d5849e487711689f48ec7447e36f1b3b330058e0ea13fd79a0a665edd9c990aee0a4816f2126e7b73f200aa5e956f4b33e5001%22%7D",
+      "url": "https://audius-content-5.figment.io/tracks/cidstream/baeaaaiqsedz2tvwwrllsptdjf5zehfp73fieao2rlhd53icpysbo3bnvidmso?id3=true&id3_artist=Rixx&id3_title=Otra+Vez+-+Rixx%2C+Naaly+Rose&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsedz2tvwwrllsptdjf5zehfp73fieao2rlhd53icpysbo3bnvidmso%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A650612705%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x4e7261aa66bb0e4030867dc68186e990a137c5fea96f688cca6925f6a14c5207255a2d03691e96ea60e1839357ac32e6d5688c619c7b8d3491aeaea6d2c07f5301%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-5.figment.io",
+        "https://cn3.mainnet.audiusindex.org",
         "https://audius-discovery-7.cultur3stake.com"
       ]
     },
@@ -3513,10 +3513,10 @@
       "blocknumber": 113677250,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://cn1.mainnet.audiusindex.org/content/01K5Z6Z6X64BRB8QK37QA6AETE/2000x.jpg",
-        "640x": "https://cn1.mainnet.audiusindex.org/content/01K5Z6Z6X64BRB8QK37QA6AETE/640x.jpg",
+        "2000x": "https://audius-content-11.cultur3stake.com/content/01K5Z6Z6X64BRB8QK37QA6AETE/2000x.jpg",
+        "640x": "https://audius-content-11.cultur3stake.com/content/01K5Z6Z6X64BRB8QK37QA6AETE/640x.jpg",
         "mirrors": [
-          "https://audius-content-11.cultur3stake.com",
+          "https://cn1.mainnet.audiusindex.org",
           "https://audius-creator-3.theblueprint.xyz",
           "https://creatornode2.audius.co"
         ]
@@ -3548,12 +3548,12 @@
       "payout_wallet": "Cgr3y4CVLJW8xLcJaH7sGwqSK5K1qqiMkMkMyZSbJjhp",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-content-2.cultur3stake.com/content/01KDEXEFVF4RZRJXT58BVBNH9D/1000x1000.jpg",
-        "150x150": "https://audius-content-2.cultur3stake.com/content/01KDEXEFVF4RZRJXT58BVBNH9D/150x150.jpg",
-        "480x480": "https://audius-content-2.cultur3stake.com/content/01KDEXEFVF4RZRJXT58BVBNH9D/480x480.jpg",
+        "1000x1000": "https://audius-content-10.cultur3stake.com/content/01KDEXEFVF4RZRJXT58BVBNH9D/1000x1000.jpg",
+        "150x150": "https://audius-content-10.cultur3stake.com/content/01KDEXEFVF4RZRJXT58BVBNH9D/150x150.jpg",
+        "480x480": "https://audius-content-10.cultur3stake.com/content/01KDEXEFVF4RZRJXT58BVBNH9D/480x480.jpg",
         "mirrors": [
+          "https://audius-content-2.cultur3stake.com",
           "https://audius-creator-1.theblueprint.xyz",
-          "https://audius-content-10.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -3595,7 +3595,7 @@
     "gemMetrics": {
       "score": 81,
       "engagement": 100,
-      "freshness": 78.54172586805555,
+      "freshness": 78.49550857638889,
       "underdog": 49.89700043360188,
       "plays": 73,
       "followers": 320
@@ -3680,21 +3680,21 @@
     "permalink": "/jonaylor89/im-new-to-github-and-i-have-lots-to-say",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-03.staked.cloud/content/baeaaaiqseaju4wz2clysbbcys4t3lg44mptsxnbptfxp2chyxlrcgl6jinqdy/150x150.jpg",
-      "480x480": "https://audius-03.staked.cloud/content/baeaaaiqseaju4wz2clysbbcys4t3lg44mptsxnbptfxp2chyxlrcgl6jinqdy/480x480.jpg",
-      "1000x1000": "https://audius-03.staked.cloud/content/baeaaaiqseaju4wz2clysbbcys4t3lg44mptsxnbptfxp2chyxlrcgl6jinqdy/1000x1000.jpg",
+      "150x150": "https://audius-creator-6.theblueprint.xyz/content/baeaaaiqseaju4wz2clysbbcys4t3lg44mptsxnbptfxp2chyxlrcgl6jinqdy/150x150.jpg",
+      "480x480": "https://audius-creator-6.theblueprint.xyz/content/baeaaaiqseaju4wz2clysbbcys4t3lg44mptsxnbptfxp2chyxlrcgl6jinqdy/480x480.jpg",
+      "1000x1000": "https://audius-creator-6.theblueprint.xyz/content/baeaaaiqseaju4wz2clysbbcys4t3lg44mptsxnbptfxp2chyxlrcgl6jinqdy/1000x1000.jpg",
       "mirrors": [
+        "https://audius-03.staked.cloud",
         "https://audius-creator-3.theblueprint.xyz",
-        "https://audius-creator-6.theblueprint.xyz",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-creator-7.theblueprint.xyz/tracks/cidstream/baeaaaiqsebt7pjuff7c534vvqdtenrpas6omywp4zsvmp7jmb4b66kvpodkeq?id3=true&id3_artist=Johannes&id3_title=I%27m+new+to+GitHub+and+I+have+lots+to+say&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebt7pjuff7c534vvqdtenrpas6omywp4zsvmp7jmb4b66kvpodkeq%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1896523778%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xb036f22cc2a852a2bcb2e3da0d475475c6131a621e2fabf0d6d381480b4ca59303158a6aee5d9ff97b8d88efdb5fe2ea5ddbfbd28477d01cbb9213acb023c98601%22%7D",
+      "url": "https://audius-creator-4.theblueprint.xyz/tracks/cidstream/baeaaaiqsebt7pjuff7c534vvqdtenrpas6omywp4zsvmp7jmb4b66kvpodkeq?id3=true&id3_artist=Johannes&id3_title=I%27m+new+to+GitHub+and+I+have+lots+to+say&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebt7pjuff7c534vvqdtenrpas6omywp4zsvmp7jmb4b66kvpodkeq%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1896523778%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xd45acade80d1dd68b6012141ac89d3aa83664642e67f412b58f144713ac4ec7441493af4ab29616069ccd8879c9d05000ec12b23c0882df280f7a73867bce2e600%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-6.cultur3stake.com",
-        "https://audius-creator-4.theblueprint.xyz"
+        "https://audius-creator-7.theblueprint.xyz",
+        "https://audius-content-6.cultur3stake.com"
       ]
     },
     "download": null,
@@ -3715,8 +3715,8 @@
         "2000x": "https://audius-content-9.cultur3stake.com/content/01JRTYS52V09DXT52CCT25FVQ2/2000x.jpg",
         "640x": "https://audius-content-9.cultur3stake.com/content/01JRTYS52V09DXT52CCT25FVQ2/640x.jpg",
         "mirrors": [
-          "https://v.monophonic.digital",
           "https://audius-creator-2.theblueprint.xyz",
+          "https://v.monophonic.digital",
           "https://creatornode2.audius.co"
         ]
       },
@@ -3747,12 +3747,12 @@
       "payout_wallet": "6Lp8u3NKXG7d9ztxZJqiYPt6khpu9y6hymv9rfdGF6Mf",
       "playlist_count": 1,
       "profile_picture": {
-        "1000x1000": "https://audius-content-6.figment.io/content/01JF3FA69HYEN9S30EDAMCS0DW/1000x1000.jpg",
-        "150x150": "https://audius-content-6.figment.io/content/01JF3FA69HYEN9S30EDAMCS0DW/150x150.jpg",
-        "480x480": "https://audius-content-6.figment.io/content/01JF3FA69HYEN9S30EDAMCS0DW/480x480.jpg",
+        "1000x1000": "https://audius-content-10.cultur3stake.com/content/01JF3FA69HYEN9S30EDAMCS0DW/1000x1000.jpg",
+        "150x150": "https://audius-content-10.cultur3stake.com/content/01JF3FA69HYEN9S30EDAMCS0DW/150x150.jpg",
+        "480x480": "https://audius-content-10.cultur3stake.com/content/01JF3FA69HYEN9S30EDAMCS0DW/480x480.jpg",
         "mirrors": [
-          "https://audius-content-10.cultur3stake.com",
           "https://audius-content-14.figment.io",
+          "https://audius-content-6.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -3794,7 +3794,7 @@
     "gemMetrics": {
       "score": 88,
       "engagement": 100,
-      "freshness": 96.56408697916666,
+      "freshness": 96.5178696875,
       "underdog": 49.11863911299449,
       "plays": 48,
       "followers": 350
@@ -3883,8 +3883,8 @@
       "480x480": "https://audius-content-9.cultur3stake.com/content/baeaaaiqsebjmclrx5sqvewxuulnco5z26ixrtuhhwbtnwhq5cmj7onrxxrd2o/480x480.jpg",
       "1000x1000": "https://audius-content-9.cultur3stake.com/content/baeaaaiqsebjmclrx5sqvewxuulnco5z26ixrtuhhwbtnwhq5cmj7onrxxrd2o/1000x1000.jpg",
       "mirrors": [
-        "https://audius-content-4.cultur3stake.com",
         "https://cn3.mainnet.audiusindex.org",
+        "https://audius-content-4.cultur3stake.com",
         "https://creatornode2.audius.co"
       ]
     },
@@ -3904,11 +3904,11 @@
       "blocknumber": 114001002,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-04.staked.cloud/content/baeaaaiqsebubzhpbczfpuhdfnvt5jr54wtbsdu22iiycyq62cxnro4lni7oru/2000x.jpg",
-        "640x": "https://audius-04.staked.cloud/content/baeaaaiqsebubzhpbczfpuhdfnvt5jr54wtbsdu22iiycyq62cxnro4lni7oru/640x.jpg",
+        "2000x": "https://audius-standardvc-1-validator-3.figment.io/content/baeaaaiqsebubzhpbczfpuhdfnvt5jr54wtbsdu22iiycyq62cxnro4lni7oru/2000x.jpg",
+        "640x": "https://audius-standardvc-1-validator-3.figment.io/content/baeaaaiqsebubzhpbczfpuhdfnvt5jr54wtbsdu22iiycyq62cxnro4lni7oru/640x.jpg",
         "mirrors": [
-          "https://audius-standardvc-1-validator-3.figment.io",
           "https://audius-content-10.figment.io",
+          "https://audius-04.staked.cloud",
           "https://creatornode2.audius.co"
         ]
       },
@@ -3939,12 +3939,12 @@
       "payout_wallet": "",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://cn3.mainnet.audiusindex.org/content/baeaaaiqsebrfdd6ti63zdejgebblbtouucd6unbmitbfe73k7lk6wihah2cqy/1000x1000.jpg",
-        "150x150": "https://cn3.mainnet.audiusindex.org/content/baeaaaiqsebrfdd6ti63zdejgebblbtouucd6unbmitbfe73k7lk6wihah2cqy/150x150.jpg",
-        "480x480": "https://cn3.mainnet.audiusindex.org/content/baeaaaiqsebrfdd6ti63zdejgebblbtouucd6unbmitbfe73k7lk6wihah2cqy/480x480.jpg",
+        "1000x1000": "https://audius-03.staked.cloud/content/baeaaaiqsebrfdd6ti63zdejgebblbtouucd6unbmitbfe73k7lk6wihah2cqy/1000x1000.jpg",
+        "150x150": "https://audius-03.staked.cloud/content/baeaaaiqsebrfdd6ti63zdejgebblbtouucd6unbmitbfe73k7lk6wihah2cqy/150x150.jpg",
+        "480x480": "https://audius-03.staked.cloud/content/baeaaaiqsebrfdd6ti63zdejgebblbtouucd6unbmitbfe73k7lk6wihah2cqy/480x480.jpg",
         "mirrors": [
           "https://cn1.mainnet.audiusindex.org",
-          "https://audius-03.staked.cloud",
+          "https://cn3.mainnet.audiusindex.org",
           "https://creatornode2.audius.co"
         ]
       },
@@ -3990,7 +3990,7 @@
     "gemMetrics": {
       "score": 85,
       "engagement": 100,
-      "freshness": 76.67127447916667,
+      "freshness": 76.6250571875,
       "underdog": 73.97940008672037,
       "plays": 17,
       "followers": 20
@@ -4075,21 +4075,21 @@
     "permalink": "/destinuna/zeff-canttrust-1",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://creatornode3.audius.co/content/baeaaaiqsea2nq4web7bbh3m4jz4hkconq7pg4rppqmmaxzey3m3anx75pkppc/150x150.jpg",
-      "480x480": "https://creatornode3.audius.co/content/baeaaaiqsea2nq4web7bbh3m4jz4hkconq7pg4rppqmmaxzey3m3anx75pkppc/480x480.jpg",
-      "1000x1000": "https://creatornode3.audius.co/content/baeaaaiqsea2nq4web7bbh3m4jz4hkconq7pg4rppqmmaxzey3m3anx75pkppc/1000x1000.jpg",
+      "150x150": "https://audius-content-7.figment.io/content/baeaaaiqsea2nq4web7bbh3m4jz4hkconq7pg4rppqmmaxzey3m3anx75pkppc/150x150.jpg",
+      "480x480": "https://audius-content-7.figment.io/content/baeaaaiqsea2nq4web7bbh3m4jz4hkconq7pg4rppqmmaxzey3m3anx75pkppc/480x480.jpg",
+      "1000x1000": "https://audius-content-7.figment.io/content/baeaaaiqsea2nq4web7bbh3m4jz4hkconq7pg4rppqmmaxzey3m3anx75pkppc/1000x1000.jpg",
       "mirrors": [
         "https://audius-content-14.figment.io",
-        "https://audius-content-7.figment.io",
+        "https://creatornode3.audius.co",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-3.figment.io/tracks/cidstream/baeaaaiqsecd7e6x2yh3ogny63tdjirtwtyihxok5axb64r2i2okmilb2dinw6?id3=true&id3_artist=Destinuna&id3_title=zeff+-+canttrust&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsecd7e6x2yh3ogny63tdjirtwtyihxok5axb64r2i2okmilb2dinw6%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1251123169%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x7ff13628a1fafb5929dbdd5deb3fa7da86f4b8fc7b8b4ebeccab4c30e4f2bf0e2cc4b7f1b1e31b8628ec96504d1002a96f372d63d48c9598100a1126828251dd00%22%7D",
+      "url": "https://audius-creator-6.theblueprint.xyz/tracks/cidstream/baeaaaiqsecd7e6x2yh3ogny63tdjirtwtyihxok5axb64r2i2okmilb2dinw6?id3=true&id3_artist=Destinuna&id3_title=zeff+-+canttrust&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsecd7e6x2yh3ogny63tdjirtwtyihxok5axb64r2i2okmilb2dinw6%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1251123169%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x005774b91ac8dcd8b6bf7466266ff3d3f8fa2c4180f2218b5d9bf60fbfadac976b247ec44580793a9b9c9ac873fdfde021f46819b472529472ee60a9e9765aaa01%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-creator-6.theblueprint.xyz",
-        "https://audius-discovery-4.cultur3stake.com"
+        "https://audius-discovery-4.cultur3stake.com",
+        "https://audius-content-3.figment.io"
       ]
     },
     "download": null,
@@ -4147,12 +4147,12 @@
       "payout_wallet": "F8cbzkV32xsFE6g4FrqvLWtBrU755urcLdB41291XhcA",
       "playlist_count": 2,
       "profile_picture": {
-        "1000x1000": "https://v.monophonic.digital/content/QmfHNtnydtxBCd5ADrNoQz79nZWx7V1ikDNaMjQoRfM45C/1000x1000.jpg",
-        "150x150": "https://v.monophonic.digital/content/QmfHNtnydtxBCd5ADrNoQz79nZWx7V1ikDNaMjQoRfM45C/150x150.jpg",
-        "480x480": "https://v.monophonic.digital/content/QmfHNtnydtxBCd5ADrNoQz79nZWx7V1ikDNaMjQoRfM45C/480x480.jpg",
+        "1000x1000": "https://audius-content-1.cultur3stake.com/content/QmfHNtnydtxBCd5ADrNoQz79nZWx7V1ikDNaMjQoRfM45C/1000x1000.jpg",
+        "150x150": "https://audius-content-1.cultur3stake.com/content/QmfHNtnydtxBCd5ADrNoQz79nZWx7V1ikDNaMjQoRfM45C/150x150.jpg",
+        "480x480": "https://audius-content-1.cultur3stake.com/content/QmfHNtnydtxBCd5ADrNoQz79nZWx7V1ikDNaMjQoRfM45C/480x480.jpg",
         "mirrors": [
-          "https://audius-content-1.cultur3stake.com",
           "https://audius-creator-12.theblueprint.xyz",
+          "https://v.monophonic.digital",
           "https://creatornode2.audius.co"
         ]
       },
@@ -4192,9 +4192,9 @@
     "stream_conditions": null,
     "download_conditions": null,
     "gemMetrics": {
-      "score": 85,
+      "score": 84,
       "engagement": 100,
-      "freshness": 96.64717725694445,
+      "freshness": 96.60095996527778,
       "underdog": 29.215968014117436,
       "plays": 63,
       "followers": 3461
@@ -4279,21 +4279,21 @@
     "permalink": "/Jazcardan/jazcardan-sweet-sunset",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://cn4.mainnet.audiusindex.org/content/baeaaaiqsedu756qkjurhwyw2yio5crz752dvosjtx3s2azvzyesq4ui4pmdmw/150x150.jpg",
-      "480x480": "https://cn4.mainnet.audiusindex.org/content/baeaaaiqsedu756qkjurhwyw2yio5crz752dvosjtx3s2azvzyesq4ui4pmdmw/480x480.jpg",
-      "1000x1000": "https://cn4.mainnet.audiusindex.org/content/baeaaaiqsedu756qkjurhwyw2yio5crz752dvosjtx3s2azvzyesq4ui4pmdmw/1000x1000.jpg",
+      "150x150": "https://cn0.mainnet.audiusindex.org/content/baeaaaiqsedu756qkjurhwyw2yio5crz752dvosjtx3s2azvzyesq4ui4pmdmw/150x150.jpg",
+      "480x480": "https://cn0.mainnet.audiusindex.org/content/baeaaaiqsedu756qkjurhwyw2yio5crz752dvosjtx3s2azvzyesq4ui4pmdmw/480x480.jpg",
+      "1000x1000": "https://cn0.mainnet.audiusindex.org/content/baeaaaiqsedu756qkjurhwyw2yio5crz752dvosjtx3s2azvzyesq4ui4pmdmw/1000x1000.jpg",
       "mirrors": [
-        "https://cn0.mainnet.audiusindex.org",
+        "https://cn4.mainnet.audiusindex.org",
         "https://audius-02.staked.cloud",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://cn1.mainnet.audiusindex.org/tracks/cidstream/baeaaaiqsed5urqigxnwr4p5lsuhwsv7ezfxv2otenthc53gbwstzeo24e7usw?id3=true&id3_artist=Jazcardan&id3_title=Jazcardan+-+Sweet+Sunset&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsed5urqigxnwr4p5lsuhwsv7ezfxv2otenthc53gbwstzeo24e7usw%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1142432848%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xbeeaa1e9cb78c081cb4ab9d7b845bf1f0f2d0e4fb01bf32368dc01651c8b006f27e91e2064a116265ced274430b2e1c9f5a324eae59416857912a6fb19d00ff501%22%7D",
+      "url": "https://audius-content-2.cultur3stake.com/tracks/cidstream/baeaaaiqsed5urqigxnwr4p5lsuhwsv7ezfxv2otenthc53gbwstzeo24e7usw?id3=true&id3_artist=Jazcardan&id3_title=Jazcardan+-+Sweet+Sunset&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsed5urqigxnwr4p5lsuhwsv7ezfxv2otenthc53gbwstzeo24e7usw%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1142432848%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xb6ec204b26dd710b7512a2d8b21fcb728e2470ed4c2479ce1fa092753eac326a1375a21741aba1e119d8d20088539df3a4e711730d3bdbb38d7a0b46ef9bf27d00%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-discovery-3.altego.net",
-        "https://audius-content-2.cultur3stake.com"
+        "https://cn1.mainnet.audiusindex.org",
+        "https://audius-discovery-3.altego.net"
       ]
     },
     "download": null,
@@ -4316,11 +4316,11 @@
       "blocknumber": 113928896,
       "coin_flair_mint": "6k8D7oRr3goZ3HonCY2NMoVNGEbaBtB5QA6DbdyxMP3",
       "cover_photo": {
-        "2000x": "https://audius-05.staked.cloud/content/01J20Q3VMH39MHGRGX4J4WX91Y/2000x.jpg",
-        "640x": "https://audius-05.staked.cloud/content/01J20Q3VMH39MHGRGX4J4WX91Y/640x.jpg",
+        "2000x": "https://audius-discovery-4.cultur3stake.com/content/01J20Q3VMH39MHGRGX4J4WX91Y/2000x.jpg",
+        "640x": "https://audius-discovery-4.cultur3stake.com/content/01J20Q3VMH39MHGRGX4J4WX91Y/640x.jpg",
         "mirrors": [
+          "https://audius-05.staked.cloud",
           "https://audius-discovery-2.cultur3stake.com",
-          "https://audius-discovery-4.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -4398,7 +4398,7 @@
     "gemMetrics": {
       "score": 82,
       "engagement": 100,
-      "freshness": 79.27394809027777,
+      "freshness": 79.2277307986111,
       "underdog": 51.46977477270849,
       "plays": 43,
       "followers": 267
@@ -4487,16 +4487,16 @@
       "480x480": "https://audius-creator-2.theblueprint.xyz/content/baeaaaiqsec3w53bvav26ovzojeedkp22bwczibsebfbvkstqolqamymggzecm/480x480.jpg",
       "1000x1000": "https://audius-creator-2.theblueprint.xyz/content/baeaaaiqsec3w53bvav26ovzojeedkp22bwczibsebfbvkstqolqamymggzecm/1000x1000.jpg",
       "mirrors": [
-        "https://audius-02.staked.cloud",
         "https://audius-discovery-8.cultur3stake.com",
+        "https://audius-02.staked.cloud",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://cn1.shakespearetech.com/tracks/cidstream/baeaaaiqsedsp5k5cod53wayrq75lh7ssvozdzeul4wyj3nkxpz2xqxd5wz2au?id3=true&id3_artist=daehan&id3_title=Carly+Rae+Jepsen+-+I+Really+Like+You+%28daehan+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsedsp5k5cod53wayrq75lh7ssvozdzeul4wyj3nkxpz2xqxd5wz2au%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1515918263%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x71ad8bea03de313d757e26208f74ec0b8a02b4032cb3b900278720e1abf1299c0dc9b8c793a58a9afcfe79e51e57417c33edeb71cf0364c3cc7a3b9a76a6f62a01%22%7D",
+      "url": "https://audius-content-11.figment.io/tracks/cidstream/baeaaaiqsedsp5k5cod53wayrq75lh7ssvozdzeul4wyj3nkxpz2xqxd5wz2au?id3=true&id3_artist=daehan&id3_title=Carly+Rae+Jepsen+-+I+Really+Like+You+%28daehan+Remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsedsp5k5cod53wayrq75lh7ssvozdzeul4wyj3nkxpz2xqxd5wz2au%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1515918263%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xaa01ff5868fc1202df61ff7089f70252de3f7ecce1845eb0b8bf53c43c67e4e439e5e1f92ca9859b3247e1c095b24887a04112a39d215ae360463aae35c8864b01%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-11.figment.io",
+        "https://cn1.shakespearetech.com",
         "https://audius-creator-1.theblueprint.xyz"
       ]
     },
@@ -4546,8 +4546,8 @@
         "150x150": "https://cn2.mainnet.audiusindex.org/content/baeaaaiqsecey3lbhrbixyugoq5nj3ey27en2zuh54n3ki7ijhkykukdstjjcs/150x150.jpg",
         "480x480": "https://cn2.mainnet.audiusindex.org/content/baeaaaiqsecey3lbhrbixyugoq5nj3ey27en2zuh54n3ki7ijhkykukdstjjcs/480x480.jpg",
         "mirrors": [
-          "https://audius-content-3.figment.io",
           "https://audius-content-11.figment.io",
+          "https://audius-content-3.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -4589,7 +4589,7 @@
     "gemMetrics": {
       "score": 85,
       "engagement": 100,
-      "freshness": 82.34189947916667,
+      "freshness": 82.2956821875,
       "underdog": 58.344292593671,
       "plays": 23,
       "followers": 121
@@ -4678,16 +4678,16 @@
       "480x480": "https://audius-discovery-2.cultur3stake.com/content/baeaaaiqseagznthgyvevpyzgwqxwbksctaoduqsgjqhsx6hlxudravyqbmpn4/480x480.jpg",
       "1000x1000": "https://audius-discovery-2.cultur3stake.com/content/baeaaaiqseagznthgyvevpyzgwqxwbksctaoduqsgjqhsx6hlxudravyqbmpn4/1000x1000.jpg",
       "mirrors": [
-        "https://audius-discovery-1.cultur3stake.com",
         "https://audius-creator-13.theblueprint.xyz",
+        "https://audius-discovery-1.cultur3stake.com",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-discovery-7.cultur3stake.com/tracks/cidstream/baeaaaiqsebq5h46ekbdiepj2cnfjkv2ig4fsq53uwrctghaeixciyn6rt6ali?id3=true&id3_artist=PREXSE&id3_title=O+X+Y+%28Radio+Edit%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebq5h46ekbdiepj2cnfjkv2ig4fsq53uwrctghaeixciyn6rt6ali%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A2074687228%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x174d6a16a0d9466e8b8d8ed3ed4e40d70910a07ecc0f4725bebae1b4cdfadcbb380690fa9a6bdd6bc4dbc3d731cae2b6dd41d1d2580d1a626a6808e1c39787c801%22%7D",
+      "url": "https://audius-content-8.cultur3stake.com/tracks/cidstream/baeaaaiqsebq5h46ekbdiepj2cnfjkv2ig4fsq53uwrctghaeixciyn6rt6ali?id3=true&id3_artist=PREXSE&id3_title=O+X+Y+%28Radio+Edit%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebq5h46ekbdiepj2cnfjkv2ig4fsq53uwrctghaeixciyn6rt6ali%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A2074687228%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x9d24f12bd78a7287e0bea3dbe75d9d2876165a87a21a3d89f163a0ca989d909411ee4713489fe204edb0bf245453f2701884234e419ea1aaf981fc8c6a2c82b701%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-8.cultur3stake.com",
+        "https://audius-discovery-7.cultur3stake.com",
         "https://audius-discovery-8.cultur3stake.com"
       ]
     },
@@ -4741,12 +4741,12 @@
       "payout_wallet": "A9XAuDjyqbmpsMsGqvugJi57qtmBbWTemR9Wsn8cu14T",
       "playlist_count": 5,
       "profile_picture": {
-        "1000x1000": "https://audius-content-6.cultur3stake.com/content/01JKWG7D00XHVRWPRW1FW0875R/1000x1000.jpg",
-        "150x150": "https://audius-content-6.cultur3stake.com/content/01JKWG7D00XHVRWPRW1FW0875R/150x150.jpg",
-        "480x480": "https://audius-content-6.cultur3stake.com/content/01JKWG7D00XHVRWPRW1FW0875R/480x480.jpg",
+        "1000x1000": "https://audius-content-12.cultur3stake.com/content/01JKWG7D00XHVRWPRW1FW0875R/1000x1000.jpg",
+        "150x150": "https://audius-content-12.cultur3stake.com/content/01JKWG7D00XHVRWPRW1FW0875R/150x150.jpg",
+        "480x480": "https://audius-content-12.cultur3stake.com/content/01JKWG7D00XHVRWPRW1FW0875R/480x480.jpg",
         "mirrors": [
-          "https://audius-content-12.cultur3stake.com",
           "https://cn1.mainnet.audiusindex.org",
+          "https://audius-content-6.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -4788,7 +4788,7 @@
     "gemMetrics": {
       "score": 82,
       "engagement": 100,
-      "freshness": 83.44137864583334,
+      "freshness": 83.39516135416667,
       "underdog": 41.68145576605768,
       "plays": 40,
       "followers": 824
@@ -4873,20 +4873,20 @@
     "permalink": "/imKyyyu/intentions",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-content-12.figment.io/content/baeaaaiqseaknj6gd5kv5khh4upigfuqhmi6ypg2cgh2sqwfkligywazhdn4lw/150x150.jpg",
-      "480x480": "https://audius-content-12.figment.io/content/baeaaaiqseaknj6gd5kv5khh4upigfuqhmi6ypg2cgh2sqwfkligywazhdn4lw/480x480.jpg",
-      "1000x1000": "https://audius-content-12.figment.io/content/baeaaaiqseaknj6gd5kv5khh4upigfuqhmi6ypg2cgh2sqwfkligywazhdn4lw/1000x1000.jpg",
+      "150x150": "https://audius-content-5.cultur3stake.com/content/baeaaaiqseaknj6gd5kv5khh4upigfuqhmi6ypg2cgh2sqwfkligywazhdn4lw/150x150.jpg",
+      "480x480": "https://audius-content-5.cultur3stake.com/content/baeaaaiqseaknj6gd5kv5khh4upigfuqhmi6ypg2cgh2sqwfkligywazhdn4lw/480x480.jpg",
+      "1000x1000": "https://audius-content-5.cultur3stake.com/content/baeaaaiqseaknj6gd5kv5khh4upigfuqhmi6ypg2cgh2sqwfkligywazhdn4lw/1000x1000.jpg",
       "mirrors": [
+        "https://audius-content-12.figment.io",
         "https://audius-discovery-1.cultur3stake.com",
-        "https://audius-content-5.cultur3stake.com",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-8.cultur3stake.com/tracks/cidstream/baeaaaiqseci6axscbceplob6ltd3ekeo4szcx3m6ds2264vjmrkt6eatnvwgc?id3=true&id3_artist=Kill+Your+Utopia&id3_title=Intentions&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseci6axscbceplob6ltd3ekeo4szcx3m6ds2264vjmrkt6eatnvwgc%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A559729503%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x8d5c60c3fe268994b2d10dd76eb2f6a61e4ca8e2676f5f74032a1f6f271764b7513175c1b07a08ef95a9372a03b84e5a4b7c8bc8f7b738549b29afb9920b447c00%22%7D",
+      "url": "https://audius-discovery-3.cultur3stake.com/tracks/cidstream/baeaaaiqseci6axscbceplob6ltd3ekeo4szcx3m6ds2264vjmrkt6eatnvwgc?id3=true&id3_artist=Kill+Your+Utopia&id3_title=Intentions&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseci6axscbceplob6ltd3ekeo4szcx3m6ds2264vjmrkt6eatnvwgc%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A559729503%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xda6dfc0f4d9e7ec4f9a1f51ef3091d69f4ab9616fe31d64b463c4b8518f0e7b12b26561422cd9e4c2adea038fa1e940e9d58738a03fbe4d6705a0b3d90c126c800%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-discovery-3.cultur3stake.com",
+        "https://audius-content-8.cultur3stake.com",
         "https://creatornode2.audius.co"
       ]
     },
@@ -4913,8 +4913,8 @@
         "2000x": "https://audius-content-1.cultur3stake.com/content/01K03GYPQM76B20D3KSD1R3KZJ/2000x.jpg",
         "640x": "https://audius-content-1.cultur3stake.com/content/01K03GYPQM76B20D3KSD1R3KZJ/640x.jpg",
         "mirrors": [
-          "https://audius-content-10.cultur3stake.com",
           "https://audius-content-9.cultur3stake.com",
+          "https://audius-content-10.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -4945,12 +4945,12 @@
       "payout_wallet": "FxsQCWrCAK1eA3NUdrj6gAyXaPK7EMmwe1qLt4sNdujY",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-content-6.cultur3stake.com/content/01K03GYQRAZHHTWS51BCVQTKWG/1000x1000.jpg",
-        "150x150": "https://audius-content-6.cultur3stake.com/content/01K03GYQRAZHHTWS51BCVQTKWG/150x150.jpg",
-        "480x480": "https://audius-content-6.cultur3stake.com/content/01K03GYQRAZHHTWS51BCVQTKWG/480x480.jpg",
+        "1000x1000": "https://audius-content-10.cultur3stake.com/content/01K03GYQRAZHHTWS51BCVQTKWG/1000x1000.jpg",
+        "150x150": "https://audius-content-10.cultur3stake.com/content/01K03GYQRAZHHTWS51BCVQTKWG/150x150.jpg",
+        "480x480": "https://audius-content-10.cultur3stake.com/content/01K03GYQRAZHHTWS51BCVQTKWG/480x480.jpg",
         "mirrors": [
-          "https://audius-content-10.cultur3stake.com",
           "https://creatornode3.audius.co",
+          "https://audius-content-6.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -4992,7 +4992,7 @@
     "gemMetrics": {
       "score": 87,
       "engagement": 100,
-      "freshness": 89.0136703125,
+      "freshness": 88.96745302083333,
       "underdog": 57.588521375883,
       "plays": 36,
       "followers": 132
@@ -5077,21 +5077,21 @@
     "permalink": "/oliveriolujan/j-balvin-azul-oliverio-luján-edit",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-creator-4.theblueprint.xyz/content/baeaaaiqsecoalvp6wzedgvdc25ldeuftki6xkc4aibkjlt7m2pb6zsfv4vcui/150x150.jpg",
-      "480x480": "https://audius-creator-4.theblueprint.xyz/content/baeaaaiqsecoalvp6wzedgvdc25ldeuftki6xkc4aibkjlt7m2pb6zsfv4vcui/480x480.jpg",
-      "1000x1000": "https://audius-creator-4.theblueprint.xyz/content/baeaaaiqsecoalvp6wzedgvdc25ldeuftki6xkc4aibkjlt7m2pb6zsfv4vcui/1000x1000.jpg",
+      "150x150": "https://audius-discovery-2.altego.net/content/baeaaaiqsecoalvp6wzedgvdc25ldeuftki6xkc4aibkjlt7m2pb6zsfv4vcui/150x150.jpg",
+      "480x480": "https://audius-discovery-2.altego.net/content/baeaaaiqsecoalvp6wzedgvdc25ldeuftki6xkc4aibkjlt7m2pb6zsfv4vcui/480x480.jpg",
+      "1000x1000": "https://audius-discovery-2.altego.net/content/baeaaaiqsecoalvp6wzedgvdc25ldeuftki6xkc4aibkjlt7m2pb6zsfv4vcui/1000x1000.jpg",
       "mirrors": [
+        "https://audius-creator-4.theblueprint.xyz",
         "https://audius-content-4.cultur3stake.com",
-        "https://audius-discovery-2.altego.net",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius.bragi.cc/tracks/cidstream/baeaaaiqsec2pjnt7v6fs6qmltvh7oeijgedhvlrpd25zovropc4zzusyisjnk?id3=true&id3_artist=Oliveriolujan&id3_title=J+Balvin+-+Azul+%28Oliverio+Luja%CC%81n+Edit%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsec2pjnt7v6fs6qmltvh7oeijgedhvlrpd25zovropc4zzusyisjnk%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A98536299%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x18617fdd58ad8373ff23ed6f92db6a74e58e2e6245e0cf473037ba41e81b519c1ed8dc41cb99d877cbbc81fd991840b750a988109816de620aac7f314d15357400%22%7D",
+      "url": "https://audius-creator-6.theblueprint.xyz/tracks/cidstream/baeaaaiqsec2pjnt7v6fs6qmltvh7oeijgedhvlrpd25zovropc4zzusyisjnk?id3=true&id3_artist=Oliveriolujan&id3_title=J+Balvin+-+Azul+%28Oliverio+Luja%CC%81n+Edit%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsec2pjnt7v6fs6qmltvh7oeijgedhvlrpd25zovropc4zzusyisjnk%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A98536299%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x5b59d10fc45152c6a53540fc6e760802a6f1dabd9bcfe8f08840b34ffd41a64401100a9561d885eb001ea42f52258fb6141fad58fe6fd481e694ae4b9bccc99e01%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-13.figment.io",
-        "https://audius-creator-6.theblueprint.xyz"
+        "https://audius.bragi.cc",
+        "https://audius-content-13.figment.io"
       ]
     },
     "download": null,
@@ -5109,10 +5109,10 @@
       "blocknumber": 114044149,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://cn4.mainnet.audiusindex.org/content/01JSCZHMEZ6R93D98Q8BXDEM33/2000x.jpg",
-        "640x": "https://cn4.mainnet.audiusindex.org/content/01JSCZHMEZ6R93D98Q8BXDEM33/640x.jpg",
+        "2000x": "https://audius-creator-9.theblueprint.xyz/content/01JSCZHMEZ6R93D98Q8BXDEM33/2000x.jpg",
+        "640x": "https://audius-creator-9.theblueprint.xyz/content/01JSCZHMEZ6R93D98Q8BXDEM33/640x.jpg",
         "mirrors": [
-          "https://audius-creator-9.theblueprint.xyz",
+          "https://cn4.mainnet.audiusindex.org",
           "https://audius-content-3.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
@@ -5144,12 +5144,12 @@
       "payout_wallet": "2BK8KRHY5Qk2BuMkNvWvRYU4k9oJKSj23K3FcV1xAyPc",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-creator-10.theblueprint.xyz/content/01JSCZHM5X09AQ0BE98KRT6AAS/1000x1000.jpg",
-        "150x150": "https://audius-creator-10.theblueprint.xyz/content/01JSCZHM5X09AQ0BE98KRT6AAS/150x150.jpg",
-        "480x480": "https://audius-creator-10.theblueprint.xyz/content/01JSCZHM5X09AQ0BE98KRT6AAS/480x480.jpg",
+        "1000x1000": "https://cn2.mainnet.audiusindex.org/content/01JSCZHM5X09AQ0BE98KRT6AAS/1000x1000.jpg",
+        "150x150": "https://cn2.mainnet.audiusindex.org/content/01JSCZHM5X09AQ0BE98KRT6AAS/150x150.jpg",
+        "480x480": "https://cn2.mainnet.audiusindex.org/content/01JSCZHM5X09AQ0BE98KRT6AAS/480x480.jpg",
         "mirrors": [
           "https://creatornode3.audius.co",
-          "https://cn2.mainnet.audiusindex.org",
+          "https://audius-creator-10.theblueprint.xyz",
           "https://creatornode2.audius.co"
         ]
       },
@@ -5191,7 +5191,7 @@
     "gemMetrics": {
       "score": 82,
       "engagement": 100,
-      "freshness": 91.35978142361111,
+      "freshness": 91.31356413194445,
       "underdog": 29.5250706637687,
       "plays": 47,
       "followers": 3340
@@ -5276,21 +5276,21 @@
     "permalink": "/mirzha/get2kno",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-content-14.figment.io/content/baeaaaiqsedj4wmjpzmkija5okqvoegspqkpg5gklqou5ttl25opw5xinbepcy/150x150.jpg",
-      "480x480": "https://audius-content-14.figment.io/content/baeaaaiqsedj4wmjpzmkija5okqvoegspqkpg5gklqou5ttl25opw5xinbepcy/480x480.jpg",
-      "1000x1000": "https://audius-content-14.figment.io/content/baeaaaiqsedj4wmjpzmkija5okqvoegspqkpg5gklqou5ttl25opw5xinbepcy/1000x1000.jpg",
+      "150x150": "https://cn3.mainnet.audiusindex.org/content/baeaaaiqsedj4wmjpzmkija5okqvoegspqkpg5gklqou5ttl25opw5xinbepcy/150x150.jpg",
+      "480x480": "https://cn3.mainnet.audiusindex.org/content/baeaaaiqsedj4wmjpzmkija5okqvoegspqkpg5gklqou5ttl25opw5xinbepcy/480x480.jpg",
+      "1000x1000": "https://cn3.mainnet.audiusindex.org/content/baeaaaiqsedj4wmjpzmkija5okqvoegspqkpg5gklqou5ttl25opw5xinbepcy/1000x1000.jpg",
       "mirrors": [
-        "https://cn3.mainnet.audiusindex.org",
+        "https://audius-content-14.figment.io",
         "https://audius-03.staked.cloud",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-03.staked.cloud/tracks/cidstream/baeaaaiqseb3e5l3lcm3nl23g6u6tjkbtfkwefqlvpsijid6puecuspqiwmd26?id3=true&id3_artist=MIRZHA&id3_title=get2kno&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseb3e5l3lcm3nl23g6u6tjkbtfkwefqlvpsijid6puecuspqiwmd26%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1998196384%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x4022163d2c73456ac02c6efb65961b3a657549c951f2f773eda50ce005228dfe01071d92eb976d65d7c86bcb4c22e28ea83615c7371e65d2971a568ff405ea6d00%22%7D",
+      "url": "https://audius-discovery-1.altego.net/tracks/cidstream/baeaaaiqseb3e5l3lcm3nl23g6u6tjkbtfkwefqlvpsijid6puecuspqiwmd26?id3=true&id3_artist=MIRZHA&id3_title=get2kno&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseb3e5l3lcm3nl23g6u6tjkbtfkwefqlvpsijid6puecuspqiwmd26%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1998196384%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xba65e2dfd30319cee53b49cc7212c18df6d42ffa630b2052fe0a71e324fde3d0342cae3d39ec70db656e3ebf5a78461eadd35b1870994d6bdc51ed035f3e50f300%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
         "https://audius-creator-2.theblueprint.xyz",
-        "https://audius-discovery-1.altego.net"
+        "https://audius-03.staked.cloud"
       ]
     },
     "download": null,
@@ -5308,11 +5308,11 @@
       "blocknumber": 114194320,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://v.monophonic.digital/content/Qmf3dq8C1KpixF4d1uJ863Yi3L1MFnYG4N3QAGEcG7iq9d/2000x.jpg",
-        "640x": "https://v.monophonic.digital/content/Qmf3dq8C1KpixF4d1uJ863Yi3L1MFnYG4N3QAGEcG7iq9d/640x.jpg",
+        "2000x": "https://audius-creator-5.theblueprint.xyz/content/Qmf3dq8C1KpixF4d1uJ863Yi3L1MFnYG4N3QAGEcG7iq9d/2000x.jpg",
+        "640x": "https://audius-creator-5.theblueprint.xyz/content/Qmf3dq8C1KpixF4d1uJ863Yi3L1MFnYG4N3QAGEcG7iq9d/640x.jpg",
         "mirrors": [
           "https://audius-content-11.cultur3stake.com",
-          "https://audius-creator-5.theblueprint.xyz",
+          "https://v.monophonic.digital",
           "https://creatornode2.audius.co"
         ]
       },
@@ -5390,7 +5390,7 @@
     "gemMetrics": {
       "score": 89,
       "engagement": 100,
-      "freshness": 93.73561475694444,
+      "freshness": 93.68939746527778,
       "underdog": 56.36312824110455,
       "plays": 21,
       "followers": 152
@@ -5417,7 +5417,7 @@
     "slug": "young-wild-n-reckless",
     "duration": 137,
     "is_downloadable": false,
-    "play_count": 62,
+    "play_count": 63,
     "ddex_app": "",
     "pinned_comment_id": null,
     "playlists_containing_track": [],
@@ -5475,21 +5475,21 @@
     "permalink": "/kiddkiddrllnr9/young-wild-n-reckless",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-content-5.figment.io/content/01KHCK6B2RKGDXGVNGT6ZAH9J7/150x150.jpg",
-      "480x480": "https://audius-content-5.figment.io/content/01KHCK6B2RKGDXGVNGT6ZAH9J7/480x480.jpg",
-      "1000x1000": "https://audius-content-5.figment.io/content/01KHCK6B2RKGDXGVNGT6ZAH9J7/1000x1000.jpg",
+      "150x150": "https://audius-content-8.figment.io/content/01KHCK6B2RKGDXGVNGT6ZAH9J7/150x150.jpg",
+      "480x480": "https://audius-content-8.figment.io/content/01KHCK6B2RKGDXGVNGT6ZAH9J7/480x480.jpg",
+      "1000x1000": "https://audius-content-8.figment.io/content/01KHCK6B2RKGDXGVNGT6ZAH9J7/1000x1000.jpg",
       "mirrors": [
-        "https://audius-content-8.figment.io",
         "https://audius-02.staked.cloud",
+        "https://audius-content-5.figment.io",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-12.figment.io/tracks/cidstream/baeaaaiqsebavdv7dh2zk22dsv4v5utkjqu2yoyb455owstrzihveevssnm6cm?id3=true&id3_artist=Kidd+Kidd&id3_title=Young+Wild+N%27+Reckless&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebavdv7dh2zk22dsv4v5utkjqu2yoyb455owstrzihveevssnm6cm%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A245834187%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x6f8b03857d8e189a5ec66c2a5f84ae0233f994af58b47527b1b234758aa877746c6128e502727f0400bd64c19df57893aee5fb240524b211c4c0fa87806073b600%22%7D",
+      "url": "https://audius-discovery-2.cultur3stake.com/tracks/cidstream/baeaaaiqsebavdv7dh2zk22dsv4v5utkjqu2yoyb455owstrzihveevssnm6cm?id3=true&id3_artist=Kidd+Kidd&id3_title=Young+Wild+N%27+Reckless&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsebavdv7dh2zk22dsv4v5utkjqu2yoyb455owstrzihveevssnm6cm%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A245834187%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xdad5c2c5ba90b4f6a8c19151d741e1e75798aecfb44edff0654448b7baec52ba3aaf9ce25f1878fd9cb776d18b3e9ad77c4ac7726358448fa32e0a61e11658fe00%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-discovery-2.cultur3stake.com",
-        "https://audius-content-5.figment.io"
+        "https://audius-content-5.figment.io",
+        "https://audius-content-12.figment.io"
       ]
     },
     "download": null,
@@ -5542,11 +5542,11 @@
       "payout_wallet": "GmCXxJW1QyE4izP3WmCVQu1PivRFiWzhsQuVHvM52bS4",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-discovery-4.cultur3stake.com/content/QmZGyisFee8MV9p1hLeEBQ2s2CG68HgAJmpXc3hCUXuPKc/1000x1000.jpg",
-        "150x150": "https://audius-discovery-4.cultur3stake.com/content/QmZGyisFee8MV9p1hLeEBQ2s2CG68HgAJmpXc3hCUXuPKc/150x150.jpg",
-        "480x480": "https://audius-discovery-4.cultur3stake.com/content/QmZGyisFee8MV9p1hLeEBQ2s2CG68HgAJmpXc3hCUXuPKc/480x480.jpg",
+        "1000x1000": "https://audius-content-9.cultur3stake.com/content/QmZGyisFee8MV9p1hLeEBQ2s2CG68HgAJmpXc3hCUXuPKc/1000x1000.jpg",
+        "150x150": "https://audius-content-9.cultur3stake.com/content/QmZGyisFee8MV9p1hLeEBQ2s2CG68HgAJmpXc3hCUXuPKc/150x150.jpg",
+        "480x480": "https://audius-content-9.cultur3stake.com/content/QmZGyisFee8MV9p1hLeEBQ2s2CG68HgAJmpXc3hCUXuPKc/480x480.jpg",
         "mirrors": [
-          "https://audius-content-9.cultur3stake.com",
+          "https://audius-discovery-4.cultur3stake.com",
           "https://audius-content-5.figment.io",
           "https://creatornode2.audius.co"
         ]
@@ -5589,9 +5589,9 @@
     "gemMetrics": {
       "score": 83,
       "engagement": 100,
-      "freshness": 82.47936475694445,
+      "freshness": 82.43314746527778,
       "underdog": 52.00652557037924,
-      "plays": 62,
+      "plays": 63,
       "followers": 251
     },
     "gemReason": "High engagement on relatively low-play track"
@@ -5676,21 +5676,21 @@
     "permalink": "/REMNVNTofficial/black-billed-magpie-remnvnt-remix",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://creatornode.audius.co/content/baeaaaiqsebhrb4wojnsf5qrtwgocbd5urqx7ddhk37mmzfsv6jwnrztgdfony/150x150.jpg",
-      "480x480": "https://creatornode.audius.co/content/baeaaaiqsebhrb4wojnsf5qrtwgocbd5urqx7ddhk37mmzfsv6jwnrztgdfony/480x480.jpg",
-      "1000x1000": "https://creatornode.audius.co/content/baeaaaiqsebhrb4wojnsf5qrtwgocbd5urqx7ddhk37mmzfsv6jwnrztgdfony/1000x1000.jpg",
+      "150x150": "https://audius-standardvc-1-validator-3.figment.io/content/baeaaaiqsebhrb4wojnsf5qrtwgocbd5urqx7ddhk37mmzfsv6jwnrztgdfony/150x150.jpg",
+      "480x480": "https://audius-standardvc-1-validator-3.figment.io/content/baeaaaiqsebhrb4wojnsf5qrtwgocbd5urqx7ddhk37mmzfsv6jwnrztgdfony/480x480.jpg",
+      "1000x1000": "https://audius-standardvc-1-validator-3.figment.io/content/baeaaaiqsebhrb4wojnsf5qrtwgocbd5urqx7ddhk37mmzfsv6jwnrztgdfony/1000x1000.jpg",
       "mirrors": [
+        "https://creatornode.audius.co",
         "https://audius-content-4.figment.io",
-        "https://audius-standardvc-1-validator-3.figment.io",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-creator-10.theblueprint.xyz/tracks/cidstream/baeaaaiqseapwg4cpo3kqic2d6ipsv3bv57nkky3vxeij54esihrqsbpfb7eqg?id3=true&id3_artist=REMNVNT&id3_title=Black+Billed+Magpie+%28REMNVNT+remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseapwg4cpo3kqic2d6ipsv3bv57nkky3vxeij54esihrqsbpfb7eqg%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A432551474%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x81dbdfa71d97ad61891a3bbb9d58e482bd2d3a5dabe7540076b4c93a10469be5188008136631620891880b1cf59d87e848bb2702e7d746019a1b2d8f56ce557700%22%7D",
+      "url": "https://audius-creator-10.theblueprint.xyz/tracks/cidstream/baeaaaiqseapwg4cpo3kqic2d6ipsv3bv57nkky3vxeij54esihrqsbpfb7eqg?id3=true&id3_artist=REMNVNT&id3_title=Black+Billed+Magpie+%28REMNVNT+remix%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseapwg4cpo3kqic2d6ipsv3bv57nkky3vxeij54esihrqsbpfb7eqg%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A432551474%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x5f052e1e78b91d14b4462c6db5470a67f1304743f1df7cb951bdbb4b6380aedc2c6c3e24b975fd9afe345042d2ed386de41d695c4793be69da9036f84957574401%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-cn1.tikilabs.com",
-        "https://audius-discovery-1.cultur3stake.com"
+        "https://audius-discovery-1.cultur3stake.com",
+        "https://audius-cn1.tikilabs.com"
       ]
     },
     "download": null,
@@ -5708,11 +5708,11 @@
       "blocknumber": 113980477,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-discovery-4.cultur3stake.com/content/01KH0TBK37AYNYYTNVWAKG0MH2/2000x.jpg",
-        "640x": "https://audius-discovery-4.cultur3stake.com/content/01KH0TBK37AYNYYTNVWAKG0MH2/640x.jpg",
+        "2000x": "https://audius-01.staked.cloud/content/01KH0TBK37AYNYYTNVWAKG0MH2/2000x.jpg",
+        "640x": "https://audius-01.staked.cloud/content/01KH0TBK37AYNYYTNVWAKG0MH2/640x.jpg",
         "mirrors": [
+          "https://audius-discovery-4.cultur3stake.com",
           "https://audius-creator-8.theblueprint.xyz",
-          "https://audius-01.staked.cloud",
           "https://creatornode2.audius.co"
         ]
       },
@@ -5743,12 +5743,12 @@
       "payout_wallet": "5VpPDRQ9vQ2XUQTAGcyPjVAwoRwtocTyESgk8DHoHMob",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-content-13.figment.io/content/01KH0TBJ0EBHD74VHJ33703C50/1000x1000.jpg",
-        "150x150": "https://audius-content-13.figment.io/content/01KH0TBJ0EBHD74VHJ33703C50/150x150.jpg",
-        "480x480": "https://audius-content-13.figment.io/content/01KH0TBJ0EBHD74VHJ33703C50/480x480.jpg",
+        "1000x1000": "https://audius-discovery-3.altego.net/content/01KH0TBJ0EBHD74VHJ33703C50/1000x1000.jpg",
+        "150x150": "https://audius-discovery-3.altego.net/content/01KH0TBJ0EBHD74VHJ33703C50/150x150.jpg",
+        "480x480": "https://audius-discovery-3.altego.net/content/01KH0TBJ0EBHD74VHJ33703C50/480x480.jpg",
         "mirrors": [
           "https://audius-creator-7.theblueprint.xyz",
-          "https://audius-discovery-3.altego.net",
+          "https://audius-content-13.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -5805,11 +5805,11 @@
             "blocknumber": 114091178,
             "coin_flair_mint": "Ueqpw7vm6zZWbLQXz17JCQYfrbVQiEPwxakJmWdxMP3",
             "cover_photo": {
-              "2000x": "https://audius-03.staked.cloud/content/01KFX2XAZ17NYG9BZBJKBXMQ9N/2000x.jpg",
-              "640x": "https://audius-03.staked.cloud/content/01KFX2XAZ17NYG9BZBJKBXMQ9N/640x.jpg",
+              "2000x": "https://audius-creator-3.theblueprint.xyz/content/01KFX2XAZ17NYG9BZBJKBXMQ9N/2000x.jpg",
+              "640x": "https://audius-creator-3.theblueprint.xyz/content/01KFX2XAZ17NYG9BZBJKBXMQ9N/640x.jpg",
               "mirrors": [
                 "https://audius-content-6.cultur3stake.com",
-                "https://audius-creator-3.theblueprint.xyz",
+                "https://audius-03.staked.cloud",
                 "https://creatornode2.audius.co"
               ]
             },
@@ -5840,12 +5840,12 @@
             "payout_wallet": "GZquM7wh1scDaBfFMRt7EsNa6qdqXUVBJcHTY7AiLNZw",
             "playlist_count": 30,
             "profile_picture": {
-              "1000x1000": "https://audius-content-13.figment.io/content/01J4ATPPKSME7HZ04H0X6Z0TBQ/1000x1000.jpg",
-              "150x150": "https://audius-content-13.figment.io/content/01J4ATPPKSME7HZ04H0X6Z0TBQ/150x150.jpg",
-              "480x480": "https://audius-content-13.figment.io/content/01J4ATPPKSME7HZ04H0X6Z0TBQ/480x480.jpg",
+              "1000x1000": "https://audius-content-4.cultur3stake.com/content/01J4ATPPKSME7HZ04H0X6Z0TBQ/1000x1000.jpg",
+              "150x150": "https://audius-content-4.cultur3stake.com/content/01J4ATPPKSME7HZ04H0X6Z0TBQ/150x150.jpg",
+              "480x480": "https://audius-content-4.cultur3stake.com/content/01J4ATPPKSME7HZ04H0X6Z0TBQ/480x480.jpg",
               "mirrors": [
+                "https://audius-content-13.figment.io",
                 "https://audius-creator-10.theblueprint.xyz",
-                "https://audius-content-4.cultur3stake.com",
                 "https://creatornode2.audius.co"
               ]
             },
@@ -5881,7 +5881,7 @@
     "gemMetrics": {
       "score": 88,
       "engagement": 100,
-      "freshness": 88.20308003472222,
+      "freshness": 88.15686274305556,
       "underdog": 61.41162148571414,
       "plays": 40,
       "followers": 85
@@ -5969,21 +5969,21 @@
     "permalink": "/teixo/wua-wua-ch2",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius.rickyrombo.com/content/baeaaaiqsebjrmxb4p3ramntdepcapkgp65pxz2ccg2lxyrxat3rymfazxslle/150x150.jpg",
-      "480x480": "https://audius.rickyrombo.com/content/baeaaaiqsebjrmxb4p3ramntdepcapkgp65pxz2ccg2lxyrxat3rymfazxslle/480x480.jpg",
-      "1000x1000": "https://audius.rickyrombo.com/content/baeaaaiqsebjrmxb4p3ramntdepcapkgp65pxz2ccg2lxyrxat3rymfazxslle/1000x1000.jpg",
+      "150x150": "https://audius-content-13.figment.io/content/baeaaaiqsebjrmxb4p3ramntdepcapkgp65pxz2ccg2lxyrxat3rymfazxslle/150x150.jpg",
+      "480x480": "https://audius-content-13.figment.io/content/baeaaaiqsebjrmxb4p3ramntdepcapkgp65pxz2ccg2lxyrxat3rymfazxslle/480x480.jpg",
+      "1000x1000": "https://audius-content-13.figment.io/content/baeaaaiqsebjrmxb4p3ramntdepcapkgp65pxz2ccg2lxyrxat3rymfazxslle/1000x1000.jpg",
       "mirrors": [
-        "https://audius-content-13.figment.io",
+        "https://audius.rickyrombo.com",
         "https://cn0.mainnet.audiusindex.org",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-01.staked.cloud/tracks/cidstream/baeaaaiqseafqgyisfihoioe2igw5wkj4gomdi2kzycfhlhopeljfrq6kr7hzo?id3=true&id3_artist=djteixo&id3_title=Wua+Wua+CH2&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseafqgyisfihoioe2igw5wkj4gomdi2kzycfhlhopeljfrq6kr7hzo%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1435638148%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xd8446c885246f81a45bf3b458b19e46ed77cb6102afea9d0fc67fba3603483b037b9c9bd97889f7d024c6ac193d99de1c0a804032690fdc6af09fec00511a4ed00%22%7D",
+      "url": "https://audius-content-11.cultur3stake.com/tracks/cidstream/baeaaaiqseafqgyisfihoioe2igw5wkj4gomdi2kzycfhlhopeljfrq6kr7hzo?id3=true&id3_artist=djteixo&id3_title=Wua+Wua+CH2&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseafqgyisfihoioe2igw5wkj4gomdi2kzycfhlhopeljfrq6kr7hzo%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1435638148%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xf018d9f32351ae118d30ffcd94d5a6a4ca05f5067fbdd3345d80df248e5955eb36839e9669b63fb4d09ad98776969c63aa6394d43059155b295515a08349c6a901%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-11.cultur3stake.com",
-        "https://audius-content-5.figment.io"
+        "https://audius-content-5.figment.io",
+        "https://audius-01.staked.cloud"
       ]
     },
     "download": null,
@@ -6001,11 +6001,11 @@
       "blocknumber": 113874549,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-content-6.figment.io/content/QmREXDYDyEnHZEc5HFjJszBiMcVa7XkyqXENJ7a9nW1hWL/2000x.jpg",
-        "640x": "https://audius-content-6.figment.io/content/QmREXDYDyEnHZEc5HFjJszBiMcVa7XkyqXENJ7a9nW1hWL/640x.jpg",
+        "2000x": "https://audius-content-5.cultur3stake.com/content/QmREXDYDyEnHZEc5HFjJszBiMcVa7XkyqXENJ7a9nW1hWL/2000x.jpg",
+        "640x": "https://audius-content-5.cultur3stake.com/content/QmREXDYDyEnHZEc5HFjJszBiMcVa7XkyqXENJ7a9nW1hWL/640x.jpg",
         "mirrors": [
           "https://cn2.mainnet.audiusindex.org",
-          "https://audius-content-5.cultur3stake.com",
+          "https://audius-content-6.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -6036,12 +6036,12 @@
       "payout_wallet": "GfdToGb483jZCZeVhBe5267gx9REhR7TJLhnuWY6dHH7",
       "playlist_count": 17,
       "profile_picture": {
-        "1000x1000": "https://audius-content-6.figment.io/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/1000x1000.jpg",
-        "150x150": "https://audius-content-6.figment.io/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/150x150.jpg",
-        "480x480": "https://audius-content-6.figment.io/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/480x480.jpg",
+        "1000x1000": "https://audius-creator-11.theblueprint.xyz/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/1000x1000.jpg",
+        "150x150": "https://audius-creator-11.theblueprint.xyz/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/150x150.jpg",
+        "480x480": "https://audius-creator-11.theblueprint.xyz/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/480x480.jpg",
         "mirrors": [
+          "https://audius-content-6.figment.io",
           "https://audius-discovery-10.cultur3stake.com",
-          "https://audius-creator-11.theblueprint.xyz",
           "https://creatornode2.audius.co"
         ]
       },
@@ -6093,7 +6093,7 @@
     "gemMetrics": {
       "score": 85,
       "engagement": 100,
-      "freshness": 88.43877447916667,
+      "freshness": 88.3925571875,
       "underdog": 45.74700596745578,
       "plays": 38,
       "followers": 516
@@ -6120,7 +6120,7 @@
     "slug": "new-flex-ade-kafeel-feat-check",
     "duration": 237,
     "is_downloadable": false,
-    "play_count": 26,
+    "play_count": 27,
     "ddex_app": "",
     "pinned_comment_id": null,
     "playlists_containing_track": [],
@@ -6178,21 +6178,21 @@
     "permalink": "/CheckLife_/new-flex-ade-kafeel-feat-check",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-discovery-4.cultur3stake.com/content/baeaaaiqsedtndbcstv5k5ckwtoi53yyfsv4d4nxapzbr7b5joor2sbftyny5y/150x150.jpg",
-      "480x480": "https://audius-discovery-4.cultur3stake.com/content/baeaaaiqsedtndbcstv5k5ckwtoi53yyfsv4d4nxapzbr7b5joor2sbftyny5y/480x480.jpg",
-      "1000x1000": "https://audius-discovery-4.cultur3stake.com/content/baeaaaiqsedtndbcstv5k5ckwtoi53yyfsv4d4nxapzbr7b5joor2sbftyny5y/1000x1000.jpg",
+      "150x150": "https://audius-content-4.figment.io/content/baeaaaiqsedtndbcstv5k5ckwtoi53yyfsv4d4nxapzbr7b5joor2sbftyny5y/150x150.jpg",
+      "480x480": "https://audius-content-4.figment.io/content/baeaaaiqsedtndbcstv5k5ckwtoi53yyfsv4d4nxapzbr7b5joor2sbftyny5y/480x480.jpg",
+      "1000x1000": "https://audius-content-4.figment.io/content/baeaaaiqsedtndbcstv5k5ckwtoi53yyfsv4d4nxapzbr7b5joor2sbftyny5y/1000x1000.jpg",
       "mirrors": [
+        "https://audius-discovery-4.cultur3stake.com",
         "https://audius-content-12.cultur3stake.com",
-        "https://audius-content-4.figment.io",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-8.figment.io/tracks/cidstream/baeaaaiqsedx4rlcl7xiwwiye24una5hxnpevw4ikpwmhf7xek2sys62g54sga?id3=true&id3_artist=CHECK%E2%9B%B9%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8FBANCHERO&id3_title=New+Flex+%28Ade+Kafeel+feat.+Check%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsedx4rlcl7xiwwiye24una5hxnpevw4ikpwmhf7xek2sys62g54sga%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A532991840%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x6bb15d2493a22a9ba57634b91c981073fe83b23a1be17e887ed4172e3dc9315e542ecc3eb0378e104f66b6445e4ac56cf42346b3183ebe6810c9b30df8e5c04e00%22%7D",
+      "url": "https://audius-05.staked.cloud/tracks/cidstream/baeaaaiqsedx4rlcl7xiwwiye24una5hxnpevw4ikpwmhf7xek2sys62g54sga?id3=true&id3_artist=CHECK%E2%9B%B9%EF%B8%8F%E2%80%8D%E2%99%82%EF%B8%8FBANCHERO&id3_title=New+Flex+%28Ade+Kafeel+feat.+Check%29&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsedx4rlcl7xiwwiye24una5hxnpevw4ikpwmhf7xek2sys62g54sga%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A532991840%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x56a846813ddbfd1d6bf273fa70bfd40f3a89b1fe4bcdb8bd43bb470d22aa6dae553a7f0a7d4cb00e277d3a8314c3ad9dc39c93aa5e865e39636e58579e8ec81501%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
         "https://cn1.shakespearetech.com",
-        "https://audius-05.staked.cloud"
+        "https://audius-content-8.figment.io"
       ]
     },
     "download": null,
@@ -6218,8 +6218,8 @@
         "2000x": "https://audius-content-7.figment.io/content/2a9e607d88c59d7be709e168ed223035/2000x.jpg",
         "640x": "https://audius-content-7.figment.io/content/2a9e607d88c59d7be709e168ed223035/640x.jpg",
         "mirrors": [
-          "https://audius-content-2.figment.io",
           "https://audius-creator-4.theblueprint.xyz",
+          "https://audius-content-2.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -6250,11 +6250,11 @@
       "payout_wallet": "3f3Yzydj4sScTKE8YsBqH9Lpe2keKstmxhLLWEZaZgko",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-content-7.figment.io/content/3322a195e8b0478b676468bab836a536/1000x1000.jpg",
-        "150x150": "https://audius-content-7.figment.io/content/3322a195e8b0478b676468bab836a536/150x150.jpg",
-        "480x480": "https://audius-content-7.figment.io/content/3322a195e8b0478b676468bab836a536/480x480.jpg",
+        "1000x1000": "https://audius-content-12.figment.io/content/3322a195e8b0478b676468bab836a536/1000x1000.jpg",
+        "150x150": "https://audius-content-12.figment.io/content/3322a195e8b0478b676468bab836a536/150x150.jpg",
+        "480x480": "https://audius-content-12.figment.io/content/3322a195e8b0478b676468bab836a536/480x480.jpg",
         "mirrors": [
-          "https://audius-content-12.figment.io",
+          "https://audius-content-7.figment.io",
           "https://audius-content-1.figment.io",
           "https://creatornode2.audius.co"
         ]
@@ -6297,9 +6297,9 @@
     "gemMetrics": {
       "score": 87,
       "engagement": 100,
-      "freshness": 82.43558003472222,
+      "freshness": 82.38936274305556,
       "underdog": 69.62972120244225,
-      "plays": 26,
+      "plays": 27,
       "followers": 33
     },
     "gemReason": "High engagement on relatively low-play track"
@@ -6388,21 +6388,21 @@
     "permalink": "/profmanuelgago/velvet-aftertaste-marqués-de-montemolín-edyted-by-marquesado",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-creator-3.theblueprint.xyz/content/baeaaaiqseax6amh3qbixoyoqmjzcbg5wsuq3j5scgsr6352u5nsvlc6v7ccbo/150x150.jpg",
-      "480x480": "https://audius-creator-3.theblueprint.xyz/content/baeaaaiqseax6amh3qbixoyoqmjzcbg5wsuq3j5scgsr6352u5nsvlc6v7ccbo/480x480.jpg",
-      "1000x1000": "https://audius-creator-3.theblueprint.xyz/content/baeaaaiqseax6amh3qbixoyoqmjzcbg5wsuq3j5scgsr6352u5nsvlc6v7ccbo/1000x1000.jpg",
+      "150x150": "https://audius-creator-11.theblueprint.xyz/content/baeaaaiqseax6amh3qbixoyoqmjzcbg5wsuq3j5scgsr6352u5nsvlc6v7ccbo/150x150.jpg",
+      "480x480": "https://audius-creator-11.theblueprint.xyz/content/baeaaaiqseax6amh3qbixoyoqmjzcbg5wsuq3j5scgsr6352u5nsvlc6v7ccbo/480x480.jpg",
+      "1000x1000": "https://audius-creator-11.theblueprint.xyz/content/baeaaaiqseax6amh3qbixoyoqmjzcbg5wsuq3j5scgsr6352u5nsvlc6v7ccbo/1000x1000.jpg",
       "mirrors": [
         "https://audius-creator-4.theblueprint.xyz",
-        "https://audius-creator-11.theblueprint.xyz",
+        "https://audius-creator-3.theblueprint.xyz",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-04.staked.cloud/tracks/cidstream/baeaaaiqsea46nj6a5rjbewkrx6ayzuo3ps6y3bbv7klgbm5euyjdqqxmc2viy?id3=true&id3_artist=El+Hombre+de+las+Nubes&id3_title=Velvet+Aftertaste+Marqu%C3%A9s+de+Montemol%C3%ADn+Edyted+by+Marquesado+&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsea46nj6a5rjbewkrx6ayzuo3ps6y3bbv7klgbm5euyjdqqxmc2viy%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1882283323%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xd951a8c049ead89e047647a73b219d5bcedb1e388c6b72304881c5e5fa0746ce53dc1edc5e4b8544ea8d64d5ee7067b406be64b6af610f12de7ebfa384c4011200%22%7D",
+      "url": "https://audius-discovery-4.cultur3stake.com/tracks/cidstream/baeaaaiqsea46nj6a5rjbewkrx6ayzuo3ps6y3bbv7klgbm5euyjdqqxmc2viy?id3=true&id3_artist=El+Hombre+de+las+Nubes&id3_title=Velvet+Aftertaste+Marqu%C3%A9s+de+Montemol%C3%ADn+Edyted+by+Marquesado+&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsea46nj6a5rjbewkrx6ayzuo3ps6y3bbv7klgbm5euyjdqqxmc2viy%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1882283323%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xea779fe8a8442494d8dfd6270c62d3ac2b074de9764439d3d6530494036f1fa15ab02bb7448959223beab29cb9f9199fb9f38603f1294f4b384d849cdd47315000%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://cn4.mainnet.audiusindex.org",
-        "https://audius-discovery-4.cultur3stake.com"
+        "https://audius-04.staked.cloud",
+        "https://cn4.mainnet.audiusindex.org"
       ]
     },
     "download": null,
@@ -6425,11 +6425,11 @@
       "blocknumber": 114143616,
       "coin_flair_mint": "ZDaUDL4XFdEct7UgeztrFQAptsvh4ZdhyZDZ1RpxYAK",
       "cover_photo": {
-        "2000x": "https://audius-content-12.cultur3stake.com/content/01J8E39WRQ05F5EQKD18K4DBCP/2000x.jpg",
-        "640x": "https://audius-content-12.cultur3stake.com/content/01J8E39WRQ05F5EQKD18K4DBCP/640x.jpg",
+        "2000x": "https://audius-content-9.figment.io/content/01J8E39WRQ05F5EQKD18K4DBCP/2000x.jpg",
+        "640x": "https://audius-content-9.figment.io/content/01J8E39WRQ05F5EQKD18K4DBCP/640x.jpg",
         "mirrors": [
+          "https://audius-content-12.cultur3stake.com",
           "https://audius-creator-2.theblueprint.xyz",
-          "https://audius-content-9.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -6507,7 +6507,7 @@
     "gemMetrics": {
       "score": 83,
       "engagement": 100,
-      "freshness": 82.50259392361112,
+      "freshness": 82.45637663194444,
       "underdog": 48.54256795599039,
       "plays": 44,
       "followers": 374
@@ -6594,21 +6594,21 @@
     "permalink": "/JeanBap/tulips",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://v.monophonic.digital/content/baeaaaiqseaqdsob4xvptxw6sd5bxlsmdpsnnnoxpqq6b55edf2fjsexpu5pbu/150x150.jpg",
-      "480x480": "https://v.monophonic.digital/content/baeaaaiqseaqdsob4xvptxw6sd5bxlsmdpsnnnoxpqq6b55edf2fjsexpu5pbu/480x480.jpg",
-      "1000x1000": "https://v.monophonic.digital/content/baeaaaiqseaqdsob4xvptxw6sd5bxlsmdpsnnnoxpqq6b55edf2fjsexpu5pbu/1000x1000.jpg",
+      "150x150": "https://audius-content-5.figment.io/content/baeaaaiqseaqdsob4xvptxw6sd5bxlsmdpsnnnoxpqq6b55edf2fjsexpu5pbu/150x150.jpg",
+      "480x480": "https://audius-content-5.figment.io/content/baeaaaiqseaqdsob4xvptxw6sd5bxlsmdpsnnnoxpqq6b55edf2fjsexpu5pbu/480x480.jpg",
+      "1000x1000": "https://audius-content-5.figment.io/content/baeaaaiqseaqdsob4xvptxw6sd5bxlsmdpsnnnoxpqq6b55edf2fjsexpu5pbu/1000x1000.jpg",
       "mirrors": [
-        "https://audius-content-5.figment.io",
         "https://audius-04.staked.cloud",
+        "https://v.monophonic.digital",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-creator-3.theblueprint.xyz/tracks/cidstream/baeaaaiqsech7myoi5ehsgqtu36f7mjlj4ifsyju7bn3k65ccxng6i6ellzfc6?id3=true&id3_artist=Jean~Baptiste&id3_title=Tulips&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsech7myoi5ehsgqtu36f7mjlj4ifsyju7bn3k65ccxng6i6ellzfc6%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1157901287%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x761e98c2716fd5e04ea6ed3fe56292471235e26d7118385554e1f976660015aa02f64a3449b5e3c6dfe6c8f989a15a07aba3c1d08d48b9789b5ce843191a4c4400%22%7D",
+      "url": "https://audius-content-6.cultur3stake.com/tracks/cidstream/baeaaaiqsech7myoi5ehsgqtu36f7mjlj4ifsyju7bn3k65ccxng6i6ellzfc6?id3=true&id3_artist=Jean~Baptiste&id3_title=Tulips&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsech7myoi5ehsgqtu36f7mjlj4ifsyju7bn3k65ccxng6i6ellzfc6%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1157901287%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x238bfebc6c0c86205557975ad46b928703c271c8781ca4805c8d182a2592553a66dc70b06f1f4c818927b54fcf6f38ff8844c68d26ca40881082beb5e665464201%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-6.cultur3stake.com",
-        "https://audius-content-12.figment.io"
+        "https://audius-content-12.figment.io",
+        "https://audius-creator-3.theblueprint.xyz"
       ]
     },
     "download": null,
@@ -6629,8 +6629,8 @@
         "2000x": "https://cn2.mainnet.audiusindex.org/content/01K57QJ36W8RT6TS9ED3FRZMTP/2000x.jpg",
         "640x": "https://cn2.mainnet.audiusindex.org/content/01K57QJ36W8RT6TS9ED3FRZMTP/640x.jpg",
         "mirrors": [
-          "https://audius-discovery-10.cultur3stake.com",
           "https://cn3.mainnet.audiusindex.org",
+          "https://audius-discovery-10.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -6661,12 +6661,12 @@
       "payout_wallet": "",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius.bragi.cc/content/01K57QJ3KRKJH4VNKVHQQFXT9D/1000x1000.jpg",
-        "150x150": "https://audius.bragi.cc/content/01K57QJ3KRKJH4VNKVHQQFXT9D/150x150.jpg",
-        "480x480": "https://audius.bragi.cc/content/01K57QJ3KRKJH4VNKVHQQFXT9D/480x480.jpg",
+        "1000x1000": "https://audius-creator-6.theblueprint.xyz/content/01K57QJ3KRKJH4VNKVHQQFXT9D/1000x1000.jpg",
+        "150x150": "https://audius-creator-6.theblueprint.xyz/content/01K57QJ3KRKJH4VNKVHQQFXT9D/150x150.jpg",
+        "480x480": "https://audius-creator-6.theblueprint.xyz/content/01K57QJ3KRKJH4VNKVHQQFXT9D/480x480.jpg",
         "mirrors": [
           "https://audius-content-6.cultur3stake.com",
-          "https://audius-creator-6.theblueprint.xyz",
+          "https://audius.bragi.cc",
           "https://creatornode2.audius.co"
         ]
       },
@@ -6708,7 +6708,7 @@
     "gemMetrics": {
       "score": 86,
       "engagement": 100,
-      "freshness": 82.30294114583333,
+      "freshness": 82.25672385416667,
       "underdog": 66.74484336636851,
       "plays": 29,
       "followers": 46
@@ -6802,20 +6802,20 @@
     "permalink": "/teixo/brunchi-bru-dancehall-dub-cover",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://cn1.shakespearetech.com/content/baeaaaiqsectl4uefgmslu7e64gntfnuziwo343pmwjhtdffov65mkjljsy5qy/150x150.jpg",
-      "480x480": "https://cn1.shakespearetech.com/content/baeaaaiqsectl4uefgmslu7e64gntfnuziwo343pmwjhtdffov65mkjljsy5qy/480x480.jpg",
-      "1000x1000": "https://cn1.shakespearetech.com/content/baeaaaiqsectl4uefgmslu7e64gntfnuziwo343pmwjhtdffov65mkjljsy5qy/1000x1000.jpg",
+      "150x150": "https://audius-creator-6.theblueprint.xyz/content/baeaaaiqsectl4uefgmslu7e64gntfnuziwo343pmwjhtdffov65mkjljsy5qy/150x150.jpg",
+      "480x480": "https://audius-creator-6.theblueprint.xyz/content/baeaaaiqsectl4uefgmslu7e64gntfnuziwo343pmwjhtdffov65mkjljsy5qy/480x480.jpg",
+      "1000x1000": "https://audius-creator-6.theblueprint.xyz/content/baeaaaiqsectl4uefgmslu7e64gntfnuziwo343pmwjhtdffov65mkjljsy5qy/1000x1000.jpg",
       "mirrors": [
         "https://audius-content-7.cultur3stake.com",
-        "https://audius-creator-6.theblueprint.xyz",
+        "https://cn1.shakespearetech.com",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://creatornode.audius.co/tracks/cidstream/baeaaaiqseau5htev7bsevpd23nsb7j6sgx7sbqkwkrzfhr2e36tdikjevjjvy?id3=true&id3_artist=djteixo&id3_title=Brunchi+Bru+Dancehall+Dub+Cover&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseau5htev7bsevpd23nsb7j6sgx7sbqkwkrzfhr2e36tdikjevjjvy%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A1106459903%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xf6f39929c33fb9d8df979d2eeb9a632349f092fe90c61fac531ed7e4ebdaaaaf4e607f48140c8b4c0c2220126a76a967b057b4016ee0d97e06dc5bff9257769a01%22%7D",
+      "url": "https://audius-content-4.cultur3stake.com/tracks/cidstream/baeaaaiqseau5htev7bsevpd23nsb7j6sgx7sbqkwkrzfhr2e36tdikjevjjvy?id3=true&id3_artist=djteixo&id3_title=Brunchi+Bru+Dancehall+Dub+Cover&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseau5htev7bsevpd23nsb7j6sgx7sbqkwkrzfhr2e36tdikjevjjvy%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A1106459903%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x58945f3a5694964cf5afb8c15112b7693fce441763d9e26d2af4064ffb3183474f81ff2463fe582d0e18498c78e16e29a44c43d9ff4f928c70661335ab43a93800%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-4.cultur3stake.com",
+        "https://creatornode.audius.co",
         "https://audius.bragi.cc"
       ]
     },
@@ -6834,11 +6834,11 @@
       "blocknumber": 113874549,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-content-6.figment.io/content/QmREXDYDyEnHZEc5HFjJszBiMcVa7XkyqXENJ7a9nW1hWL/2000x.jpg",
-        "640x": "https://audius-content-6.figment.io/content/QmREXDYDyEnHZEc5HFjJszBiMcVa7XkyqXENJ7a9nW1hWL/640x.jpg",
+        "2000x": "https://audius-content-5.cultur3stake.com/content/QmREXDYDyEnHZEc5HFjJszBiMcVa7XkyqXENJ7a9nW1hWL/2000x.jpg",
+        "640x": "https://audius-content-5.cultur3stake.com/content/QmREXDYDyEnHZEc5HFjJszBiMcVa7XkyqXENJ7a9nW1hWL/640x.jpg",
         "mirrors": [
           "https://cn2.mainnet.audiusindex.org",
-          "https://audius-content-5.cultur3stake.com",
+          "https://audius-content-6.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -6869,12 +6869,12 @@
       "payout_wallet": "GfdToGb483jZCZeVhBe5267gx9REhR7TJLhnuWY6dHH7",
       "playlist_count": 17,
       "profile_picture": {
-        "1000x1000": "https://audius-content-6.figment.io/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/1000x1000.jpg",
-        "150x150": "https://audius-content-6.figment.io/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/150x150.jpg",
-        "480x480": "https://audius-content-6.figment.io/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/480x480.jpg",
+        "1000x1000": "https://audius-creator-11.theblueprint.xyz/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/1000x1000.jpg",
+        "150x150": "https://audius-creator-11.theblueprint.xyz/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/150x150.jpg",
+        "480x480": "https://audius-creator-11.theblueprint.xyz/content/QmWbSnUcWFQoTX9QmoQG9WiQRyAPFGKn1KiuAUbqgZ1sZh/480x480.jpg",
         "mirrors": [
+          "https://audius-content-6.figment.io",
           "https://audius-discovery-10.cultur3stake.com",
-          "https://audius-creator-11.theblueprint.xyz",
           "https://creatornode2.audius.co"
         ]
       },
@@ -6916,7 +6916,7 @@
     "gemMetrics": {
       "score": 82,
       "engagement": 100,
-      "freshness": 82.40651753472223,
+      "freshness": 82.36030024305555,
       "underdog": 45.74700596745578,
       "plays": 25,
       "followers": 516
@@ -7001,12 +7001,12 @@
     "permalink": "/tesy/god-alone-can-do-all-things-1",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-creator-13.theblueprint.xyz/content/baeaaaiqseb6pqeuwrmr7m5ixpbldlhad4gavwn3gwqnkbfhy3zdprrg5ud45s/150x150.jpg",
-      "480x480": "https://audius-creator-13.theblueprint.xyz/content/baeaaaiqseb6pqeuwrmr7m5ixpbldlhad4gavwn3gwqnkbfhy3zdprrg5ud45s/480x480.jpg",
-      "1000x1000": "https://audius-creator-13.theblueprint.xyz/content/baeaaaiqseb6pqeuwrmr7m5ixpbldlhad4gavwn3gwqnkbfhy3zdprrg5ud45s/1000x1000.jpg",
+      "150x150": "https://audius-content-12.cultur3stake.com/content/baeaaaiqseb6pqeuwrmr7m5ixpbldlhad4gavwn3gwqnkbfhy3zdprrg5ud45s/150x150.jpg",
+      "480x480": "https://audius-content-12.cultur3stake.com/content/baeaaaiqseb6pqeuwrmr7m5ixpbldlhad4gavwn3gwqnkbfhy3zdprrg5ud45s/480x480.jpg",
+      "1000x1000": "https://audius-content-12.cultur3stake.com/content/baeaaaiqseb6pqeuwrmr7m5ixpbldlhad4gavwn3gwqnkbfhy3zdprrg5ud45s/1000x1000.jpg",
       "mirrors": [
+        "https://audius-creator-13.theblueprint.xyz",
         "https://audius-discovery-1.cultur3stake.com",
-        "https://audius-content-12.cultur3stake.com",
         "https://creatornode2.audius.co"
       ]
     },
@@ -7026,11 +7026,11 @@
       "blocknumber": 113834278,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-creator-5.theblueprint.xyz/content/1b1f88d504af420b259517d8ac5188c6/2000x.jpg",
-        "640x": "https://audius-creator-5.theblueprint.xyz/content/1b1f88d504af420b259517d8ac5188c6/640x.jpg",
+        "2000x": "https://audius-content-7.cultur3stake.com/content/1b1f88d504af420b259517d8ac5188c6/2000x.jpg",
+        "640x": "https://audius-content-7.cultur3stake.com/content/1b1f88d504af420b259517d8ac5188c6/640x.jpg",
         "mirrors": [
-          "https://audius-content-7.cultur3stake.com",
           "https://audius-content-3.figment.io",
+          "https://audius-creator-5.theblueprint.xyz",
           "https://creatornode2.audius.co"
         ]
       },
@@ -7065,8 +7065,8 @@
         "150x150": "https://cn4.mainnet.audiusindex.org/content/769cdc5aafcb2613d6eb80e319a38045/150x150.jpg",
         "480x480": "https://cn4.mainnet.audiusindex.org/content/769cdc5aafcb2613d6eb80e319a38045/480x480.jpg",
         "mirrors": [
-          "https://audius-content-6.figment.io",
           "https://audius-creator-7.theblueprint.xyz",
+          "https://audius-content-6.figment.io",
           "https://creatornode2.audius.co"
         ]
       },
@@ -7074,7 +7074,7 @@
       "profile_picture_legacy": null,
       "profile_picture_sizes": "769cdc5aafcb2613d6eb80e319a38045",
       "profile_type": null,
-      "repost_count": 22976,
+      "repost_count": 22984,
       "spl_usdc_payout_wallet": null,
       "spl_usdc_wallet": "FZrqHvwRxiuM61btQpCYyuKZm4XA5rL1GpcRTwB8Fvw2",
       "spl_wallet": "B7gr1rm6xuodJWv9museLf9c7qJPv4JL7T3GmHtDE8ex",
@@ -7112,7 +7112,7 @@
     "gemMetrics": {
       "score": 81,
       "engagement": 100,
-      "freshness": 80.98814947916667,
+      "freshness": 80.9419321875,
       "underdog": 43.75510606399261,
       "plays": 16,
       "followers": 649
@@ -7197,20 +7197,20 @@
     "permalink": "/OnBlocked/tunetank-vlog-beat",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://audius-content-13.figment.io/content/01KHCFF8BHZPZCG2B2EX9A4RRC/150x150.jpg",
-      "480x480": "https://audius-content-13.figment.io/content/01KHCFF8BHZPZCG2B2EX9A4RRC/480x480.jpg",
-      "1000x1000": "https://audius-content-13.figment.io/content/01KHCFF8BHZPZCG2B2EX9A4RRC/1000x1000.jpg",
+      "150x150": "https://cn3.mainnet.audiusindex.org/content/01KHCFF8BHZPZCG2B2EX9A4RRC/150x150.jpg",
+      "480x480": "https://cn3.mainnet.audiusindex.org/content/01KHCFF8BHZPZCG2B2EX9A4RRC/480x480.jpg",
+      "1000x1000": "https://cn3.mainnet.audiusindex.org/content/01KHCFF8BHZPZCG2B2EX9A4RRC/1000x1000.jpg",
       "mirrors": [
+        "https://audius-content-13.figment.io",
         "https://audius-content-5.figment.io",
-        "https://cn3.mainnet.audiusindex.org",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-content-8.figment.io/tracks/cidstream/baeaaaiqseanigwaaricm5fovldtl7e7hfbufsshq4k5ortpgv5xziqtxr65mm?id3=true&id3_artist=OnBlocked&id3_title=tunetank-vlog-beat&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseanigwaaricm5fovldtl7e7hfbufsshq4k5ortpgv5xziqtxr65mm%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A971886196%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x4cd30e3a68902c21abac166436da40f57119656bfddc08e497a4b43427d23e961dacc83be697708f31112ccfc9819ac73f4b7c522698f513d5b3ca913b8fe61b01%22%7D",
+      "url": "https://audius-content-11.cultur3stake.com/tracks/cidstream/baeaaaiqseanigwaaricm5fovldtl7e7hfbufsshq4k5ortpgv5xziqtxr65mm?id3=true&id3_artist=OnBlocked&id3_title=tunetank-vlog-beat&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqseanigwaaricm5fovldtl7e7hfbufsshq4k5ortpgv5xziqtxr65mm%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A971886196%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220xec8e9294be296d2d9a08d099d3ad2d258059737a6789e777f4fd71e007422cff7cfe598811cc2f09bea9440d826b195bb1c088ef65d3c5aacb2816ff723f0d4601%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-content-11.cultur3stake.com",
+        "https://audius-content-8.figment.io",
         "https://audius-content-2.figment.io"
       ]
     },
@@ -7264,11 +7264,11 @@
       "payout_wallet": "3rhQKyGL8ucsSN4zaH8azWSwvyJjN8CBr8u8dnMZ8caV",
       "playlist_count": 0,
       "profile_picture": {
-        "1000x1000": "https://audius-cn1.tikilabs.com/content/01KDNFCAMK1RKR2QBAJJCSVJMZ/1000x1000.jpg",
-        "150x150": "https://audius-cn1.tikilabs.com/content/01KDNFCAMK1RKR2QBAJJCSVJMZ/150x150.jpg",
-        "480x480": "https://audius-cn1.tikilabs.com/content/01KDNFCAMK1RKR2QBAJJCSVJMZ/480x480.jpg",
+        "1000x1000": "https://audius-content-12.figment.io/content/01KDNFCAMK1RKR2QBAJJCSVJMZ/1000x1000.jpg",
+        "150x150": "https://audius-content-12.figment.io/content/01KDNFCAMK1RKR2QBAJJCSVJMZ/150x150.jpg",
+        "480x480": "https://audius-content-12.figment.io/content/01KDNFCAMK1RKR2QBAJJCSVJMZ/480x480.jpg",
         "mirrors": [
-          "https://audius-content-12.figment.io",
+          "https://audius-cn1.tikilabs.com",
           "https://audius-discovery-2.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
@@ -7277,7 +7277,7 @@
       "profile_picture_legacy": null,
       "profile_picture_sizes": "01KDNFCAMK1RKR2QBAJJCSVJMZ",
       "profile_type": null,
-      "repost_count": 1690,
+      "repost_count": 1693,
       "spl_usdc_payout_wallet": null,
       "spl_usdc_wallet": "3rhQKyGL8ucsSN4zaH8azWSwvyJjN8CBr8u8dnMZ8caV",
       "spl_wallet": "HMHryB8BMs9wraAHEQa8QkA1UB62MFMQCy7jAJS2H5KR",
@@ -7311,7 +7311,7 @@
     "gemMetrics": {
       "score": 85,
       "engagement": 100,
-      "freshness": 82.3436703125,
+      "freshness": 82.29745302083333,
       "underdog": 61.51441427876237,
       "plays": 27,
       "followers": 84
@@ -7396,21 +7396,21 @@
     "permalink": "/Laveudelbosk/parallamps-feat-kion-studio",
     "is_streamable": true,
     "artwork": {
-      "150x150": "https://validator.stuffisup.com/content/baeaaaiqseduayhrtkiej3oc2z3tiecgwvxfrysh2i4gylilely5bdfon4mknc/150x150.jpg",
-      "480x480": "https://validator.stuffisup.com/content/baeaaaiqseduayhrtkiej3oc2z3tiecgwvxfrysh2i4gylilely5bdfon4mknc/480x480.jpg",
-      "1000x1000": "https://validator.stuffisup.com/content/baeaaaiqseduayhrtkiej3oc2z3tiecgwvxfrysh2i4gylilely5bdfon4mknc/1000x1000.jpg",
+      "150x150": "https://audius.bragi.cc/content/baeaaaiqseduayhrtkiej3oc2z3tiecgwvxfrysh2i4gylilely5bdfon4mknc/150x150.jpg",
+      "480x480": "https://audius.bragi.cc/content/baeaaaiqseduayhrtkiej3oc2z3tiecgwvxfrysh2i4gylilely5bdfon4mknc/480x480.jpg",
+      "1000x1000": "https://audius.bragi.cc/content/baeaaaiqseduayhrtkiej3oc2z3tiecgwvxfrysh2i4gylilely5bdfon4mknc/1000x1000.jpg",
       "mirrors": [
         "https://audius-content-5.figment.io",
-        "https://audius.bragi.cc",
+        "https://validator.stuffisup.com",
         "https://creatornode2.audius.co"
       ]
     },
     "stream": {
-      "url": "https://audius-05.staked.cloud/tracks/cidstream/baeaaaiqsedpy4kaxlqicrqt5vndpqkzkzei7sffiq7po27hp3d56wip5ge67u?id3=true&id3_artist=La+Veu+Del+Bosc&id3_title=PARALLAMPS+-+FEAT+KION+STUDIO&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsedpy4kaxlqicrqt5vndpqkzkzei7sffiq7po27hp3d56wip5ge67u%5C%22%2C%5C%22timestamp%5C%22%3A1771527668000%2C%5C%22trackId%5C%22%3A867753938%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x2b32c5465545b66074421c9fb2cc359c06d33100d329a8af092c3a9ddda0b1864d551bd4bf9b495afd7f309401192ed4f1fa509fb169d2e1600c13399a8aa5c001%22%7D",
+      "url": "https://audius-05.staked.cloud/tracks/cidstream/baeaaaiqsedpy4kaxlqicrqt5vndpqkzkzei7sffiq7po27hp3d56wip5ge67u?id3=true&id3_artist=La+Veu+Del+Bosc&id3_title=PARALLAMPS+-+FEAT+KION+STUDIO&signature=%7B%22data%22%3A%22%7B%5C%22cid%5C%22%3A%5C%22baeaaaiqsedpy4kaxlqicrqt5vndpqkzkzei7sffiq7po27hp3d56wip5ge67u%5C%22%2C%5C%22timestamp%5C%22%3A1771528998000%2C%5C%22trackId%5C%22%3A867753938%2C%5C%22userId%5C%22%3A0%7D%22%2C%22signature%22%3A%220x4e150c3cb85bc1d3f9905e540322ed5474a7d109e8c9619811a4d5b863b04539617a1d196652e66dcb3919eb7f7ba5d132478e68361d1e6e6ad1232e40284a3a00%22%7D",
       "mirrors": [
         "https://creatornode2.audius.co",
-        "https://audius-cn1.tikilabs.com",
-        "https://audius-content-11.figment.io"
+        "https://audius-content-11.figment.io",
+        "https://audius-cn1.tikilabs.com"
       ]
     },
     "download": null,
@@ -7428,11 +7428,11 @@
       "blocknumber": 113871826,
       "coin_flair_mint": null,
       "cover_photo": {
-        "2000x": "https://audius-discovery-8.cultur3stake.com/content/baeaaaiqseatk6g4zwplrvosvh5gxf4mxyhakaaalf6bkucezydmvnmna62ut6/2000x.jpg",
-        "640x": "https://audius-discovery-8.cultur3stake.com/content/baeaaaiqseatk6g4zwplrvosvh5gxf4mxyhakaaalf6bkucezydmvnmna62ut6/640x.jpg",
+        "2000x": "https://audius-content-9.figment.io/content/baeaaaiqseatk6g4zwplrvosvh5gxf4mxyhakaaalf6bkucezydmvnmna62ut6/2000x.jpg",
+        "640x": "https://audius-content-9.figment.io/content/baeaaaiqseatk6g4zwplrvosvh5gxf4mxyhakaaalf6bkucezydmvnmna62ut6/640x.jpg",
         "mirrors": [
-          "https://audius-content-9.figment.io",
           "https://audius-creator-13.theblueprint.xyz",
+          "https://audius-discovery-8.cultur3stake.com",
           "https://creatornode2.audius.co"
         ]
       },
@@ -7510,7 +7510,7 @@
     "gemMetrics": {
       "score": 84,
       "engagement": 100,
-      "freshness": 82.6402328125,
+      "freshness": 82.59401552083334,
       "underdog": 53.151546383555875,
       "plays": 28,
       "followers": 220
