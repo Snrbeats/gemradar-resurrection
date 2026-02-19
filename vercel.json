@@ -2,18 +2,18 @@
   "version": 2,
   "builds": [
     {
-      "src": "webapp-v2/**",
+      "src": "webapp/**",
       "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/",
-      "dest": "/webapp-v2/index.html"
+      "dest": "/webapp/index.html"
     },
     {
       "src": "/(.*)",
-      "dest": "/webapp-v2/$1"
+      "dest": "/webapp/$1"
     }
   ]
 }
