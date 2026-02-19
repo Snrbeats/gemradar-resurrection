@@ -117,13 +117,15 @@ function trackCard(t,{showGem=true, listContext=null}={}){
   const reason=getGemReason(gem)
   
   // Pivot: Check for Solana Artist Coin
-  const mint = t.user?.artist_coin_badge?.mint
+  const badge = t.user?.artist_coin_badge
+  const mint = badge?.mint
+  const ticker = badge?.ticker || 'COIN'
   const hasCoin = !!mint
 
   const d=document.createElement('div');d.className='card'
   d.innerHTML=`
     <img src="${img}" onerror="this.style.opacity=.2"/>
-    ${hasCoin ? `<a href="https://jup.ag/swap/SOL-${mint}" target="_blank" class="coin-badge">SOL COIN</a>` : ''}
+    ${hasCoin ? `<a href="https://jup.ag/swap/SOL-${mint}" target="_blank" class="coin-badge" title="Buy $${ticker} on Jupiter">$${ticker}</a>` : ''}
     <h4>${t.title||'Untitled'}</h4>
     <p>${artist}</p>
     ${showGem ? `<p class='gemline'>💎 Gem Score: <strong>${gem.score}</strong></p><p class='whyline'>Why: ${reason}</p>` : ''}
