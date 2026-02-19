@@ -108,7 +108,7 @@ function getGemReason(m){
   return 'Balanced momentum across discovery signals'
 }
 
-function trackCard(t,{showGem=true}={}){
+function trackCard(t,{showGem=true, listContext=null}={}){
   const img=t.artwork?.['480x480']||t.artwork?.['150x150']||''
   const artist=t.user?.name||t.user?.handle||'Unknown'
   const liked=state.liked.some(x=>x.id===t.id)
@@ -130,7 +130,7 @@ function trackCard(t,{showGem=true}={}){
     <div class='row'><button data-play>Play</button><button data-like>${liked?'♥':'♡'}</button></div>
     <div class='row'><button data-queue>Queue</button><button data-artist>Artist</button></div>
     <div class='row'><button data-pick>${picked?'✅ Discovered':'🎯 Resurrect'}</button></div>`
-  d.querySelector('[data-play]').onclick=()=>playNow(t)
+  d.querySelector('[data-play]').onclick=()=>playNow(t, listContext)
   d.querySelector('[data-like]').onclick=()=>toggleLike(t)
   d.querySelector('[data-queue]').onclick=()=>addQueue(t)
   d.querySelector('[data-artist]').onclick=()=>openArtist(t.user?.id,t.user?.handle,t.user?.name)
@@ -141,11 +141,12 @@ function trackCard(t,{showGem=true}={}){
 function renderList(el,arr,msg='No items',opts={showGem:true}){
   el.innerHTML=''
   if(!arr?.length){el.innerHTML=`<div class='notice'>${msg}</div>`;return}
-  arr.forEach(t=>el.appendChild(trackCard(t,opts)))
+  arr.forEach(t=>el.appendChild(trackCard(t,{...opts, listContext:arr})))
 }
 
 function addQueue(t){state.queue.push(t); if(state.queueIndex<0) state.queueIndex=0}
-function playNow(t){
+function playNow(t, listContext=null){
+  if(listContext) state.queue = [...listContext]
   if(!state.queue.some(q=>q.id===t.id)) addQueue(t)
   state.queueIndex=state.queue.findIndex(q=>q.id===t.id)
   const a=$('#audio')
