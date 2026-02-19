@@ -125,7 +125,11 @@ function trackCard(t,{showGem=true, listContext=null}={}){
   const d=document.createElement('div');d.className='card'
   d.innerHTML=`
     <img src="${img}" onerror="this.style.opacity=.2"/>
-    ${hasCoin ? `<a href="https://jup.ag/swap?inputMint=So11111111111111111111111111111111111111112&outputMint=${mint}" target="_blank" class="coin-badge" title="Buy $${ticker} on Jupiter">$${ticker}</a>` : ''}
+    ${hasCoin ? `
+      <div class="coin-group">
+        <a href="https://jup.ag/swap/SOL-${mint}" target="_blank" class="coin-badge" title="Swap on Jupiter">$${ticker}</a>
+        <a href="https://solscan.io/token/${mint}" target="_blank" class="scan-link" title="View on Solscan">🔍</a>
+      </div>` : ''}
     <h4>${t.title||'Untitled'}</h4>
     <p>${artist}</p>
     ${showGem ? `<p class='gemline'>💎 Gem Score: <strong>${gem.score}</strong></p><p class='whyline'>Why: ${reason}</p>` : ''}
