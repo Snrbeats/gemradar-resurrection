@@ -117,12 +117,13 @@ function trackCard(t,{showGem=true}={}){
   const reason=getGemReason(gem)
   
   // Pivot: Check for Solana Artist Coin
-  const hasCoin = !!t.user?.artist_coin_badge?.mint
+  const mint = t.user?.artist_coin_badge?.mint
+  const hasCoin = !!mint
 
   const d=document.createElement('div');d.className='card'
   d.innerHTML=`
     <img src="${img}" onerror="this.style.opacity=.2"/>
-    ${hasCoin ? `<div class="coin-badge">SOL COIN</div>` : ''}
+    ${hasCoin ? `<a href="https://jup.ag/swap/SOL-${mint}" target="_blank" class="coin-badge">SOL COIN</a>` : ''}
     <h4>${t.title||'Untitled'}</h4>
     <p>${artist}</p>
     ${showGem ? `<p class='gemline'>💎 Gem Score: <strong>${gem.score}</strong></p><p class='whyline'>Why: ${reason}</p>` : ''}
@@ -300,27 +301,21 @@ async function renderPicks(){
 }
 
 async function loadHome(){
-  $('#home').innerHTML="<div class='notice'>Loading Gem Feed...</div>"
+  $('#home').innerHTML="<div class='notice'>Scanning the Graveyard for Hidden Talent...</div>"
   try{
-    let trending
-    try{ trending=await get('/tracks/trending?limit=40') } catch { trending=await get('/tracks/search?query=top&limit=40') }
-    const base=trending.data||trending||[]
+    // Search specifically for newer tracks to find the "undiscovered"
+    const r=await get('/tracks/search?query=2026&limit=100')
+    const all=r.data||[]
 
-    // lightweight personalization: seed from liked title token
-    let rec=[]
-    if(state.liked.length){
-      const token=(state.liked[0].title||'mix').split(' ')[0]
-      try{ const r=await get(`/tracks/search?query=${encodeURIComponent(token)}&limit=20`); rec=r.data||[] }catch{}
-    }
-
-    const merged=[...base,...rec].filter((t,i,a)=>a.findIndex(x=>x.id===t.id)===i)
-    const ranked=merged
+    const ranked=all
       .map(t=>({t,score:getGemMetrics(t).score}))
+      // Resurrection logic: Prioritize low play count with high relative engagement
+      .filter(x => x.t.play_count < 1000) 
       .sort((a,b)=>b.score-a.score)
-      .slice(0,30)
+      .slice(0,40)
       .map(x=>x.t)
 
-    renderList($('#home'),ranked,'No gem candidates found',{showGem:true})
+    renderList($('#home'),ranked,'The Graveyard is quiet... for now.',{showGem:true})
   }catch(e){$('#home').innerHTML=`<div class='notice'>${e.message}</div>`}
 }
 
