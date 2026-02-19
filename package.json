@@ -1,0 +1,15 @@
+{
+  "name": "audius-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Audius starter using SDK + REST API",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "search": "node src/search.js"
+  },
+  "dependencies": {
+    "@audius/sdk": "latest",
+    "dotenv": "^16.4.5"
+  }
+}

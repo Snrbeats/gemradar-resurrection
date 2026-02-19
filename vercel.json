@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "webapp-v2/**",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/webapp-v2/index.html"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/webapp-v2/$1"
+    }
+  ]
+}

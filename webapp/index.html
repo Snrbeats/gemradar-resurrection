@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>GemRadar: Resurrection</title>
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <meta name="theme-color" content="#0a0514" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div style="position:fixed;top:-10%;left:-10%;width:40%;height:40%;background:rgba(188,19,254,0.1);filter:blur(100px);border-radius:50%;z-index:-1;pointer-events:none"></div>
+  <div style="position:fixed;bottom:-10%;right:-10%;width:40%;height:40%;background:rgba(57,255,20,0.05);filter:blur(100px);border-radius:50%;z-index:-1;pointer-events:none"></div>
+  
+  <aside class="sidebar">
+    <h1>GemRadar</h1>
+    <button class="tab active" data-tab="home">Resurrection Feed</button>
+    <button class="tab" data-tab="search">Search</button>
+    <button class="tab" data-tab="dailymix">Daily Reroll</button>
+    <button class="tab" data-tab="picks">My Discoveries</button>
+    <button class="tab" data-tab="artist">Artist</button>
+    <div class="box">
+      <label>API Key</label>
+      <input id="apiKey" type="password" placeholder="Audius API Key"/>
+      <button id="saveKey">Save</button>
+    </div>
+    <div class="box">
+      <label>Handle (V2 auth placeholder)</label>
+      <input id="handleInput" placeholder="your_handle" />
+      <button id="saveHandle">Connect</button>
+      <small id="authStatus">Not connected</small>
+      <p style="margin-top:8px; font-size:11px; color:var(--muted); line-height:1.4; border-top:1px solid var(--line); padding-top:8px">
+        <strong>How to find your API Key:</strong><br>
+        Audius Profile > Settings > Developer Settings > Create App.
+      </p>
+    </div>
+  </aside>
+
+  <main>
+    <header>
+      <h2 id="title">Home</h2>
+      <div class="searchbar">
+        <input id="searchInput" placeholder="Search tracks or artists" />
+        <button id="searchBtn">Go</button>
+      </div>
+    </header>
+
+    <section id="home" class="panel"></section>
+    <section id="search" class="panel hidden"></section>
+    <section id="library" class="panel hidden"></section>
+    <section id="smart" class="panel hidden"></section>
+    <section id="dailymix" class="panel hidden"></section>
+    <section id="picks" class="panel hidden"></section>
+    <section id="artist" class="panel hidden"></section>
+  </main>
+
+  <footer class="player">
+    <div class="meta">
+      <img id="cover" alt="cover" />
+      <div>
+        <div id="nowTitle">No track</div>
+        <div id="nowArtist">—</div>
+      </div>
+    </div>
+    <div class="controls">
+      <button id="prevBtn">⏮</button>
+      <button id="nextBtn">⏭</button>
+      <button id="shuffleBtn">🔀</button>
+    </div>
+    <audio id="audio" controls></audio>
+  </footer>
+
+  <script type="module" src="./app-v2.5.js"></script>
+  <small style="position:fixed;bottom:10px;right:10px;opacity:0.3;font-size:10px;pointer-events:none">v2.5 (Clean)</small>
+</body>
+</html>
