@@ -231,12 +231,42 @@ async function renderDailyMix(){
     const mix = shuffled.slice(0, 15)
     
     renderList(el,mix,'Mix failed.')
-    const btn = document.createElement('button')
-    btn.textContent = '🔄 Re-roll Mix'
-    btn.className = 'notice'
-    btn.style.cursor = 'pointer'
-    btn.onclick = () => renderDailyMix()
-    el.prepend(btn)
+    const btnRow = document.createElement('div')
+    btnRow.className = 'notice'
+    btnRow.style.display = 'flex'
+    btnRow.style.gap = '8px'
+    btnRow.style.justifyContent = 'center'
+    
+    const reBtn = document.createElement('button')
+    reBtn.textContent = '🔄 Re-roll Mix'
+    reBtn.onclick = () => renderDailyMix()
+    
+    const underdogBtn = document.createElement('button')
+    underdogBtn.textContent = '🐶 Sort by Underdog'
+    underdogBtn.onclick = () => {
+      const sorted = mix.sort((a,b) => {
+        const ma = getGemMetrics(a);
+        const mb = getGemMetrics(b);
+        return mb.underdog - ma.underdog;
+      })
+      renderList(el, sorted, 'Sort failed.')
+      el.prepend(btnRow)
+    }
+    
+    const freshBtn = document.createElement('button')
+    freshBtn.textContent = '🕒 Sort by Freshness'
+    freshBtn.onclick = () => {
+      const sorted = mix.sort((a,b) => {
+        const ma = getGemMetrics(a);
+        const mb = getGemMetrics(b);
+        return mb.freshness - ma.freshness;
+      })
+      renderList(el, sorted, 'Sort failed.')
+      el.prepend(btnRow)
+    }
+
+    btnRow.append(reBtn, underdogBtn, freshBtn)
+    el.prepend(btnRow)
   }catch(e){
     el.innerHTML=`<div class='notice'>${e.message}</div>`
   }
@@ -280,8 +310,35 @@ async function renderPicks(){
   el.innerHTML=''
   const banner=document.createElement('div')
   banner.className='notice'
-  banner.innerHTML=`Scout Score: <strong>${total}</strong> • Picks: <strong>${scored.length}</strong> • Rank logic: +1 point / 50 streams gained after your pick`
+  banner.innerHTML=`
+    Scout Score: <strong>${total}</strong> • Picks: <strong>${scored.length}</strong> • Rank logic: +1 point / 50 streams gained after your pick
+    <br><button id="exportProof" style="margin-top:8px; font-size:11px; padding:4px 8px; cursor:pointer">Export Scout Proof (cNFT JSON)</button>
+  `
   el.appendChild(banner)
+  
+  $('#exportProof').onclick = () => {
+    const proof = {
+      type: "GemRadarScoutProof",
+      version: "1.0",
+      scout: state.handle || 'anonymous',
+      totalScoutScore: total,
+      timestamp: new Date().toISOString(),
+      picks: scored.map(p => ({
+        id: p.id,
+        title: p.title,
+        artist: p.artist,
+        gain: p.streamGain,
+        points: p.scoutPoints
+      }))
+    }
+    const blob = new Blob([JSON.stringify(proof, null, 2)], {type: 'application/json'})
+    const url = URL.createObjectURL(blob)
+    const a = document.createElement('a')
+    a.href = url
+    a.download = `gemradar-scout-proof-${Date.now()}.json`
+    a.click()
+    URL.revokeObjectURL(url)
+  }
 
   scored.forEach(p=>{
     const d=document.createElement('div')
