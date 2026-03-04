@@ -11,6 +11,8 @@ const state={
   shuffle:false,
   repeat:false,
   currentTrack:null,
+  playbackStarted:false,
+  playbackErrorRetries:0,
   currentArtistId:null,
   currentArtistHandle:'',
   currentArtistName:''
@@ -58,6 +60,11 @@ document.addEventListener('keydown',(e)=>{
 // Audio element event listeners
 const audio=$('#audio')
 audio.addEventListener('ended',()=>{
+  if(!state.playbackStarted){
+    console.warn('[GemRadar] Ignoring ended before playback starts')
+    return
+  }
+
   // Guard against premature end (stream fails to start properly)
   if(audio.currentTime>0 && audio.currentTime<5){
     console.warn('[GemRadar] Track ended too early, retrying same track')
@@ -77,10 +84,24 @@ audio.addEventListener('ended',()=>{
 
 audio.addEventListener('error',(e)=>{
   console.error('Audio error:',e)
-  // On error, skip to next track after a short delay
+  // Retry once if the stream errored before playback really started.
+  if(!state.playbackStarted && state.currentTrack && state.playbackErrorRetries<1){
+    state.playbackErrorRetries += 1
+    setTimeout(()=>{
+      audio.currentTime=0
+      audio.load()
+      audio.play().catch(()=>{})
+    },500)
+    return
+  }
+
+  // On error after playback start, skip to next track after a short delay.
   setTimeout(()=>nextTrack(),500)
 })
-audio.addEventListener('timeupdate',updateProgress)
+audio.addEventListener('timeupdate',()=>{
+  if(audio.currentTime>0.25) state.playbackStarted=true
+  updateProgress()
+})
 audio.addEventListener('loadedmetadata',()=>{
   $('#duration').textContent=formatTime(audio.duration||0)
 })
@@ -288,6 +309,8 @@ function addQueue(t){state.queue.push(t); if(state.queueIndex<0) state.queueInde
 
 function playNow(t, listContext=null){
   state.currentTrack=t
+  state.playbackStarted=false
+  state.playbackErrorRetries=0
   if(listContext) state.queue = [...listContext]
   
   // Always ensure the track is in the queue and set correct index
@@ -300,7 +323,10 @@ function playNow(t, listContext=null){
   }
   
   const a=$('#audio')
+  a.pause()
+  a.currentTime=0
   a.src=`${API}/tracks/${t.id}/stream`
+  a.load()
   a.play().catch(()=>{})
   
   $('#cover').src=t.artwork?.['150x150']||''
