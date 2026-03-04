@@ -274,8 +274,15 @@ function addQueue(t){state.queue.push(t); if(state.queueIndex<0) state.queueInde
 function playNow(t, listContext=null){
   state.currentTrack=t
   if(listContext) state.queue = [...listContext]
-  if(!state.queue.some(q=>q.id===t.id)) addQueue(t)
-  state.queueIndex=state.queue.findIndex(q=>q.id===t.id)
+  
+  // Always ensure the track is in the queue and set correct index
+  const existingIndex = state.queue.findIndex(q=>q.id===t.id)
+  if(existingIndex === -1) {
+    addQueue(t)
+    state.queueIndex = state.queue.length - 1
+  } else {
+    state.queueIndex = existingIndex
+  }
   
   const a=$('#audio')
   a.src=`${API}/tracks/${t.id}/stream`
