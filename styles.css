@@ -359,12 +359,14 @@ header {
   background: transparent;
   border: none;
   color: var(--muted);
-  font-size: 20px;
   cursor: pointer;
   padding: 8px;
   margin-left: 8px;
   transition: all 0.2s;
   opacity: 0.7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .like-btn:hover {
@@ -375,6 +377,10 @@ header {
 .like-btn.liked {
   color: var(--accent);
   opacity: 1;
+}
+
+.like-btn svg {
+  transition: all 0.2s;
 }
 
 /* Center: Playback Controls */

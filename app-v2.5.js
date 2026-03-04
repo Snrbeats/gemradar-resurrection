@@ -70,10 +70,12 @@ audio.addEventListener('loadedmetadata',()=>{
   $('#duration').textContent=formatTime(audio.duration||0)
 })
 audio.addEventListener('play',()=>{
-  $('#playPauseBtn').textContent='⏸'
+  $('#playIcon').style.display='none'
+  $('#pauseIcon').style.display='block'
 })
 audio.addEventListener('pause',()=>{
-  $('#playPauseBtn').textContent='▶'
+  $('#playIcon').style.display='block'
+  $('#pauseIcon').style.display='none'
 })
 
 // Seek slider
@@ -107,10 +109,15 @@ function updateProgress(){
 }
 
 function updateVolumeIcon(volume){
-  const btn=$('#muteBtn')
-  if(volume===0) btn.textContent='🔇'
-  else if(volume<0.5) btn.textContent='🔉'
-  else btn.textContent='🔊'
+  const high=$('#volHighIcon')
+  const mute=$('#volMuteIcon')
+  if(volume===0){
+    high.style.display='none'
+    mute.style.display='block'
+  } else {
+    high.style.display='block'
+    mute.style.display='none'
+  }
 }
 
 function toggleShuffle(){
@@ -155,8 +162,11 @@ function updateLikeButton(){
   if(!state.currentTrack) return
   const liked=state.liked.some(x=>x.id===state.currentTrack.id)
   const btn=$('#likeBtn')
-  btn.textContent=liked?'♥':'♡'
   btn.classList.toggle('liked',liked)
+  const svg=btn.querySelector('svg')
+  if(svg){
+    svg.style.fill=liked?'var(--accent)':'none'
+  }
 }
 
 function setTab(tab){
