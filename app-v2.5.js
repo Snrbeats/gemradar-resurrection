@@ -11,8 +11,8 @@ const state={
   shuffle:false,
   repeat:false,
   currentTrack:null,
-  playbackStarted:false,
-  playbackErrorRetries:0,
+  badStreams:new Set(),
+  isSkipping:false,
   currentArtistId:null,
   currentArtistHandle:'',
   currentArtistName:''
@@ -59,49 +59,21 @@ document.addEventListener('keydown',(e)=>{
 
 // Audio element event listeners
 const audio=$('#audio')
-audio.addEventListener('ended',()=>{
-  if(!state.playbackStarted){
-    console.warn('[GemRadar] Ignoring ended before playback starts')
-    return
-  }
-
-  // Guard against premature end (stream fails to start properly)
-  if(audio.currentTime>0 && audio.currentTime<5){
-    console.warn('[GemRadar] Track ended too early, retrying same track')
-    if(state.currentTrack){
-      audio.currentTime=0
-      audio.play().catch(()=>{})
-      return
-    }
-  }
+audio.addEventListener('ended',async ()=>{
+  if(state.isSkipping) return
   if(state.repeat){
-    audio.currentTime=0
-    audio.play().catch(()=>{})
-  } else {
-    nextTrack()
+    if(state.currentTrack) await playNow(state.currentTrack)
+  }else{
+    await nextTrack()
   }
 })
 
-audio.addEventListener('error',(e)=>{
+audio.addEventListener('error',async (e)=>{
   console.error('Audio error:',e)
-  // Retry once if the stream errored before playback really started.
-  if(!state.playbackStarted && state.currentTrack && state.playbackErrorRetries<1){
-    state.playbackErrorRetries += 1
-    setTimeout(()=>{
-      audio.currentTime=0
-      audio.load()
-      audio.play().catch(()=>{})
-    },500)
-    return
-  }
-
-  // On error after playback start, skip to next track after a short delay.
-  setTimeout(()=>nextTrack(),500)
+  if(state.isSkipping) return
+  await nextTrack()
 })
-audio.addEventListener('timeupdate',()=>{
-  if(audio.currentTime>0.25) state.playbackStarted=true
-  updateProgress()
-})
+audio.addEventListener('timeupdate',updateProgress)
 audio.addEventListener('loadedmetadata',()=>{
   $('#duration').textContent=formatTime(audio.duration||0)
 })
@@ -307,46 +279,128 @@ function renderList(el,arr,msg='No items',opts={showGem:true}){
 
 function addQueue(t){state.queue.push(t); if(state.queueIndex<0) state.queueIndex=0}
 
-function playNow(t, listContext=null){
-  state.currentTrack=t
-  state.playbackStarted=false
-  state.playbackErrorRetries=0
-  if(listContext) state.queue = [...listContext]
-  
-  // Always ensure the track is in the queue and set correct index
-  const existingIndex = state.queue.findIndex(q=>q.id===t.id)
-  if(existingIndex === -1) {
-    addQueue(t)
-    state.queueIndex = state.queue.length - 1
-  } else {
-    state.queueIndex = existingIndex
+// Pre-validate that a stream URL actually works before playing
+async function testStream(trackId){
+  if(state.badStreams.has(trackId)) return false
+  try{
+    const controller=new AbortController()
+    const timeout=setTimeout(()=>controller.abort(),5000)
+    const res=await fetch(`${API}/tracks/${trackId}/stream`,{
+      method:'HEAD',
+      signal:controller.signal
+    })
+    clearTimeout(timeout)
+    if(res.ok || res.status===206) return true
+    state.badStreams.add(trackId)
+    return false
+  }catch(e){
+    state.badStreams.add(trackId)
+    return false
   }
-  
+}
+
+// Find next playable track in queue
+async function findPlayableTrack(){
+  let attempts=0
+  const maxAttempts=15
+  while(state.queue.length>0 && attempts<maxAttempts){
+    const candidate=state.queue[state.queueIndex]
+    if(!candidate) break
+    if(state.badStreams.has(candidate.id)){
+      attempts++
+      state.queueIndex=(state.queueIndex+1)%state.queue.length
+      continue
+    }
+    const ok=await testStream(candidate.id)
+    if(ok) return candidate
+    console.warn('[GemRadar] Stream dead for:',candidate.title||candidate.id)
+    state.badStreams.add(candidate.id)
+    attempts++
+    state.queueIndex=(state.queueIndex+1)%state.queue.length
+  }
+  return null
+}
+
+async function playNow(t,listContext=null){
+  if(state.isSkipping) return
+  state.isSkipping=true
+
+  state.currentTrack=t
+  if(listContext) state.queue=[...listContext]
+
+  const existingIndex=state.queue.findIndex(q=>q.id===t.id)
+  if(existingIndex===-1){
+    addQueue(t)
+    state.queueIndex=state.queue.length-1
+  }else{
+    state.queueIndex=existingIndex
+  }
+
+  const streamOk=await testStream(t.id)
+  if(!streamOk){
+    console.warn('[GemRadar] Stream validation failed, trying next...')
+    const next=await findPlayableTrack()
+    if(next){
+      state.isSkipping=false
+      playNow(next)
+      return
+    }
+    state.isSkipping=false
+    return
+  }
+
   const a=$('#audio')
   a.pause()
   a.currentTime=0
   a.src=`${API}/tracks/${t.id}/stream`
   a.load()
-  a.play().catch(()=>{})
-  
+
+  try{
+    await a.play()
+  }catch(e){
+    console.error('Play failed:',e)
+    state.badStreams.add(t.id)
+    const next=await findPlayableTrack()
+    if(next){
+      state.isSkipping=false
+      playNow(next)
+      return
+    }
+  }
+
   $('#cover').src=t.artwork?.['150x150']||''
   $('#nowTitle').textContent=t.title||'Untitled'
   $('#nowArtist').textContent=t.user?.name||t.user?.handle||'Unknown'
-  
+
   updateLikeButton()
+  state.isSkipping=false
 }
 
-function nextTrack(){
-  if(!state.queue.length) return
+async function nextTrack(){
+  if(state.isSkipping || !state.queue.length) return
+  state.isSkipping=true
   if(state.shuffle){state.queueIndex=Math.floor(Math.random()*state.queue.length)}
-  else state.queueIndex=(state.queueIndex+1)%state.queue.length
-  playNow(state.queue[state.queueIndex])
+  else{state.queueIndex=(state.queueIndex+1)%state.queue.length}
+  const next=await findPlayableTrack()
+  if(next){
+    state.isSkipping=false
+    playNow(next)
+  }else{
+    state.isSkipping=false
+  }
 }
 
-function prevTrack(){
-  if(!state.queue.length) return
+async function prevTrack(){
+  if(state.isSkipping || !state.queue.length) return
+  state.isSkipping=true
   state.queueIndex=(state.queueIndex-1+state.queue.length)%state.queue.length
-  playNow(state.queue[state.queueIndex])
+  const prev=await findPlayableTrack()
+  if(prev){
+    state.isSkipping=false
+    playNow(prev)
+  }else{
+    state.isSkipping=false
+  }
 }
 
 function toggleLike(t){
