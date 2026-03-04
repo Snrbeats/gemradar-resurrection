@@ -58,12 +58,27 @@ document.addEventListener('keydown',(e)=>{
 // Audio element event listeners
 const audio=$('#audio')
 audio.addEventListener('ended',()=>{
+  // Guard against premature end (stream fails to start properly)
+  if(audio.currentTime>0 && audio.currentTime<5){
+    console.warn('[GemRadar] Track ended too early, retrying same track')
+    if(state.currentTrack){
+      audio.currentTime=0
+      audio.play().catch(()=>{})
+      return
+    }
+  }
   if(state.repeat){
     audio.currentTime=0
     audio.play().catch(()=>{})
   } else {
     nextTrack()
   }
+})
+
+audio.addEventListener('error',(e)=>{
+  console.error('Audio error:',e)
+  // On error, skip to next track after a short delay
+  setTimeout(()=>nextTrack(),500)
 })
 audio.addEventListener('timeupdate',updateProgress)
 audio.addEventListener('loadedmetadata',()=>{
