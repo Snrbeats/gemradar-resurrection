@@ -1,0 +1,9 @@
+{
+  "name": "Wave v2",
+  "short_name": "Wave",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0a1024",
+  "theme_color": "#0e1530",
+  "icons": []
+}
